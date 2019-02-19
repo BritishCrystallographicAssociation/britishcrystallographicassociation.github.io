@@ -43,14 +43,13 @@ Membership runs from 1st January to 31st December each year. If you join between
 
 Note that concessions are available to students, the unemployed, and our retired members only.
 Membership Grade Fee (by Cheque/CC/Direct Debit)
-Full Membership 	£35.00 
-Concessions 	£17.50 
+See the application form for up-to-date membership packages.
 
-### (B) Only for Student Members – Four Year Term payment £50.00
+### (B) Only for Student Members – Four Year Term payment
 
 Postgraduate students are strongly encouraged to join for the whole period of their PhD training and this option is designed to make this easier.
 
-### (C) Only for Overseas Members – Five Year Term payment £150.00 (in GBP)
+### (C) Only for Overseas Members – Five Year Term payment (in GBP)
 
 This recognises the difficulty and cost associated with our valued overseas members making payment in pounds sterling. Note that payment by credit card is the best option for overseas members.
 Details on Corporate Membership are given elsewhere.
