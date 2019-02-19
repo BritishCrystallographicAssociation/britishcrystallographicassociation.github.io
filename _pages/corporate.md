@@ -17,5 +17,5 @@ The BCA values its close ties with companies and organisations involved with cry
 *        Ten complimentary copies of the quarterly Crystallography News
 *        Corporate Members will be listed in every Crystallography News and on the BCA website with clickable links to your organisation’s website
 
-The cost of membership is £750.00 per annum. To apply please contact [BCA Administrative Office]({{ site.url }}/about/contact/).
+For current rates and to apply please contact [BCA Administrative Office]({{ site.url }}/about/contact/).
 
