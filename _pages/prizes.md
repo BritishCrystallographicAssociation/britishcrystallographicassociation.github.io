@@ -29,7 +29,7 @@ Nominations for this prize are welcomed from any part of the crystallographic co
 
 ## The Bragg Lecture
 
-The BCA is proud to have hosted many recent Bragg Lectures. Lecturers are chosen by the Bragg Lecture Fund Committee approximately every three years and the lecture is one of the highlights of the British Crystallographic Association Spring Meeting programme. The current Bragg Committee (mid-2013) is: Professor Richard Catlow FRS, Department of Chemistry and Head of the MAPS Faculty, UCL; Professor Frank James Professor of the History of Science and Head of Collections, The Royal Institution; Professor Elspeth Garman, Professor of Molecular Biophysics, University of Oxford. The Bragg Committee are happy to receive suggestions for future Bragg Lecturers via the BCA.
+The BCA is proud to have hosted many recent Bragg Lectures. Lecturers are chosen by the Bragg Lecture Fund Committee approximately every three years and the lecture is one of the highlights of the British Crystallographic Association Spring Meeting programme. The current Bragg Committee (mid-2013) is: Professor Paul Raithby, Department of Chemistry, University of Bath; Professor Frank James Professor of the History of Science and Head of Collections, The Royal Institution; Professor Elspeth Garman, Professor of Molecular Biophysics, University of Oxford. The Bragg Committee are happy to receive suggestions for future Bragg Lecturers via the BCA.
 
 ### Previous Awards
 
