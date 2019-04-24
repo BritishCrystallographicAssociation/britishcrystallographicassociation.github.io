@@ -10,5 +10,5 @@
 
 ## Website
 
-The dedicated site [learn.crystallography.org.uk](http://learn.crystallography.org.uk) contains a number of resources and examples of crystallographic outreach projects.
+The dedicated site [learn.crystallography.org.uk](http://learn.crystallography.org.uk) contains a number of resources, including downloadable project packs and examples of crystallographic outreach projects.
 
