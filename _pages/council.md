@@ -61,10 +61,10 @@ Email: s.j.coles@soton.ac.uk
 ## Ordinary Members
 
 ### Dr Cheryl Doherty (2021)
-Pfizer IPC 009  
-Ramsgate Road  
-Sandwich CT13 9ND  
-Email: cheryl.doherty@pfizer.com
+GSK
+Stevenage 
+Herts SG1 2NY
+Email: cheryl.x.doherty@gsk.com
 
 ### Dr Anna Warren (2022)
 Diamond Light Source  
