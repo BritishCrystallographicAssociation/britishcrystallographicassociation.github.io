@@ -12,6 +12,40 @@
 
 Notes: Dates within ( ) indicate year due for re-election or retirement
 
+
+## BCA council 2018-2019
+
+### Officers
+* President & Representative to Scientific Unions Committee (SUC) of the Royal Society: Prof Simon Philips (2021) University of Oxford
+* Vice-President: Prof Richard I. Cooper (2019) University of Oxford 
+* Secretary: Dr Claire Wilson (2019) University of Glasgow 
+* Treasurer: Dr Elizabeth Shotton (co-opted) 
+
+### Education and Outreach Coordinator
+Prof Simon J Coles (2021) University of Southampton
+
+### Ordinary Members
+
+* Dr Cheryl Doherty (2021) GSK
+* Dr Anna Warren (2019) Diamond Light Source
+* Dr Hazel Sparkes (2020) University of Bristol
+
+### Group Representatives:
+
+* Dr Mark Roe (Biological Structures) University of Sussex
+* Dr Gary Nichol (Chemical Crystallography) University of Edinburgh
+* Dr David Beveridge (Industrial) HARMAN technology Ltd
+* Dr Helen Playford (Physical Crystallography) Rutherford Appleton Laboratory
+* Dr Elliot Carrington (Young Crystallographers) University of Liverpool
+
+### Co-opted members
+* Dr Emma McCabe (2019, Spring Meeting Programme Chair)
+* Dr Alexandra Stanley (2018, Bursaries Co-ordinator)
+
+### Ex officio
+* Professor Carl H Schwalbe (Crystallography News Editor)
+* Nicola Hardaker, HG3 Ltd (BCA Administrative Officer)
+
 ## BCA council 2017-2018
 
 ### Officers
