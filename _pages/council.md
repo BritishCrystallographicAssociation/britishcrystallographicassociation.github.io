@@ -26,7 +26,7 @@ Peter Guthrie Tait Road
 Edinburgh EH9 3FD
 
 ## Secretary
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/claire-wilson-284x300.jpg){: .align-right}{:width="200px"}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/alex_stanleyBCA.jpg){: .align-right}{:width="200px"}
 ### Dr Alexandra Stanley (2022)  
 Rigaku Europe  
 Email: secretary@crystallography.org.uk 
