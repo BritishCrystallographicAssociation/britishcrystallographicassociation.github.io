@@ -27,14 +27,9 @@ Edinburgh EH9 3FD
 
 ## Secretary
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/claire-wilson-284x300.jpg){: .align-right}{:width="200px"}
-### Dr Claire Wilson (2019)  
-School of Chemistry  
-University of Glasgow 
-Joseph Black Building  
-Glasgow G12 8QQ  
-Email: claire.wilson.2@glasgow.ac.uk  
-Tel: +44 (0)141 330 3214
-
+### Dr Alexandra Stanley (2022)  
+Rigaku Europe  
+Email: secretary@crystallography.org.uk 
  
 ## Treasurer
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/elizabeth-shotton-115x150.jpg){: .align-right}{:width="200px"}
@@ -71,7 +66,7 @@ Ramsgate Road
 Sandwich CT13 9ND  
 Email: cheryl.doherty@pfizer.com
 
-### Dr Anna Warren (2019)
+### Dr Anna Warren (2022)
 Diamond Light Source  
 Harwell Science and Innovation Campus  
 Didcot, Oxfordshire OX11 0DE  
@@ -133,16 +128,10 @@ Email: elliot.carrington@liverpool.ac.uk
  
 
 ## Co-opted members
-### Dr Emma McCabe (2019, Spring Meeting Programme Chair)
-Email: E.E.McCabe@kent.ac.uk
+### Dr Thomas Edwards (2020, Spring Meeting Programme Chair)
+Email: t.a.edwards@leeds.ac.uk
 
- 
-### Dr Alexandra Stanley (2018, Bursaries Co-ordinator)
-Rigaku Corporation  
-Unit B6, Chaucer Business Park  
-Watery Lane, Kemsing  
-Sevenoaks TN15 6QY  
-Email: alex.griffin@rigaku.com
+
 
  
 ## Ex officio
