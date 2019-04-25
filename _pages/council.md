@@ -17,13 +17,13 @@ E-mail: president@crystallography.org.uk
 
  
 ## Vice-President
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/SimonParsons.jpg){: .align-right}{:width="200px"}
 ### Professor Simon Parsons (2022)  
-Centre for Science at Extreme Conditions
-University of Edinburgh
-Erskine Williamson Building
-Peter Guthrie Tait Road
-Edinburgh
-EH9 3FD
+Centre for Science at Extreme Conditions  
+University of Edinburgh  
+Erskine Williamson Building  
+Peter Guthrie Tait Road  
+Edinburgh EH9 3FD
 
 ## Secretary
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/claire-wilson-284x300.jpg){: .align-right}{:width="200px"}
