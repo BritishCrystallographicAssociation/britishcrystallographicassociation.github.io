@@ -61,9 +61,9 @@ Email: s.j.coles@soton.ac.uk
 ## Ordinary Members
 
 ### Dr Cheryl Doherty (2021)
-GSK
-Stevenage 
-Herts SG1 2NY
+GSK  
+Stevenage  
+Herts SG1 2NY  
 Email: cheryl.x.doherty@gsk.com
 
 ### Dr Anna Warren (2022)
