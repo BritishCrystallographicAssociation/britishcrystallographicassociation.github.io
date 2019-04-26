@@ -60,7 +60,8 @@ Email: s.j.coles@soton.ac.uk
 
 ## Ordinary Members
 
-### Dr Cheryl Doherty (2021)
+### Dr Cheryl Doherty (2021) 
+#### Bursary Officer (2019-present)
 GSK  
 Stevenage  
 Herts SG1 2NY  
