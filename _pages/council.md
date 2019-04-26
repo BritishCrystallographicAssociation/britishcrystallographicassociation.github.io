@@ -30,7 +30,17 @@ Edinburgh EH9 3FD
 ### Dr Alexandra Stanley (2022)  
 Rigaku Europe  
 Email: secretary@crystallography.org.uk 
- 
+  
+{% comment %} 
+This comment here to increase spacing
+{% endcomment %}
+  
+  
+{% comment %} 
+This comment here to increase spacing
+{% endcomment %}
+  
+
 ## Treasurer
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/elizabeth-shotton-115x150.jpg){: .align-right}{:width="200px"}
 ### Dr Elizabeth Shotton (co-opted to 2020)
@@ -60,10 +70,11 @@ Email: s.j.coles@soton.ac.uk
 
 ## Ordinary Members
 
-### Dr Cheryl Doherty (2021)
-GSK
-Stevenage 
-Herts SG1 2NY
+### Dr Cheryl Doherty (2021) 
+#### Bursary Officer (2019-present)
+GSK  
+Stevenage  
+Herts SG1 2NY  
 Email: cheryl.x.doherty@gsk.com
 
 ### Dr Anna Warren (2022)
