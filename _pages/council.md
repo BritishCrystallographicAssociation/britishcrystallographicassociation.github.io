@@ -30,15 +30,10 @@ Edinburgh EH9 3FD
 ### Dr Alexandra Stanley (2022)  
 Rigaku Europe  
 Email: secretary@crystallography.org.uk 
-  
-{% comment %} 
-This comment here to increase spacing
-{% endcomment %}
-  
-  
-{% comment %} 
-This comment here to increase spacing
-{% endcomment %}
+
+<br>
+
+<br>
   
 
 ## Treasurer
