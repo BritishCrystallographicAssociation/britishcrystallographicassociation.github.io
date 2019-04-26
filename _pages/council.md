@@ -30,7 +30,17 @@ Edinburgh EH9 3FD
 ### Dr Alexandra Stanley (2022)  
 Rigaku Europe  
 Email: secretary@crystallography.org.uk 
- 
+  
+{% comment %} 
+This comment here to increase spacing
+{% endcomment %}
+  
+  
+{% comment %} 
+This comment here to increase spacing
+{% endcomment %}
+  
+
 ## Treasurer
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/elizabeth-shotton-115x150.jpg){: .align-right}{:width="200px"}
 ### Dr Elizabeth Shotton (co-opted to 2020)
