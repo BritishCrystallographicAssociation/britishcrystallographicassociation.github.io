@@ -1,10 +1,8 @@
 ---
-title:  ""
+title:  "Obituary for Emeritus Professor Dr Carl Schwalbe (2nd June 1942 to 1st August 2019)"
 date:   2019-09-22 09:00:00 +0100
 categories: news
 ---
-
-## Obituary for Emeritus Professor Dr Carl Schwalbe (2nd June 1942 to 1st August 2019) ##
 
 Carl Schwalbe was an outstanding colleague. At his funeral at Halmer End Methodist Church Staffordshire there were glowing tributes from his sons and from his Aston University academic colleagues. It was clear from these tributes that Carl was a family man. We also learned of Carl’s love of classical music and how his wide ranging general knowledge put him in demand for quiz teams.  The printed Order of Service remarked above the picture of Carl, reproduced here, “A man of science”, “A man of great integrity”. My wife Madeleine and I both attended. Carl’s former Head of Department of Pharmacy, Emeritus Professor Malcolm Stevens OBE FRS, included in his tribute to Carl of how on one occasion a young man was explaining in a seminar how he had *dissolved his crystals in order to measure…*..Before he could finish the sentence Carl firmly interrupted *“You did what!?”.*  
 
