@@ -1,0 +1,21 @@
+Mime-version: 1.0
+Content-Type: multipart/mixed; boundary="OpenVMS/MIME.192829.1064524403"
+Content-Transfer-Encoding: 7bit
+Message-ID: <192829.1064524403@OpenVMS>
+
+--OpenVMS/MIME.192829.1064524403
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+Content-Disposition: (null)
+
+Your Meeting Registration Details and Invoice (as HTML file).
+Invoice prints well when viewed with Internet Explorer using
+medium font size.
+
+Do NOT reply to the web server email address!
+
+--OpenVMS/MIME.192829.1064524403
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; filename=details.txt
+

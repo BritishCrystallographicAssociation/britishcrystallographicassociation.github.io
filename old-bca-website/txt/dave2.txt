@@ -1,0 +1,1482 @@
+From:	SMTP%"Djt35@btopenworld.com"  3-JAN-2002 06:58:50.21
+To:	"Jeremy K Cockcroft" <cockcroft@gordon.cryst.bbk.ac.uk>
+CC:	
+Subj:	Web page updates
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0007_01C19423.AE26F740
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0008_01C19423.AE26F740"
+
+
+------=_NextPart_001_0008_01C19423.AE26F740
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Jeremy,
+Happy New Year.
+
+I have some updated files for the web pages relating to 2002 membership =
+- they are attached. It is important that they are updated quickly and =
+before renewals arrive.
+Member.html is a replacement for the existing file of that name.
+Mform02 - supersedes mform01
+crd02 - supersedes crd01
+STOr02 - supersedes STOr01
+donate.html is a new file - I couldn't find the original on the site!
+GAform.rtf is an update for the outdated GAform.zip
+Bur02.html is a replacement for Bur01.html
+
+
+Can you remove the links to last years meetings in the forthcoming =
+meetings section.
+Can you add a link from the index page to Donations and Legacies =
+(donate.html and legacy.html in admin directory)
+
+Regards
+Dave.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dave Taylor
+Tel 01744 893108 -  Fax by arrangement
+E-mail djtaylor@lineone.net
+_________________________________
+
+------=_NextPart_001_0008_01C19423.AE26F740
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1">
+<META content=3D"MSHTML 6.00.2712.300" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3DArial size=3D2>Dear Jeremy,</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>Happy New Year.</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>I have some updated files for the web =
+pages=20
+relating to 2002 membership - they are attached. It is important that =
+they are=20
+updated quickly and before renewals arrive.</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>Member.html is a replacement for the =
+existing file=20
+of that name.</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>Mform02 - supersedes =
+mform01</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>crd02 - supersedes crd01</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>STOr02 - supersedes STOr</FONT><FONT =
+face=3DArial=20
+size=3D2>01</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>donate.html is a new file - I couldn't =
+find the=20
+original on the site!</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>GAform.rtf is an update for =
+the&nbsp;outdated=20
+GAform.zip</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>Bur02.html is a replacement for=20
+Bur01.html</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>Can you remove the links to last years =
+meetings in=20
+the forthcoming meetings section.</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>Can you add a link from the index page =
+to Donations=20
+and Legacies (donate.html and legacy.html in admin =
+directory)</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>Regards</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>Dave.</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<BR>Dave =
+Taylor<BR>Tel=20
+01744 893108 -&nbsp; Fax by arrangement<BR>E-mail <A=20
+href=3D"mailto:djtaylor@lineone.net">djtaylor@lineone.net</A><BR>________=
+_________________________</FONT></DIV></BODY></HTML>
+
+------=_NextPart_001_0008_01C19423.AE26F740--
+
+------=_NextPart_000_0007_01C19423.AE26F740
+Content-Type: text/html;
+	name="member.html"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment;
+	filename="member.html"
+
+<html> =20
+<header> =20
+<TITLE>BCA Membership</TITLE> =20
+</header>       =20
+<body bgcolor=3D"FFFFFF">
+<h1>MEMBERSHIP of the BCA</h1>
+<h3>Benefits of individual membership</h3>
+Here is a list of benefits of belonging to the BCA:
+<ol>
+ <li><strong><em>THE</em></strong> professional organisation for=20
+crystallographers in the UK, operated by crystallographers for=20
+crystallographers
+ <li>Comprehensive schedule of UK meetings, including the Annual BCA =
+Meeting
+each Spring, plus one-day meetings and workshops organised by subject =
+groups
+ <li>Reduced rates for all meetings organised under BCA auspices
+ <li>Regular listings of other meetings of crystallographic interest,
+both in the UK and worldwide
+ <li>After 6 months of membership, students and postdocs can apply for=20
+BCA Bursary awards for attendance at any relevant scientific meeting
+ <li>Receive the free 64-page BCA Newsletter in A4 format every
+quarter,  full of crystallographic news and information, product
+advertisements, meeting schedules, job listings, etc.
+
+ <li>Have your say in the development of crystallography, and nominate =
+and=20
+vote for BCA Officers, Council Members and subject-group Committee =
+Members -=20
+or stand for office yourself
+
+ <li>Current subscription covers UK membership of the European
+Crystallographic Association and over half the UK subscription to IUCr
+ </ol>
+
+<h3>Membership Subscription</h3>
+Ordinary subscriptions for membership are &#163; 15 (pounds sterling) =
+annually,
+due on 1st January each year. Further information from the Treasurer is =
+on=20
+<a href=3D"../CNews/1998/Jun98/Pages.html#p3">
+page 3 of the June 98</a> issue of 'Crystallography News'.<p>
+
+Discounts are available to Students, Retired members, and those who pay =
+by
+Standing Order. There are also special arrangements for Overseas =
+Members.<P>
+
+Click here
+for <a href=3D"mform02.html">details from 1 Jan 2002</a>
+or write for a membership form to our <a href=3D"#admin">Administration =
+office
+.</a><Br>
+
+<a name=3D"DatProt">Members</a> names, addresses and details of their =
+choice of=20
+BCA Groups and date of
+payment of subscriptions are held in a computer database, to simplify =
+our
+membership records and for the mailing of 'Crystallography News'.
+
+Members can check details of their entry in the BCA database at any time =
+
+by contacting the Administration office, or interactively at the Annual =
+Spring=20
+meeting.<p>
+<hr>
+<h1><a name=3D"Us">Contacting</a> the BCA </h1>
+There are three contacts for the BCA
+<ul>
+  <li>The <a href=3D"#admin">BCA Administrative Office</a> for enquiries =
+about:<br>
+   <ul>
+     <li>membership including change of address
+     <li>applications for BCA Bursaries
+     <li>exhibiting at the Annual Spring Conference
+     <li>advertising in the Newsletter
+    </ul>
+
+  <li>The <a href=3D"#news">Newsletter Editor</a> or
+   <li>The <a href=3D"#webm">BCA Webmaster</a> for editorial matters
+</ul>
+ <hr>
+<h2><a name=3D"admin">BCA</a> Administrative Office</h2> =20
+<p>
+BCA Administrative Office<BR>
+1 Tennant Avenue,<BR>=20
+College Milton South, <BR>
+East Kilbride, <BR>
+Glasgow,<BR>=20
+G74 5NA. <BR>
+E-mail: <a href=3Dmailto: =
+bca@glasconf.demon.co.uk>BCA@glasconf.demon.co.uk</a><BR>
+Tel. 01355 244966 <BR>
+Fax. 01355 249959 </P>
+                       =20
+<hr>
+<h2><a name=3D"news">Editor</a> 'Crystallography News'</h2>  =20
+<P>
+Dr Bob Gould,
+<BR>Editor Crystallography News,
+<BR>33 Charterhall Road,
+<BR>Edinburgh,
+<BR>EH9 3HS
+<P>News items and comments are welcome at any time via email to:  <BR>
+E-mail: <A HREF=3D"mailto:bob@gould.ca">bob@gould.ca</A>
+<BR>Tel. 0131 667 7230  </P>
+<hr>
+<h2><a name=3D"webm">BCA Webmaster</h2>  =20
+
+<A HREF=3D"http://img.cryst.bbk.ac.uk/www/cockcroft/homepage.htm">Dr =
+Jeremy K=20
+Cockcroft,</A> (2003)
+<BR><A HREF=3D"http://www.cryst.bbk.ac.uk/">School of =
+Crystallography,</A>
+<BR><A HREF=3D"http://www.bbk.ac.uk/">Birkbeck College,</A>
+<BR>Malet Street,          =20
+<BR>London,
+<BR>WC1E 7HX
+<P>News items and comments are welcome at any time via email to:=20
+ <A =
+HREF=3D"mailto:cockcroft@img.cryst.bbk.ac.uk">cockcroft@img.cryst.bbk.ac.=
+uk</A>
+=20
+ =20
+We are looking for URLs of other interesting places to reference from =20
+the BCA homepage, or news items as text files in ASCII format, or HTML =
+if
+you can make it for us.=20
+<hr>   =20
+Page last updated <em> 3 Jan 2002</em><br>
+<ADDRESS> BCA Treasurer
+<a href=3Dmailto:djtaylor@lineone.net>djtaylor@lineone.net</a>
+</address>
+<a href=3D"../index.html"><img align=3Dmiddle =
+src=3D"../images/bca_min.gif"alt=3D"<--">=20
+  Click here to return to BCA homepage </a>
+</body> =20
+</html>=20
+
+------=_NextPart_000_0007_01C19423.AE26F740
+Content-Type: text/html;
+	name="mform02.html"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment;
+	filename="mform02.html"
+
+<html> =20
+<header> =20
+<TITLE>BCA 2002 membership Form</TITLE> =20
+</header>       =20
+<body bgcolor=3D"FFFFFF">  =20
+<h1>Membership form 2002</h1>
+Please extract the form below from the World Wide Web, print and =
+complete it
+and then send to the BCA Administrative Office (address below).
+ <br>
+If you wish to pay by Credit Card, you should=20
+<a href=3D"crd02.html">click here</a> and complete that form in =
+addition.
+ <br>
+If you wish to pay by Bankers Order, you should=20
+<a href=3D"STOr02.html">click here</a> and complete that form in =
+addition.<br>
+If you pay UK tax at the standard rate, please also complete a=20
+<a href=3D"GAform.rtf">Gift Aid</a>
+form which will allow us to reclaim the tax. <br>
+<a href=3D"donate.html">Donations </a>to our Bursary fund or the Dorothy =
+Hodgkin Prize fund are welcome
+at any time. An easy way to help the BCA is to consider leaving us a =
+Legacy
+in your will, <a href=3D"legacy.html">click here</a> for details.
+<p>
+=20
+<pre>
+------------------------------------cut here-------------      =20
+    Please fill in legibly=20
+
+                                       ___________________________   =
+______=20
+                                                               =20
+                                           Member's  Surname         =
+Initials
+
+                   BRITISH   CRYSTALLOGRAPHIC   ASSOCIATION
+                      Charity Registration No. 284718  =20
+                                                                         =
+ =20
+                                             Membership  Request Form  =
+2002=20
+
+Please circle  one asterisk  (*) in each of the next 3 sections, and=20
+complete box(es) as appropriate, adding name & address and optionally
+making a donation  before signing the form.  =20
+
+Section A:BCA membership, circle one *
+
+My request for 2002 membership is for:=20
+
+        *  New Application to join for the first time.=20
+        *  Renewal after a lapse, membership NOT 2000 but earlier.
+        *  Renewal after membership in 2000, but personalised form
+                   was not received / cannot be found.
+
+Section B: Subscription rate, circle one letter in ( ) only
+
+My subscription RATE is that payable by: =20
+        *  Normal Rate Members  ......       (N)      =A315
+        *  Reduced Rate Members -Student     (S)      =A3 7.50
+                                 Unemployed  (U)      =A3 7.50
+                                 Retired     (R)      =A3 7.50
+
+Student Members Only - please complete next 2 lines:
+    =20
+  I am a full time student and complete my course on _______________
+             and Countersigned by =
+supervisor___________________________________
+
+Section C: Subscription payment, circle one *
+ =20
+My subscription is paid by means of:=20
+   Full  Reduced =20
+   =A315 or =A37.50    * Cheque (in sterling and drawn on a UK (see =
+below) bank )
+                      which is ENCLOSED HEREWITH=20
+   =A312 or =A36    * NEW Standing Order (drawn on a UK bank)=20
+                      which is ENCLOSED HEREWITH
+   =A315 or =A37.50    *  Credit Card (Mastercard, Visa, Visa Delta =
+ONLY) FORM ENCLOSED
+   =A312 or =A34.50    * current 2002 membership of Physical =
+Crystallography Group
+                   of the Institute of Physics
+     =A360        * NEW Term Payment for 5yrs (Overseas members only, =
+see below)
+
+Additional Donation  of   =A3              is enclosed here by cheque OR =
+
+                                         added to my Standing Order
+                                         which is a contribution=20
+       to =A3       The Dorothy Hodgkin Prize Fund=20
+    or to =A3       The BCA Bursary Fund =20
+
+     (If unspecified, all extra money will be split in 2  equal parts. )
+
+Section D: Interest Group Affiliation
+
+  Please circle the * for each group of special
+              interest to you AND underline ONE main interest:
+
+          * BSG Biological Structures Group    =20
+          * CCG Chemical Crystallography Group
+          * IG  Industrial Group       =20
+          * PCG Physical Crystallography Group
+
+Section E: Name and address Details   =20
+
+Title____________   INITIAL(S) _______  =
+NAME____________________________________
+
+ADDRESS         to be used for mailing of Crystallography News=20
+
+    PLEASE  CIRCLE   * IF THIS HAS CHANGED=20
+
+_   _   _   _   _   _   _   _   _   _   _   _   _   _   _   _   _   _   =
+_ =20
+   _   _   _   _   _   _   _   _   _   _   _   _   _   _   _   _   _   _ =
+=20
+_   _   _   _   _   _   _   _   _   _   _   _   _   _   _   _   _   _   =
+_ =20
+
+TEL ____________________   FAX _____________________   E-mail =
+__________________
+
+Date ____________________  Signature =
+___________________________________________
+
+=3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =
+=3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =
+=3D =3D=20
+
+      (CHEQUES payable to British Crystallographic Association)
+
+ALL MEMBERSHIP FORMS  & PAYMENTS  to be sent to:=20
+The BCA Administrative Office, Northern Networking Ltd,
+1 Tennant Avenue, College Milton South, East Kilbride, Glasgow, G74 5NA. =
+
+
+ =20
+For INFORMATION on membership subscriptions - refer to December 1999 =
+issue of
+'CRYSTALLOGRAPHY NEWS' page 56  or write to  the BCA Administrative =
+Office.=20
+
+OVERSEAS MEMBERS:=20
+    Payment in sterling, via bank in UK,=20
+ or add the equivalent of =A36 to cover bank negotiation charge.
+ or use the convenient 5-year Term Payment.
+ or for ease use the new <B>Credit Card </B>payment method.
+
+
+------------------------------------cut here-------------      =20
+</pre>
+ <br>
+   =20
+Page last updated <em> 3 January 2002</em><br>
+<ADDRESS> BCA Treasurer
+<a href=3Dmailto:djtaylor@lineone.net>djtaylor@lineone.net</a>
+</address>
+<a href=3D"../index.html"><img align=3Dmiddle =
+src=3D"../images/bca_min.gif"alt=3D"<--">
+  Click here to return to BCA homepage </a>
+</body> =20
+</html>=20
+
+------=_NextPart_000_0007_01C19423.AE26F740
+Content-Type: text/html;
+	name="crd02.html"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment;
+	filename="crd02.html"
+
+<html> =20
+<header> =20
+<TITLE>BCA Membership Credit Card Form</TITLE> =20
+</header>       =20
+<body bgcolor=3D"FFFFFF">  =20
+<h1>Form to be sent with Membership Form when paying by credit card</h1> =
+
+This form should be completed <strong>in addition</strong> to a BCA=20
+application for membership form by those who wish to pay their =
+subscription
+by Credit Card.<br>
+<p>
+Both Forms should be returned to =20
+<a href=3D"member.html#admin">The BCA Administrative Office </a><br>
+<hr>
+<pre>
+
+CREDIT CARD FORM =20
+
+      (Mastercard, Visa and Visa Delta cards ONLY, NO Switch cards)
+
+Fill in all sections and send this form directly to the BCA =
+Administrative
+Secretary (with a membership form).
+
+Card Type: =20
+(circle one line)
+
+        Mastercard     =20
+        Visa   =20
+        Visa Delta     =20
+
+Payment:  (In Pounds Sterling, from 1st January 2002)
+
+Subscription (Normal rate: =A3 15, Reduced rate: =A3 7.50): =
+..............=20
+Optional Donations:=20
+       Dorothy Hodgkin Fund: =A3..............
+       BCA Bursary fund    : =A3..............
+      =20
+Total amount to be debited from my account: =A3 ...........     =20
+
+Account Number:................................                          =
+ =20
+                                                                         =
+ =20
+                                       =20
+Cardholder's name and initials=20
+       (exactly as they appear on the card):............   =20
+       (for example:  Dr R.J. Smith)
+
+Card 'valid from' date (if given):............................     =20
+Card 'expires end' date:.......................................       =20
+Cardholder's statement address:................................=20
+       =20
+Signed:....................................
+Date:...........................       =20
+
+RETURN this form (with a membership form) to:
+
+ BCA Administrative Office      Tel: + 44 1355 244966
+ Northern Networking Ltd       =20
+ 1 Tennant Avenue               Fax: + 44 1355 249959=20
+ College Milton South
+ East Kilbride
+ Glasgow G74 5NA
+ Scotland, UK
+
+
+</pre>
+-----------------------------------------------cut here ---------------
+ <hr>
+Page last updated <em> 3 January 2002</em><br>
+<ADDRESS> BCA Treasurer
+<a href=3Dmailto:djtaylor@lineone.net>djtaylor@lineone.net</a>
+</address>
+<a href=3D"../index.html"><img align=3Dmiddle =
+src=3D"../images/bca_min.gif"alt=3D"<--">
+  Click here to return to BCA homepage </a>
+</body>
+</html>
+
+------=_NextPart_000_0007_01C19423.AE26F740
+Content-Type: text/html;
+	name="STOr02.html"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment;
+	filename="STOr02.html"
+
+
+<html> =20
+<header> =20
+<TITLE>BCA Memb Standing Order Form</TITLE> =20
+</header>       =20
+<body bgcolor=3D"FFFFFF">  =20
+<h1>Standing Order Form to be sent with Membership</h1>=20
+This form should be completed <strong>in addition</strong> to a BCA=20
+application for membership form by those who wish to pay their =
+subscription
+by Bankers Order.<br>
+<p>
+Both Forms should be returned to:<br>
+<br>
+ The BCA Administrative Office, Northern Networking Ltd, 1 Tennant =
+Avenue,
+College Milton south, East Kilbride, Glasgow G74 5NA, Scotland, UK
+ <br>
+ <br>
+DO NOT send them to your Bank<br>
+
+<pre>
+Note:  This form needs to be printed with 132 characters on a line=20
+
+-------------------------------------------------------------------------=
+-------------------------------------------
+INSTRUCTIONS:        |                          STANDING ORDER MANDATE
+Insert IN CAPITALS   | To: ..................... Bank PLC       No. of =
+your  account which is to be debited:
+name of your bank    |  =
+.....................................................
+and its address;     | =
+.....................................................    Account No. __ =
+____ __ __ __ __ __
+your account number  |  .............................                    =
+  =20
+and account name.    |  ............................. Name of your =
+account which is to be debited:
+  POST CODE .................       (eg: SURNAME, Initials ) =
+.................................
+-------------------------------------------------------------------------=
+-------------------------------------------
+Leave this part      |  PLEASE PAY for the credit of the BRITISH =
+CRYSTALLOGRAPHIC ASSOCIATION
+      BLANK          |  at:  HSBC BANK plc                          =
+ACCOUNT NUMBER       81157981
+for the BCA Treasurer|  of:  56 Queen Street, CARDIFF, CF1 4PX      =
+SORTING CODE NUMBER  40-16-15
+to complete.         |
+                     |  quoting the BCA Reference: SOM _ _ _ _ _ _ _ _ _ =
+_ _ _ _ _ _
+-------------------------------------------------------------------------=
+------------------------------------------
+Insert amount to pay | from my account (as above) the sum of =
+=A3.............. (figures) # ....................(words)
+                     | First payment to be made 1st January 2002 and =
+thereafter on 1st January each year until
+optionally add finish| further notice in writing or =
+until......................... (date of last payment).
+         date        | This supersedes any other standing orders from my =
+account (as above) in favour of the
+                     |   BRITISH CRYSTALLOGRAPHIC ASSOCIATION.
+                     |
+Finally SIGN and date|  =
+Signed.................................................... Date =
+.................20 ......
+-------------------------------------------------------------------------=
+-------------------------------------------
+
+RETURN this form: to the BCA (with a membership form) do<B> NOT</B> send =
+it
+directly to your Bank.
+</pre>
+ <br>
+Page last updated <em> 3 January 2002</em><br>
+<ADDRESS> BCA Treasurer
+<a href=3Dmailto:djtaylor@lineone.net>djtaylor@lineone.net</a>
+</address>
+<a href=3D"../index.html"><img align=3Dmiddle =
+src=3D"../images/bca_min.gif"alt=3D"<--">
+  Click here to return to BCA homepage </a>
+</body> =20
+</html> 
+------=_NextPart_000_0007_01C19423.AE26F740
+Content-Type: text/html;
+	name="donate.html"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment;
+	filename="donate.html"
+
+<html>
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dwindows-1252">
+<meta name=3DGenerator content=3D"Microsoft Word 10 (filtered)">
+<title> </title>
+
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Frutiger 45 Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+h3
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	line-height:14.0pt;
+	page-break-after:avoid;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Frutiger 45 Light";}
+p.MsoDocumentMap, li.MsoDocumentMap, div.MsoDocumentMap
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	background:navy;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:Tahoma;}
+@page Section1
+	{size:21.0cm 842.0pt;
+	margin:1.0cm 42.55pt 39.7pt 2.0cm;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+
+</head>
+
+<body lang=3DEN-GB style=3D'text-justify-trim:punctuation'>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>&nbsp;</span></p>
+
+<p class=3DMsoNormal><img width=3D94 height=3D101 =
+src=3D"images/bcalogo2.gif"
+align=3Dleft hspace=3D12></p>
+
+<h3><span style=3D'font-size:11.0pt;font-family:Arial'>Making a donation =
+to the
+British Crystallographic Association (BCA)</span></h3>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>&nbsp;</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>&nbsp;</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>Please complete =
+the
+Donations Form (A) and give details of amount below.</span></p>
+
+<p class=3DMsoNormal><b><span style=3D'font-family:Arial'>I wish to =
+donate the sums
+specified below:</span></b></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-family:Arial'>=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0 =
+</span></b></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-family:Arial'>=A3.........:.......p</span></b><span
+style=3D'font-family:Arial'> to the <b>General fund</b>=A0 of the =
+British
+Crystallographic Association.</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>&nbsp;</span></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-family:Arial'>=A3.........:.......p</span></b><span
+style=3D'font-family:Arial'>=A0 to the <b>Arnold Beevers</b> <b>Bursary =
+Fund </b>of
+the British Crystallographic Association.</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>&nbsp;</span></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-family:Arial'>=A3.........:.......p</span></b><span
+style=3D'font-family:Arial'> =A0to the <b>Dorothy Hodgkin Prize</b>(DHP) =
+fund.</span></p>
+
+<p class=3DMsoNormal><i><span =
+style=3D'font-family:Arial'>&nbsp;</span></i></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:12.0pt;font-family:Arial'>=A3.........:.......p
+</span></b><b><span style=3D'font-family:Arial'>TOTAL =
+DONATION</span></b></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-family:Arial'>=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0 =
+</span></b></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:14.0pt;font-family:Wingdings'>q</span></b><b><span
+style=3D'font-family:Arial'>=A0=A0=A0=A0=A0 </span></b><span =
+style=3D'font-family:Arial'>I am
+a UK income tax payer.=A0 Please complete a <b>GIFT AID</b> declaration =
+if you
+pay tax in the UK.</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>&nbsp;</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>Return this form =
+to: <b>BCA</b>
+<b>Treasurer, British Crystallographic Association, Administrative =
+Office,</b></span></p>
+
+<p class=3DMsoNormal><b><span style=3D'font-family:Arial'>=A0<span =
+style=3D'layout-grid-mode:
+line'>1 Tennant Avenue, College Milton South, East Kilbride, Glasgow G74 =
+5NA =A0 </span></span></b></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:Helvetica;layout-grid-mode:line'>Tel
+01355 244966, Fax 01355 249959 </span><span =
+style=3D'font-family:Arial'>=A0</span><span
+style=3D'font-family:Helvetica;layout-grid-mode:line'>E-mail:
+BCA@glasconf.demon.co.uk</span></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-family:Arial'>.............................................=
+.........................................................................=
+...............................</span></b></p>
+
+<p class=3DMsoNormal><b><span style=3D'font-family:Arial'>A. Donations =
+Form</span></b></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>I wish to donate =
+the total
+sum of =A3..........................................I wish to pay =
+by:</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>&nbsp;</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;font-family:Wingdings'>q</span><span
+style=3D'font-family:Arial'> Cheque - please enclose your cheque made =
+out to <i>British
+Crystallographic Association</i></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;font-family:Wingdings'>q</span><span
+style=3D'font-family:Arial'> Banker=92s Order - please complete section =
+(B) below,
+please consider regular payments.</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;font-family:Wingdings'>q</span><span
+style=3D'font-family:Arial'> Credit card - please complete the =
+following:</span></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-family:Arial'>&nbsp;</span></b></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>Name on card (IN
+CAPITALS)................................................... Card Type =
+(eg
+Visa, Delta <b>NOT Switch</b>)</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>Billing =
+Address.=A0=A0=A0=A0=A0=A0=A0=A0=A0
+.........................................................................=
+.................................</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:Arial'>=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0 =
+.........................................................................=
+................................</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:Arial'>=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0 =
+.........................................................................=
+................................</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>Card No __=A0 =
+__=A0 __=A0 __--__=A0
+__=A0 __=A0 __--__=A0 __=A0 __=A0 __--__=A0 __=A0 __=A0 =
+__=A0=A0=A0=A0=A0=A0=A0=A0=A0 </span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>Expiry
+Date.................................</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>&nbsp;</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:Arial'>Signature....................................=
+....................................=A0=A0=A0=A0=A0 =
+Date...........................................</span></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-family:Arial'>.............................................=
+.........................................................................=
+...............................</span></b></p>
+
+<p class=3DMsoNormal><b><span style=3D'font-family:Arial'>B. BANKER=92S =
+ORDER=A0=A0=A0
+Please return this form to the BCA, NOT to your bank</span></b></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>&nbsp;</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>To the
+Manager..................................................................=
+.........Bank</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>&nbsp;</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>Branch address =
+=A0=A0=A0=A0=A0=A0=A0=A0=A0 =
+.........................................................................=
+......</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:Arial'>=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0 =
+.........................................................................=
+......</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:Arial'>=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0 =
+.........................................................................=
+..=85</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>&nbsp;</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>Sort =
+Code=A0=A0=A0=A0=A0=A0=A0=A0=A0
+_____--_____--_____=A0=A0=A0=A0=A0=A0=A0=A0=A0 Account no:=A0 =
+________________________</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>&nbsp;</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>Account in the =
+Name of
+.........................................................................=
+...............</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>&nbsp;</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>Please pay the =
+British
+Crystallographic Association<i>,</i> HSBC, 56 Queen Street, Cardiff, CF1 =
+4PX, </span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>Account no. =
+81157981,
+Sortcode 40-16-15,</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>&nbsp;</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>the sum of =
+=A3.........................(amount
+in
+figures).............................................................(amo=
+unts
+in words) </span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>&nbsp;</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>on the
+...............................day of =
+...................................
+20=85.....=A0 and on the same day for the following........years =
+(<i>delete if
+inapplicable</i>) and debit my account accordingly.</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:Arial'>&nbsp;</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:Arial'>Signed=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+ =
+.........................................................................=
+......=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0
+Date.................................</span></p>
+
+<p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b><span
+style=3D'font-family:Arial'>&nbsp;</span></b></p>
+
+<p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b><span
+style=3D'font-size:9.0pt;font-family:Arial'>Legacies in favour of the =
+British
+Crystallographic Association are welcome, for more details contact the =
+BCA
+Treasurer or check the BCA website -
+<a =
+href=3D>http://bca.cryst.bbk.ac.uk/BCA/admin/legacy.html</a></span></b></=
+p>
+
+<p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b><span
+style=3D'font-family:Arial'>&nbsp;</span></b></p>
+
+<p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b><span
+style=3D'font-family:Arial'>Thank you for your Support</span></b></p>
+
+<p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b><span
+style=3D'font-family:Arial'>The British Crystallographic Association is
+registered charity no:=A0 284718</span></b></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_000_0007_01C19423.AE26F740
+Content-Type: text/html;
+	name="Burs02.html"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment;
+	filename="Burs02.html"
+
+<html>
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dwindows-1252">
+<meta name=3DGenerator content=3D"Microsoft Word 10 (filtered)">
+<title>General Bursaries 2001</title>
+
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#606420;
+	text-decoration:underline;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:70.85pt 63.65pt 2.0cm 63.65pt;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+</head>
+
+<body lang=3DEN-GB link=3Dblue vlink=3D"#606420" =
+style=3D'text-justify-trim:punctuation'>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><b><span style=3D'font-size:12.0pt'>ARNOLD BEEVERS =
+BURSARIES
+IN 2002</span></b></p>
+
+<p class=3DMsoNormal>&nbsp;</p>
+
+<p class=3DMsoNormal>The bursary fund was renamed the Arnold Beevers =
+Bursary Fund
+in April 2001 and endowed with =A320,000 from the funds received from =
+Crystal
+Congress Glasgow. BCA Council gratefully acknowledges several generous
+donations to the fund in its first few months of operation and welcomes =
+further
+contributions to this worthwhile cause.</p>
+
+<p class=3DMsoNormal><b>GIFT AID: </b>The funds have also been boosted =
+by a
+council decision to allocate Gift Aid refunds to the Arnold Beevers =
+Bursary
+Fund. The 2001 Gift Aid refund of=A0 =A3668.32 has added to the fund and =
+council
+thanks the 183 members who have signed a gift aid declaration and =
+contributed
+to the claim. Members who haven't already done so and are eligible for =
+the
+scheme are encouraged to sign a Gift Aid declaration. Your membership =
+renewal
+documents for 2002 will advise you if you have already signed a =
+form.</p>
+
+<p class=3DMsoNormal>&nbsp;</p>
+
+<p class=3DMsoNormal><b>Applying for Bursaries in 2002</b></p>
+
+<p class=3DMsoNormal><b>&nbsp;</b></p>
+
+<p class=3DMsoNormal><b>Bursaries for Nottingham Spring Meeting (25- 28 =
+March
+2002):</b></p>
+
+<p class=3DMsoNormal>A limited number of bursaries are available from =
+the Arnold
+Beevers Bursary Fund to cover the =A3165 three day accommodation package =
+and =A315
+student conference dinner at Nottingham (Student Registration is Free). =
+The
+bursary will not cover travel expenses and recipients will be expected =
+to
+present a poster.</p>
+
+<p class=3DMsoNormal>Council is seeking commercial sponsors of Spring =
+Meeting
+Bursaries and it is hoped to offer some Named Bursaries at this =
+meeting.</p>
+
+<p class=3DMsoNormal>The <b>closing date</b> for all applications is =
+<b>25th
+January 2002</b>, applicants should ask for an Arnold Beevers bursary
+application form from the BCA Administrative Office (details below).</p>
+
+<p class=3DMsoNormal>&nbsp;</p>
+
+<p class=3DMsoNormal><b>Bursaries for other BCA Meetings and =
+Schools:</b></p>
+
+<p class=3DMsoNormal>These are administered directly by the organisers =
+of the
+Meeting or Teaching School. They will publicise the procedure for their =
+bursary
+applications, whether funded by the BCA itself or a constituent =
+group.</p>
+
+<p class=3DMsoNormal>&nbsp;</p>
+
+<p class=3DMsoNormal><b>General Bursaries:</b></p>
+
+<p class=3DMsoNormal>Arnold Beevers Bursaries are available to members, =
+(see
+point (a) below) who wish to attend relevant scientific meetings in the =
+UK or
+abroad which are not organised by the BCA.</p>
+
+<p class=3DMsoNormal>&nbsp;</p>
+
+<p class=3DMsoNormal>All applications are considered by the BCA Bursary
+Committee, comprising the President, Vice President, Treasurer and =
+Secretary
+and are guided by the following considerations: </p>
+
+<p class=3DMsoNormal>&nbsp;</p>
+
+<p class=3DMsoNormal>(a) The bursaries are primarily intended to support =
+bona
+fide research students and postdoctoral workers who are BCA members.
+Applications from those with more senior non-tenured positions, and from =
+those
+in junior permanent positions where university or industrial funds are
+unavailable, may be supported at the discretion of the BCA Bursary =
+Committee if
+BCA funds are available. </p>
+
+<p class=3DMsoNormal>(b) Applicants must normally have been a BCA member =
+for 6
+months before applying. </p>
+
+<p class=3DMsoNormal>(c) Applicants will not normally be considered if =
+they have
+been awarded a general bursary in the previous two years. </p>
+
+<p class=3DMsoNormal>(d) Preference will be given to applicants who have =
+attended
+a BCA meeting. Applications must be received at least 6 weeks before the =
+date
+of the meeting/visit. No retrospective applications are possible. </p>
+
+<p class=3DMsoNormal><b>&nbsp;</b></p>
+
+<p class=3DMsoNormal>&nbsp;</p>
+
+<p class=3DMsoNormal>Successful applicants are expected to submit a
+word-processed short scientific report on the meeting/visit soon after =
+their
+return; this should include details of the sessions attended and of the =
+applicant's
+presentation. The reports may be submitted via electronic mail to the <a
+href=3D"../My%20Documents/Dell/BCA/My%20Documents/Dell/BCA/Treasurer/memb=
+er.html#admin"><span
+style=3D'color:windowtext;text-decoration:none'>=A0BCA Administrative =
+Office </span></a>=A0and
+may be published later in '<em>Crystallography News</em>'. </p>
+
+<p class=3DMsoNormal>&nbsp;</p>
+
+<p class=3DMsoNormal><b>Applicants should ask for an Arnold Beevers =
+bursary application
+form from the BCA Administrative Office</b></p>
+
+<p class=3DMsoNormal>&nbsp;</p>
+
+<p class=3DMsoNormal>&nbsp;</p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:Arial'>BCA
+Administrative Office</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:Arial'>Northern
+Networking=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0 Telephone:
+=A0=A0=A0=A0=A0=A0=A0=A0=A0 +44 (0)1355 244966</span></p>
+
+<p class=3DMsoNormal><span style=3D'font-size:9.0pt;font-family:Arial'>1 =
+Tennant
+Avenue, College Milton =
+South=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0 =
+Fax:=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0 +44 (0)1355 249959</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:Arial'>East
+Kilbride, Glasgow, G74 5NA, Scotland, =
+UK=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0 e-mail:=A0=A0 =A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0 bca<span
+class=3DMsoHyperlink><span =
+style=3D'color:windowtext;text-decoration:none'>@glasconf.demon.co.uk</sp=
+an></span></span></p>
+
+<p class=3DMsoNormal>&nbsp;</p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_000_0007_01C19423.AE26F740
+Content-Type: application/msword;
+	name="GAform.RTF"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment;
+	filename="GAform.RTF"
+
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfb=
+i0\deflang2057\deflangfe2057{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panos=
+e 02020603050405020304}Times New Roman;}
+{\f4\fswiss\fcharset0\fprq2{\*\panose =
+020b0604020202020204}Helvetica{\*\falt =
+Arial};}{\f36\froman\fcharset0\fprq2{\*\panose =
+02020603050405020304}Times{\*\falt Times New =
+Roman};}{\f37\froman\fcharset238\fprq2 Times New Roman CE;}
+{\f38\froman\fcharset204\fprq2 Times New Roman =
+Cyr;}{\f40\froman\fcharset161\fprq2 Times New Roman =
+Greek;}{\f41\froman\fcharset162\fprq2 Times New Roman =
+Tur;}{\f42\froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f43\froman\fcharset178\fprq2 Times New Roman =
+(Arabic);}{\f44\froman\fcharset186\fprq2 Times New Roman =
+Baltic;}{\f45\froman\fcharset163\fprq2 Times New Roman =
+(Vietnamese);}{\f77\fswiss\fcharset238\fprq2 Helvetica CE{\*\falt =
+Arial};}
+{\f78\fswiss\fcharset204\fprq2 Helvetica Cyr{\*\falt =
+Arial};}{\f80\fswiss\fcharset161\fprq2 Helvetica Greek{\*\falt =
+Arial};}{\f81\fswiss\fcharset162\fprq2 Helvetica Tur{\*\falt =
+Arial};}{\f82\fswiss\fcharset177\fprq2 Helvetica (Hebrew){\*\falt =
+Arial};}
+{\f83\fswiss\fcharset178\fprq2 Helvetica (Arabic){\*\falt =
+Arial};}{\f84\fswiss\fcharset186\fprq2 Helvetica Baltic{\*\falt =
+Arial};}{\f85\fswiss\fcharset163\fprq2 Helvetica (Vietnamese){\*\falt =
+Arial};}
+{\f397\froman\fcharset238\fprq2 Times CE{\*\falt Times New =
+Roman};}{\f398\froman\fcharset204\fprq2 Times Cyr{\*\falt Times New =
+Roman};}{\f400\froman\fcharset161\fprq2 Times Greek{\*\falt Times New =
+Roman};}
+{\f401\froman\fcharset162\fprq2 Times Tur{\*\falt Times New =
+Roman};}{\f402\froman\fcharset177\fprq2 Times (Hebrew){\*\falt Times New =
+Roman};}{\f403\froman\fcharset178\fprq2 Times (Arabic){\*\falt Times New =
+Roman};}
+{\f404\froman\fcharset186\fprq2 Times Baltic{\*\falt Times New =
+Roman};}{\f405\froman\fcharset163\fprq2 Times (Vietnamese){\*\falt Times =
+New =
+Roman};}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green25=
+5\blue255;\red0\green255\blue0;
+\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red25=
+5\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\gree=
+n128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\b=
+lue0;\red128\green128\blue128;
+\red192\green192\blue192;}{\stylesheet{\ql =
+\li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 =
+\fs20\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 \snext0 =
+Normal;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpad=
+dfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdr=
+l\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv=20
+\ql =
+\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 =
+\fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 =
+\ssemihidden Normal Table;}}{\*\rsidtbl =
+\rsid9574301\rsid13966288\rsid14564238}
+{\*\generator Microsoft Word 10.0.3416;}{\info{\author Dave =
+Taylor}{\operator Dave =
+Taylor}{\creatim\yr2002\mo1\dy3\hr6\min37}{\revtim\yr2002\mo1\dy3\hr6\min=
+37}{\version2}{\edmins1}{\nofpages1}{\nofwords401}{\nofchars2286}
+{\*\company Dell Computer =
+Corporation}{\nofcharsws2682}{\vern16453}}\paperw11907\paperh16840\margl1=
+134\margr1134 =
+\widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospa=
+ceforul\hyphcaps0\horzdoc\dghspace120\dgvspace120\dghorigin1701
+\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\nolnhta=
+djtbl\rsidroot9574301 \fet0\sectd =
+\psz9\linex0\headery709\footery709\colsx709\sectdefaultcl\sftnbj =
+{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta =
+.}}{\*\pnseclvl2
+\pnucltr\pnstart1\pnindent720\pnhang {\pntxta =
+.}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta =
+.}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta =
+)}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta =
+)}}{\*\pnseclvl6
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta =
+)}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta =
+)}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta =
+)}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang=20
+{\pntxtb (}{\pntxta )}}\pard\plain \ql =
+\li0\ri0\nowidctlpar\faauto\adjustright\rin0\lin0\itap0 =
+\fs20\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 =
+{\lang1024\langfe1024\noproof\insrsid14564238=20
+{\shp{\*\shpinst\shpleft0\shptop0\shpright1404\shpbottom1512\shpfhdr0\shp=
+bxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr2\shpwrk2\shpfblwtxt0\shp=
+z0\shplid1026{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv =
+0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn pib}{\sv=20
+{\pict\picscalex80\picscaley80\piccropl0\piccropr0\piccropt0\piccropb0\pi=
+cw3096\pich3334\picwgoal1755\pichgoal1890\pngblip\bliptag-1904488416{\*\b=
+lipuid 8e7bd0201e78d348ff66e027788ee67c}
+89504e470d0a1a0a0000000d49484452000000750000007e08030000002d1dae4d0000000=
+373424954080808dbe14fe000000006504c5445000000ffffffa5d9
+9fdd00000001624b47440088051d480000034e49444154789ceddbdb6edc300c0450faff7=
+fba08d2ec5ad4706648c70e8a460f4960933cba19d616dd387ea2c5
+afaaf33edad36ac4257696f809ced92beaf1ac1aafb10edd4156aced1135f676bf0ad081d=
+b4bc066dfed84036be836821761fddd65fdd8b57cfeab07bb81b9f4
+59e9b35edc5e7745baae15056a66a2e71a31b0e00e745c23021643e57d57de2f0ae1e2ae2=
+bd4b24851da64f9cdba4459d972d92d964eea1a6eadf2545a55ba3a
+91ddd75dc6316a9278d952152eee8ab11fe43ea57bd142ed27a760732079e4f205578d2d6=
+ccf5666d1e36aeaf2f5581b56cb817a6a1db9de8063c217c1182a94
+b88b4a4c327335fa7133153ade9f8cf643489adc4201ea291d8e17aac7ebf3cbda3f575d2=
+4573d4e17416f5d15f739efb33c561463a928a09e8a9529abb4d5ed
+33f5b24b5057b628adc21997eab610686fdda31e5b18ccf1d4fcca18a868246c2a96d28fa=
+aa9f555b86a77ab70d16e56e3ab3da9c6a93da5c6da9e51df58626f
+5751dadd2a4ebb592df37ed59f5029fbefa92b9382ef5043ab8c9da9fbfcf6f6d3483d578=
+dd8d91bd5459083056fe4a61a9b4a233e2f5c54c164ee49b1f5ec92
+5aae20bc01267fa2ee634877e07a5f5379e10c9466fbad7e0a2f4ce466b4aff27196ce446=
+5b3f77755f1847c8b5a98604ab8db518dda266ba9a5595614b0aba2
+a2e780ca9dab7aa07845c47c70550d543ddf335599fb4943c2be5a57a9c624321cb5eeb99=
+a4970d754e5746936f265a912f3fc3a022c39e1089599f804a35cad
+52f31d5babc0952a370f5c49b94ab551c1ae2e578589d6a264aba35456a5991ca56236a95=
+dd4600fc0e2d7b6f9723e75d77617d534c1d0f460df7d036a3eb478
+a8c9c6d7139ed4778f940a9b4e63ea1075f67131c35754b5019730b49b683a1b8aeee8d7c=
+5ba432e4a77212e5abc53276ae360519e1f1a68c996d347227d14b3
+64c5d8296fbf2cd0f5444de68d2f061f0c1462bb8412acbed38ea3fb3cdcfbdf376c9cbc0=
+f5584ceb5b50dad432e65d32c56daab304069d437d4e8c73baf63d7
+f5fbe89d3dacfe77faa743ace15a9ba8a56ab767ba2a77bba6aff27751fbf9b223f170276=
+64b056eccd0eeb70cde46c494ecabc5e1b45da49b0086db2e31faa6cc8b1a9a3375f9d790=
+49fe85ef5dbd7e3ea7f2d3db6dea7c4d2fa997daffa4fe0161ee2ac4eb6042d7000000004=
+9454e44ae426082}
+}}{\sp{\sn pibFlags}{\sv 2}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn =
+fLayoutInCell}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv =
+0}}}{\shprslt\par\pard\ql =
+\li0\ri0\widctlpar\pvpara\dxfrtext180\dfrmtxtx180\dfrmtxty0\aspalpha\aspn=
+um\faauto\adjustright\rin0\lin0\itap0=20
+{\pict\picscalex80\picscaley80\piccropl0\piccropr0\piccropt0\piccropb0\pi=
+cw3096\pich3334\picwgoal1755\pichgoal1890\wmetafile8\bliptag-1904488416{\=
+*\blipuid 8e7bd0201e78d348ff66e027788ee67c}
+0100090000033604000000001504000000000400000003010800050000000b02000000000=
+50000000c027f007600030000001e0015040000410b2000cc007e00
+7500000000007e0075000000000028000000750000007e000000010001000000000000000=
+0000000000000000000000000000000000000000000ffffff00ffff
+fffffffffffffffffffffffff801fffffffffffffffffffffffffffff801fffffffffffff=
+ffffffffffffffff801ffffffffffffff07fffffffffffff801ffff
+fffffffffe03fffffffffffff801fffffffffffffc71fffffffffffff801fffffffffffff=
+0f0fffffffffffff801ffffffffffffe0f07ffffffffffff801ffff
+ffffffff80201ffffffffffff801ffffffffffff000007fffffffffff801fffffffffffc0=
+10003fffffffffff801fffffffffff007f8007ffffffffff801ffff
+ffffffc01ffe003ffffffffff801ffffffffff003fff800ffffffffff801fffffffffe00f=
+fffe003fffffffff801fffffffff803fffff800fffffffff801ffff
+ffffe00ffffffe003ffffffff801ffffffff801fffffff801ffffffff801ffffffff007ff=
+fffffe007fffffff801fffffff801fffffffff801fffffff801ffff
+fff003fffffffffe007ffffff801ffffffc00fffffffffff001ffffff801ffffff803ffff=
+fffffffc00ffffff801fffffe00703fffffffffe003fffff801ffff
+f803f8007ffff8007c00fffff801ffffe007fe03fffff0007e003ffff801ffff801fff07f=
+ffff803ff000ffff801ffff003fff87fffffc07ffc007fff801fffc
+00ffffc3fffff80ffff000fff801fff803ffffe1fffff01ffffc007ff801ff0007ffffe1f=
+ffff03ffffe003ff801fe001ffffff0ffffe03fffff0003f801fe38
+fffffff80000007fffffe000f801fe78fffffff8000000fffffff018f801fe787ffffffc0=
+00000fffffff83cf801fe303ffffffc1fffc1fffffffe3cf801fe00
+0ffffffe0fff83fffffffe18f801ff0003ffffff07ff87fffffff000f801ff0c00ffffff0=
+7ff07ffffffc000f801ff0e007fffff83fe0fffffff0001f801ff0f
+801fffffc3fe0ffffffe0003f800ff0fe007ffffc1fc1ffffff00083f801ff0ff003ffffe=
+0f83fffffc00383f801ff0ff800fffff0f07fffff000f83f801ff0f
+fe003ffff0707ffffc003f83f801ff0fff800ffff820fffff000ff83f801ff0fffc003fff=
+c01ffffc003ff83f801ff0ffff001fffc03ffff800fff83f801ff0f
+fff8007ffe03fffe001fff83f800ff0ffffe003fff07fff8007fff83f801ff0ffcff800ff=
+f0fffc003ffff83f801ff0ffe3fc003ff8fff8007ffff83f801ff0f
+ff1ff001ff9ffe001fffff83f801ff0fff07f8007ffff8003fffff83f801ff0fff81fe000=
+fffc001ffffff83f801ff0fff807f0007ff8003ffffff83f800ff0f
+ff803fc001ce000fffffff83f801ff0fffc00fe00000003fffffff83f801ff0fffc001f80=
+00000ff00ffff83f801ff0fffc100fe000003fc007fff83f801ff0f
+ffc1c07f007007f0001fff83f801ff0fffc1e03fc0f01fe0001fff83f801ff0fffc1f81fe=
+0f87fc07f0fff83f801ff0fffc1fe07f0707f81ffcfff83f800ff0f
+ffc1ff07f000ff81ffefff83f801ff0fffc1ff03f000ff03ffffff83f801ff0fffc1ff83f=
+801ff03ffffff83f801ff0fffc1ffc1fe07fe03ffffff83f801ff0f
+ffc1ffe1fe07fe07ffffff83f801ff0fffc1ffe0fe07fc07ffffff83f801ff0fffc1ffe0f=
+e07fc07ffffff83f800ff0fffc1ffe0fe07fc0fffffff83f801ff0f
+ffc1ffe0fe07fc0fffffff83f801ff0fffc1ffe0fe07fc0fffffff83f801ff0fffc0ffc1f=
+e07fc0fffffff83f801ff0fffc03fc1fe07fc0fffffff83f801ff0f
+ffc00701fe07fc0fffffff83f801ff0fffc20003fe07fc0fffffff83f800ff0fffc38007f=
+e07fc0fffffff83f800ff0fffc3c01ffe07fc0fffffff83f801ff0f
+ffc3f03ffe07fc0fffffff83f801ff0fffc3f81ffe07fc0fffffff83f801ff0fffc3fc1ff=
+e07fc0fffffff83f801ff0fffc3fc1ffe07fc0fffdfff83f801ff0f
+ffc3fe0ffe07fe07ffcfff83f801ff07ffc3fe07fe07fe07ff8fff83f801fe03ff83fe07f=
+e07fe07ff8fff83f800fc03ff03fe07fe07ff03ff8fff83f801fc71
+f803fe07fe07ff03ff0fff01f801fcf1fe03fe07fe07ff81fe0ffe00f801fc70ff83fe07f=
+e07ff80fc0ffe38f801fc003fc0fe07fe07ffc0780ffe38f801fe00
+1ff03c07fe07ffe0002ff838f800ff8007fc0007fe07fff000ffe000f800fffc01fe000ff=
+e07fff803ff8001f801fffe00ff800ffe07fffc07fe0003f801ffff
+803fc03ffe07ffffdffc00fff801ffffe00ff9fffe07ffffffe003fff801fffff007fffff=
+e07ffffffc00ffff801fffff801fffffe07ffffff001ffff801ffff
+fe007ffffe07fffffc007ffff801ffffff803ffffe07fffff001fffff800ffffffc00ffff=
+e07ffffc007fffff801fffffff003fffe07ffff001ffffff801ffff
+fffc01fffe07fffc007ffffff801fffffffe007ffe07fff800fffffff801ffffffff801ff=
+e07ffe003fffffff801ffffffffc007fe07ff800ffffffff800ffff
+fffff003fe07fe003ffffffff801fffffffff800fe07f800fffffffff801fffffffffe003=
+e07e003fffffffff801ffffffffff801e078007fffffffff801ffff
+ffffffc00606003ffffffffff801ffffffffffe00004007ffffffffff801fffffffffff80=
+00001fffffffffff800fffffffffffe000007fffffffffff801ffff
+ffffffff00001ffffffffffff800ffffffffffffc0007ffffffffffff801fffffffffffff=
+0e0fffffffffffff801fffffffffffff8f3fffffffffffff801ffff
+fffffffff8e3fffffffffffff801fffffffffffffc07fffffffffffff801fffffffffffff=
+e0ffffffffffffff801fffffffffffffffffffffffffffff801ffffffffffffffffffffff=
+fffffff800fffffffffffffffffffffffffffff801040000002701ffff030000000000}\p=
+ar}}}{
+\b\f4\fs21\cgrid0\insrsid9574301 \line=20
+\par }\pard \qc \li0\ri0\nowidctlpar\faauto\adjustright\rin0\lin0\itap0 =
+{\b\f4\fs28\cgrid0\insrsid9574301 Gift Aid Declaration\line =
+}{\f36\fs28\cgrid0\insrsid9574301=20
+\par }{\b\f4\fs22\cgrid0\insrsid9574301 For UK taxpayers only, see notes =
+below.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\adjustright\rin0\lin0\itap0 =
+{\b\f4\fs22\cgrid0\insrsid9574301=20
+\par }{\f4\fs22\cgrid0\insrsid9574301 I want the Charity No 284718 - =
+BRITISH CRYSTALLOGRAPHIC ASSOCIATION (BCA) to treat=20
+\par }{\b\i\f4\fs22\cgrid0\insrsid9574301 all donations and membership =
+payments I have made since 6 April =
+2000,}{\i\f36\fs22\cgrid0\insrsid9574301 \tab =
+}{\f4\fs22\cgrid0\insrsid9574301=20
+\par as Gift Aid donations until I notify the BCA otherwise.
+\par }{\i\f4\fs22\cgrid0\insrsid9574301=20
+\par }{\f4\fs22\cgrid0\insrsid9574301 Details of donor:\line Title . . . =
+. . . . . . .Forename(s)  . . . . . . . . . . . . . . . . . . . . . =
+.Surname  . . . . . . . . . . . . . . . . . . . . .
+\par=20
+\par Address . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . =
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . =
+. .=20
+\par \line . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . =
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . =
+. . . \line=20
+\par  . . . . . . . . . . . . . . . . . . . . . .Post Code . . . . . . . =
+. . . . . . . . . . . . . . .\line=20
+\par Date  . . . ./  . . . .  / . . . .\tab  Signature. . . . . . . . . =
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . =
+.
+\par Please send your completed form by post or Fax to:\line=20
+\par British Crystallographic Association, Administrative Office, 1 =
+Tennant Avenue,
+\par College Milton South, East Kilbride, Glasgow G74 5NA \tab Tel 01355 =
+244966, Fax 01355 249959
+\par E-mail: BCA@glasconf.demon.co.uk
+\par }{\b\f4\fs22\cgrid0\insrsid9574301 Notes:=20
+\par A change in UK }{\b\i\f4\fs22\cgrid0\insrsid9574301 'Gift =
+Aid'}{\b\f4\fs22\cgrid0\insrsid9574301=20
+ tax legislation since 5 April 2000 allows the BCA to recover tax paid =
+to the United Kingdom Government on all donations (including membership =
+subscriptions) made to the BCA under the terms of this declaration.
+\par }{\f4\fs22\cgrid0\insrsid9574301=20
+\par 1. You can cancel this declaration at any time by notifying the BCA =
+at the address above.
+\par=20
+\par 2. You must pay an amount of United Kingdom income tax and/or =
+capital gains tax at least equal to the tax that the charity reclaims on =
+your donations in the tax year (currently 28p for each \'a31 you give, =
+or \'a34.20 on a standard membership fee of \'a3
+15 ).
+\par=20
+\par 3. If in the future your circumstances change and you no longer pay =
+tax in the United Kingdom on your income / capital gains equal to the =
+tax that the charity reclaims, please cancel your declaration (see note =
+1).
+\par=20
+\par 4. If you pay income tax at the higher rate you can claim further =
+tax relief in your Self-Assessment tax return.
+\par=20
+\par 5. If you are unsure whether your donations qualify for Gift Aid =
+tax relief, ask the BCA Administrative Office, or ask your local tax =
+office for leaflet }{\i\f4\fs22\cgrid0\insrsid9574301 IR113 Gift =
+Aid}{\f4\fs22\cgrid0\insrsid9574301 .
+\par=20
+\par 6. If you started paying tax after 6 April 2001 then change the =
+second line to read:}{\b\i\f4\fs22\cgrid0\insrsid9574301  =
+}{\i\f4\fs22\cgrid0\insrsid9574301 all donations and membership payments =
+I have made since  }{\b\i\f4\fs22\cgrid0\insrsid9574301=20
+the date of this declaration}{\b\f4\fs22\cgrid0\insrsid9574301 =
+,}{\f4\fs22\cgrid0\insrsid9574301  and date your form accordingly.
+\par=20
+\par 7. Please notify the BCA Administrative Office when you change your =
+name or address.
+\par }\pard \qc \li0\ri0\nowidctlpar\faauto\adjustright\rin0\lin0\itap0 =
+{\b\f4\fs22\cgrid0\insrsid9574301 \line Thank you for your Support\line =
+}{\f4\fs17\cgrid0\insrsid9574301 The British Crystallographic =
+Association is a Registered Charity No: 284718
+\par }}
+------=_NextPart_000_0007_01C19423.AE26F740--
+
+
+================== RFC 822 Headers ==================
+Return-Path: Djt35@btopenworld.com
+Received: by gordon.cryst.bbk.ac.uk (UCX V4.2-21, OpenVMS V6.2 Alpha);
+	Thu, 3 Jan 2002 06:58:47 GMT
+Received: from rhenium (rhenium.btinternet.com [194.73.73.93])
+	by jess.cryst.bbk.ac.uk (8.11.2/8.9.3) with ESMTP id g036xB101883
+	for <cockcroft@gordon.cryst.bbk.ac.uk>; Thu, 3 Jan 2002 06:59:11 GMT
+Received: from host213-122-56-23.btinternet.com ([213.122.56.23] helo=David)
+	by rhenium with smtp (Exim 3.22 #8)
+	id 16M1nD-0002cs-00
+	for cockcroft@gordon.cryst.bbk.ac.uk; Thu, 03 Jan 2002 06:56:00 +0000
+Message-ID: <000b01c19423$b080ecd0$17387ad5@David>
+From: "David Taylor" <Djt35@btopenworld.com>
+To: "Jeremy K Cockcroft" <cockcroft@gordon.cryst.bbk.ac.uk>
+Subject: Web page updates
+Date: Thu, 3 Jan 2002 06:55:50 -0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0007_01C19423.AE26F740"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000

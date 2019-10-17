@@ -1,0 +1,25 @@
+   Naming Conventions for files 
+
+This directory stores IG newsletters, which are issued several times a year
+
+1. The HTML files are divided into two parts, the newsy parts which quickly
+get outdated, names are 
+     NYR-n.html
+where YR = last 2 digits of the year, n is the issue number
+
+and the technical articles which remain of current interest these are named
+    NYRTn.html
+so that the two files can be identified as related.
+
+2. The associated image files also have names relating them to the file which
+calls them. e.g.
+  file N97T1.html calls 97T1f1.gif 97T1f2.gif 97T1f3.gif 97T1f4.gif
+  file N97-2.html calls 97-2F1.JPG
+  file N97T2.html calls 97T2f1.gif 97T2f2.gif
+  file N98T1.html calls 98T1f1.gif,
+  file N98-2.html calls 98-2f1.jpg   
+  file N98T2.html calls 98t2f1.gif  98t2f2.jpg  98t2f3.jpg  98t2f4.gif
+
+rule:
+    take calling filename, remove letter N at beginning
+    add fn   where f denotes a figure  n is its number

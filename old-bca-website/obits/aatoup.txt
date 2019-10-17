@@ -1,0 +1,82 @@
+to update May 06
+  stored in WMay30O.zip
+Obits
+   obits.html, names.html, index.html
+   CVS
+     ARL.htm
+   Obit05
+       index.htm
+       FC.htm
+       MW.htm
+       RCE.htm
+       RCE.jpg
+       MRT.htm
+       RS.htm
+ stored in WMay30C.zip
+CNews
+   index.html
+ /history
+   index.htm
+
+/books/
+  index.html
+  indal.htm
+  indwd.htm
+
+ /books/book05/ all files
+  index.htm
+   Bragg.htm, Bragg.jpg
+  CCDC.htm
+  Dec05.htm
+  Jun06.htm
+  Mar05.htm
+  Mar06.htm
+  Polany.jpg
+  Steno.htm
+  Steno.jpg
+  
+-------------------------------------
+last books are Dec 2004, need all 05, 06 & obits?
+
+-------------9 Jan 06 in WJan09.zip
+CNews/people/honchr.htm
+Obits
+   Ohons.htm
+   Obits.html
+-----28 Apr 05
+         in WApr28C.zip
+CNews/people/honchr.htm
+            Hons.htm
+CNews/1999/Sep99/Ind70.html
+Cnews/1999/IUCr99/page7.html
+CNews/2005/RSobit.htm
+
+          in WApr28O.zip
+Obits
+  index.html
+  obits.html
+  names.html
+   UKtim.html
+
+Obits/CVS/
+   ARL.htm
+   DWJC.html
+   GS.htm
+   index.html
+
+
+------------------------------
+  files to update 26 Jan 04 WJan24.zip
+
+Cnews
+  cnews/htm pdat04/htm xtlnew/htm 
+    2003
+      images
+        DNA50/jpg
+
+Obits
+   names.html
+    CVS
+      cnow.htm cold.html
+
+

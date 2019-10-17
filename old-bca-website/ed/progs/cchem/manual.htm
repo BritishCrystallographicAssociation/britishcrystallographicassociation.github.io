@@ -1,0 +1,280 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>  
+<header>  
+<TITLE>Crystallography Software</TITLE>
+</header>        
+<body bgcolor="FFfFff">
+<center>
+<h1>Atomic Packing<br> and Crystal Structure</h1></center>
+<p>
+There are now 3 versions of this collection of the four related programs; this
+manual was originally distributed with the version for the BBC Model B (and
+Master) microcomputer; it has since been adapted for all 3 versions. 
+ 
+</p>
+The sections of this manual are:
+<ul>
+  <li><a href="#binst">Running Instructions - getting started BBC-B</a>
+       and using !65Host which emulates a BBC-B on RISCOS
+  <li><a href="#rinst">Running Instructions - getting started RISCOS</a>
+  <li><a href="#pinst">Running Instructions - getting started PC DOS</a>
+  <li><a href="#gen">General information</a> for all 3 versions
+  <li><a href="#one">1st program</a>
+  <li><a href="#two">2nd program</a>
+  <li><a href="#three">3rd program</a>
+  <li><a href="#four">4th program</a>
+  <li>Hints on <a href="#photo">photographing the screen</a>
+</ul>
+<a name="binst">&nbsp;</a>
+<h3>Running Instructions- getting started BBC-B or !65Host </h3>
+<p>
+The software will be more effective if used with a colour monitor, although
+all programs can be run using a monochrome display with suitable contrast
+and brightness settings. The package is compatible with the Watford 32K extension RAM or a TORCH pack
+or any second processors.</p>
+
+<p> This set of programs was originally  supplied on a 5.25in 40- or
+80-track DFS floppy disc for the BBC Model B microcomputer.  Single sided
+(40 track) discs have 3 of the programs on one disc,  with the fourth one on
+another.  The images of these two 'discs' are in the directories 'side0' and
+'side2' in this archive.</p>
+ 
+<p>
+Choose the way you want to run this program by clicking on your choice 
+in the list below:
+<ul>
+  <li>either on a real <a href="#bbcb">BBC-B micro or Master 128</a>
+  <li>or on a <a href="#bbcem">RISCOS micro using the emulator program,</a>
+ !65Host.
+</ul>
+<a name="bbcb"><hr></a>
+<h3> Using a BBC Model B or Master </h3>
+<p>
+Somehow you have to get these directories 'side0' and
+'side2' from the archive onto DFS floppy discs in order to run them on
+a BBC-B or Master computer. They were read using an external 5.25" disc drive
+on an A540, a Beebug disc interface and !DFS.<br>
+<p>
+<strong>To Start</strong><br>
+ Insert the disc in drive 0.<br>
+Press SHIFT and touch the BREAK key to start. Or set the computer into
+the Directory 'side0' and type CHAIN "MENU" 
+ </p>
+
+<p>
+The disc should not be removed from the disc drive; because of the
+amount of material presented, the programs are written in sections,
+and pause from time to time to read more data from the disc. When
+this is happening, a message to êWaitë appears on the screen and the
+disc drive is activated and makes a whirring noise: do not worry, this
+is quite normal. <a href="#gen">Click here</a> to skip to the section on
+general running instructions. 
+</p>
+<hr>
+<a name="bbcem">&nbsp;</a>
+<h3> Using RISCOS and the BBC emulator !65Host </h3>
+These programs run outside the desktop, mostly in graphics MODE 1 with an
+introduction in MODE 7. They cannot be run from a task window.
+<br>
+ <strong>You will need a monitor capable of displaying these modes.</strong>
+<br><br>
+Download the BBC/zip and unpack it using the !SparkFS utility, into
+two directories 'side0' and 'side2'.<br>
+Double click on !65Host to start the emulator running.<br>
+Enter *dir commands to make 'side0' the current directory.<br>
+Type   Chain "MENU" to start the package.
+<a href="#gen">Click here</a> to skip to the section on
+general running instructions. 
+<hr>
+<a name="rinst">&nbsp;</a>
+<h3>Running Instructions- getting started RISCOS </h3>
+<p>
+These programs are simple adaptations of the ones written for the BBC-B with
+just the machine dependent pieces changed to use standard BASIC
+instructions. They are stored in a single directory. They run outside the
+desktop, mostly in graphics MODE 1 with an introduction in MODE 7.
+
+<br>
+ <strong>You will need a monitor capable of displaying these modes.</strong>
+<br><br>
+Download the RISOCS/zip and unpack it using the !SparkFS utility.
+Copy the !CrystalSt application to a suitable directory, either on a hard 
+disk or on a floppy. Then double click on the !CrystalSt icon.
+
+<a href="#gen">Click here</a> to skip to the section on
+general running instructions. 
+</p><hr>
+<a name="pinst">&nbsp;</a>
+<h3>Running Instructions- getting started PC DOS </h3>
+<p>
+This version runs on PCs <strong>using DOS only</strong>. It can be run from
+systems using the 'Microsoft Windows operating System' but you will need to
+make yourself a DOS window to start from. Sorry we cannot tell you how to do
+this, there are so many slightly different versions of PCs.</p>
+
+<p> You will need a CGA or EGA graphics adaptor. The program finds out for
+itself which you have and uses the appropriate set of modules.</p>
+<p>
+Download the PCDOS.zip and unpack it using the unzip utility. Most of the
+instructions are in this manual, but look at the README.TXT file for more
+details.   Copy the directory CCHEM to a suitable directory, either on a hard 
+disk or on a floppy.<br>
+<p>
+From your DOS prompt, (usually the character > ) type MENU followed by the
+ENTER key (which may have an angled arrow on your computer keyboard).  In a
+few seconds a menu appears on the screen, from which you can make your
+selection of program using single key presses.</p>
+<p>
+Now follow the general operating instructions below, ignoring any statements
+about using different discs; on the PC version all the programs run from the
+same directory.  On some Windows systems, the screen may not return properly
+to your normal operating screen at the end, but do not panic, usually you
+can type 'quit' even if you cannot see the characters on the screen. This
+usually closes the DOS window cleanly.
+  </p>
+
+<a name="gen"><hr></a>
+<h3>General Running instructions</h3>
+
+There are four programs in this set. They are written in BASIC, with some
+assembly language to speed up the graphics in the earliest version; they
+contain enough on-screen instructions to be used successfully by a computer
+novice. Three programs describing simple crystal structures are on the first
+side of the disc, while the fourth, which introduces interstitial packing,
+is on the reverse side. Any of the programs can be stopped at the end of a
+section by pressing the êQë key. </p>
+
+<p>
+To <strong>return to the menu</strong> at any time, press the êESCAPEë key.
+</p>
+
+<p>
+To <strong>exit the programs</strong> at any time, press the êESCAPEë key to
+return to the menu and press the 'Q' key.
+
+</p>
+<p>
+In general, diagrams are shown on the left of the screen, explanatory
+text on the right. The bottom line of the whole screen is used for
+instructions, e.g. press SPACEBAR. When this line is blank, the
+program is showing an animated sequence, and you must wait until
+a further instruction is given. When an instruction uses the word
+<em>êpressë</em>, only one keystroke is needed to continue the program; when
+you are asked to <em>êtypeë</em> you may enter several characters, but the last
+one must be the RETURN key to show that this is the last character.
+The CURSOR keys, used in several places to rotate diagrams, are the
+four keys with arrows.
+</p>
+<p>
+The programs are intended for use by individual students, to help
+them understand the basic concepts of atomic packing and crystal
+structure, and to introduce them to some ideas of symmetry and unit
+cells. They are designed to stand alone, but will be more effective
+used in conjunction with models, and as part of a general course in
+these topics.</p>
+
+<p>Some students find it helpful to handle real models while working through
+the programs.  Suitable models were initially supplied with the package.
+These are no longer marketed, but you can make your own using, for example,
+table tennis balls, cemented together with model glue from any toyshop.
+You need three rafts of spheres as in the diagram:
+
+</p>
+<p align=center>
+<img src="model.gif" alt="3 rafts of spheres"></a>
+
+</p>
+<p align=Left>
+<a name="one">&nbsp;</a>
+
+<h2>HEXAGONAL AND CUBIC CLOSEST-PACKING</h2>
+
+<p>
+This program deals with the concept of simple structures as an array
+of close-packed spheres. It compares the two common types of closest
+packing (hexagonal and cubic) and introduces some simple concepts
+of symmetry; an optional sequence explains about rotation axes. The
+relationship between the cube and octahedron is explored. Self-testing exercises are provided.
+</p>
+<p>
+The 3 rafts of spheres are particularly useful in this program to illustrate
+the building up of the crystal in layers, and how the structure changes when
+the layers are in different orientations. </p>
+
+<p>
+<a name="two">&nbsp;</a>
+
+<h2>CUBIC CLOSEST-PACKING OF SPHERES AND
+FACE-CENTRED CUBIC CELL</h2>
+</p>
+<p>
+This program builds on what was learnt in the first. It introduces the
+concept of the unit cell as the repeating unit of pattern, explains how
+to reckon the unit cell contents and shows the relation between the
+cubic close-packed array and the face-centred cubic cell. The
+arrangement of interstitial sites is briefly explored and the
+tetrahedron is introduced.
+</p>
+
+<a name="three">&nbsp;</a>
+
+<h2>BODY-CENTRED CUBIC PACKING</h2>
+
+<p>
+This routine describes the other common type of packing, and
+reinforces the concept of the unit cell introduced in the previous
+programs. Coordination and packing density are discussed and
+compared with those of closest-packed structures. Transformations
+between the two types (important in metallurgy) are illustrated.
+</p>
+<p>
+A suitable model was supplied using opaque and translucent spheres to show
+the relation between unit cell and packing. These are no longer available.
+
+</p>
+<a name="four">&nbsp;</a>
+
+<h2>INTERSTITIAL SITES IN CLOSEST-PACKED STRUCTURES</h2>
+
+<p>
+This program continues to explore the differences between HCP and
+CCP, now with the emphasis on the arrangement of interstitial sites,
+and the structures to be derived by filling them with a second type of
+atom. The NaCl, NiAs, Li2O, BeO and ZnO structures are described,
+and a number of self-testing revision examples are given. It uses the
+same model as the first program, plus some smaller spheres to simulate 
+additional interstitial êatomsë to assist in exploring derivative structures.
+</p>
+<hr>
+<a name="photo">&nbsp;</a>
+
+<h2>PHOTOGRAPHING THE SCREEN</h2>
+
+<p>
+Slides for projection can be made by photographing the screen. Use
+transparency film of speed ISO 100 or 200. Mount the camera on a
+tripod, use a cable release and have the surroundings as dark as
+possible. For best results use a long focal length lens to minimise the
+distortion due to the curved surface of the screen. An exposure time
+of at least half a second is needed to overcome synchronisation
+problems. We have found an aperture of f8 with exposure time of 1
+second is about right for ISO 100 film.
+</p>
+
+<p>
+The development and distribution of this type of software is still in
+its early stages; comments, advice and criticism from users would be
+of value and are actively sought by the authors.
+</p>
+<hr>
+<em>Page last updated 14 June 2000</em><br>
+'Fortran Friends',&nbsp;P.O.Box 64,&nbsp; Didcot,&nbsp; Oxon OX11 0TH,&nbsp; UK <BR>
+
+email: <a href="mailto:fortran@argonet.co.uk">fortran@argonet.co.uk</A><br>
+<a href="index.htm">Click here to return to the Crystallographic Software
+ Top page</a> 
+
+ 
+<hr>
+</BODY>
+</HTML>

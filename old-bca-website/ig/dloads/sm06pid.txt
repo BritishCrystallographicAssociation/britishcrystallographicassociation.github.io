@@ -1,0 +1,55 @@
+Dear XRPD Phase ID Workshop delegate,
+
+Thank you for registering for this workshop at the BCA Spring Meeting.
+The sessions start at 9 am in ROOM ??? of the Faraday building next to the 
+conference centre.
+
+Please note that some session times differ from those published in 
+Crystallography News and are:
+09:00 - 10:30
+11:00 - 12:00
+13:00 - 15:00
+15:30 - 17:15 (Note this session officially ends at 17:15 to coincide with 
+the start of the Exhibitor Forum. However, the computer room is available 
+until 17:30 for anyone needing more time on worked examples)
+
+The computer technicians at Lancaster have been working on the 2005 PDF4+ 
+installation that we will use in the afternoon session for several weeks and 
+we await confirmation that they have been successful.
+To ensure that you get the best opportunity to work with the database, you 
+may prefer to bring your own laptop and have a 30 day trial of the database 
+installed for use in the workshop and back at base for the remainder of the 
+30 day trial period.
+
+You must have administrator privilege to install the database and the laptop 
+must meet the following preferred computer specifications:
+
+* SVGA monitor with 1024 x 768 resolution; 96 dpi display setting
+* Microsoft® Windows® NT 4.0 SP6 or later, 2000 SP3 or later, XP 
+Professional SP2 or later
+* NTFS file system
+* Pentium processors : 2 GHz or faster
+* 512 MB of memory
+* 4 GB of free hard-disk space
+* Mouse
+* CD/DVD-ROM drive
+XML output is offered as an optional feature in this product; Internet 
+Explorer 6.0 or greater is needed for this feature.
+
+Full details for the PDF4+ installation are given in a 293kb Adobe PDF file 
+that can be downloaded from:
+http://bca.cryst.bbk.ac.uk/bca/ig/dloads/PDF4.pdf   - this is the leaflet 
+distributed with the installation CD's.
+
+Please inform us by the end of this week if you intend to bring a laptop for 
+a 30 day trial installation in a reply to this message.
+
+We look forward to meeting you next week.
+
+Dave Taylor (for the organisers)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dave Taylor
+Tel 01744 893108
+
+Reply by E-mail to the IG Web editor (see foot of meeting page)
+_________________________________ 

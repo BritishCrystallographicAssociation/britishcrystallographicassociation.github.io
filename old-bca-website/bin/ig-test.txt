@@ -1,0 +1,28 @@
+
+Directory DKUSER2:[PUBLIC.WWW.BCA.BIN]
+
+ADDMAIL.COM;11                   10  27-JUL-2004 14:56:31.61  (RWED,RWED,RE,RE)
+BCAUPDATE.COM;1                  22  26-SEP-2003 20:39:54.83  (RWED,RWED,RE,RE)
+BURSFORM.COM;1                   19  20-JAN-2004 15:17:44.11  (RWED,RWED,RE,RE)
+IG-TEST.TXT;1                     0  28-JUL-2004 15:41:49.58  (RWED,RWED,RE,RE)
+IGQUANT.OLD;1                     7  17-FEB-2003 16:19:22.07  (RWED,RWED,RE,RE)
+IGQUANT2.OLD;1                    6   5-APR-2003 18:30:46.69  (RWED,RWED,RE,RE)
+IGREG1103.OLD;1                  23  27-SEP-2003 19:09:23.84  (RWED,RWED,RE,RE)
+INDEX.HTML;1                      1  11-OCT-2002 22:25:01.88  (RWED,RWED,RE,RE)
+LARRREG.COM;9                    14  28-JUL-2004 14:36:35.19  (RWED,RWED,RE,RE)
+MIME1.TXT;1                       2  13-MAY-2004 18:43:38.37  (RWED,RWED,RE,RE)
+MIME2.TXT;1                       1  25-SEP-2003 21:42:57.60  (RWED,RWED,RE,RE)
+MIME3.TXT;1                       1  25-SEP-2003 21:24:27.27  (RWED,RWED,RE,RE)
+REG100604.OLD;1                  25  14-MAY-2004 17:05:13.57  (RWED,RWED,RE,RE)
+RIET04.OLD;1                     10  16-MAR-2004 14:37:30.38  (RWED,RWED,RE,RE)
+XRFMAIL.COM;5                    14  28-JUL-2004 15:00:16.86  (RWED,RWED,RE,RE)
+XRFMAIL.COM;4                    14  28-JUL-2004 14:52:27.39  (RWED,RWED,RE,RE)
+XRFMAIL.COM;3                    14  28-JUL-2004 14:52:12.01  (RWED,RWED,RE,RE)
+XRFMAIL.COM;2                    13  28-JUL-2004 14:51:39.30  (RWED,RWED,RE,RE)
+XRFMAIL.COM;1                    13  16-JUL-2004 06:59:18.50  (RWED,RWED,RE,RE)
+XRFTEST.COM;4                     5  28-JUL-2004 15:39:42.69  (RWED,RWED,RE,RE)
+XRFTEST.COM;3                     5  28-JUL-2004 15:35:41.67  (RWED,RWED,RE,RE)
+XRFTEST.COM;2                     5  28-JUL-2004 15:33:02.68  (RWED,RWED,RE,RE)
+XRFTEST.COM;1                    14  28-JUL-2004 15:29:16.33  (RWED,RWED,RE,RE)
+
+Total of 23 files, 238 blocks.

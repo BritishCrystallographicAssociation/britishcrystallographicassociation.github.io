@@ -1,0 +1,149 @@
+From:	SMTP%"C.C.Wilson@rl.ac.uk" 22-OCT-2001 16:58:47.19
+To:	a.c.barnes@bristol.ac.uk, a.c.williams@bradford.ac.uk,   a.e.goeta@durham.ac.uk, a.ezeilo@ic.ac.uk, a.harrison@ed.ac.uk,   A.Horsewill@nottingham.ac.uk, A.J.Blake@nottingham.ac.uk,   a.lappas@susx.ac.uk, a.r.west@sheffield.ac.uk, a.v.chadwick@ukc.ac.uk,  
+CC:	
+Subj:	One-day meeting: Applications of High Pressure in Structural Stud ies
+
+BCA Physical Crystallography Group 
+and the IoP Structural Condensed Matter Physics Group
+Autumn Meeting
+Applications of high pressure in structural studies
+Hosted and supported by the Daresbury Laboratory.
+Daresbury Laboratory, 5 December 2001
+Organised by Dr D R Allan, University of Edinburgh
+
+This one-day meeting will cover the wide-ranging applications of
+high-pressure techniques in the study of crystal structure. The meeting will
+include scientific presentations, accounts of the latest technical advances
+in pressure techniques for both X-ray and neutron diffraction and also
+spectroscopy, and the opportunity to view some of the advanced high-pressure
+kit currently being made available in laboratories and central facilities.
+Among the topics covered will be: high-pressure single-crystal diffraction
+in the laboratory using point and area detectors; developments in
+high-pressure single-crystal and powder neutron diffraction;
+state-of-the-art high-pressure powder-diffraction at synchrotron sources;
+high-pressure EXAFS; and opportunities in high-pressure spectroscopy.
+Speakers will include: 
+*	Andy Jephcoat (Oxford) - Raman Studies of Bonding Under Pressure 
+*	Dave Keen (ISIS) - High-Pressure Single-Crystal Neutron Diffraction 
+*	Bill Marshall (ISIS) - Neutron Powder-Diffraction at High-Pressure 
+*	Mohamed Mezouar (ESRF) - High-Pressure Powder-Diffraction Using
+Synchrotron Radiation 
+*	Simon Parsons (Edinburgh) - Uses of Area Detectors in Single-Crystal
+Diffraction at High Pressure 
+*	Sue Bayliss (De Montfort) - High Pressure EXAFS 
+Registration will be free and local accommodation will be available if
+required. The deadline for receipt of registrations will be 16 November, but
+please register earlier if you require accommodation.
+For more information on the meeting contact the organiser: Dave Allan
+(University of Edinburgh; D.R.Allan@ed.ac.uk) or the PCG Secretary Chick
+Wilson (C.C.Wilson@rl.ac.uk).
+A registration form is attahced and is also available on-line at
+	http://www.isis.rl.ac.uk/Crystallography/highpressuremeeting.htm
+Submission by email (to D.R.Allan@ed.ac.uk) is welcome.
+
+Organiser:
+Dr D R Allan
+Department of Physics and Astronomy, University of Edinburgh, King's
+Buildings, Mayfield Road, Edinburgh EH9 3JZ
+Tel: +44 (0)131 650 5287; Fax: +44 (0)131 650 7165
+email: D.R.Allan@ed.ac.uk
+http://www.ph.ed.ac.uk/~dra
+
+================== RFC 822 Headers ==================
+Return-Path: C.C.Wilson@rl.ac.uk
+Received: by gordon.cryst.bbk.ac.uk (UCX V4.2-21, OpenVMS V6.2 Alpha);
+	Mon, 22 Oct 2001 16:58:30 GMT
+Received: from exchange07.rl.ac.uk (exchange07.rl.ac.uk [130.246.135.148])
+	by jess.cryst.bbk.ac.uk (8.11.2/8.9.3) with ESMTP id f9MFxQn20987;
+	Mon, 22 Oct 2001 16:59:26 +0100
+Received: by exchange07.rl.ac.uk with Internet Mail Service (5.5.2653.19)
+	id <RPV022KJ>; Mon, 22 Oct 2001 16:58:31 +0100
+Message-ID: <37CAC51AC5C1D211966100A0C9ED000A019539C1@exchange07.rl.ac.uk>
+From: "Wilson, CC (Chick) " <C.C.Wilson@rl.ac.uk>
+To: a.c.barnes@bristol.ac.uk, a.c.williams@bradford.ac.uk,
+   a.e.goeta@durham.ac.uk, a.ezeilo@ic.ac.uk, a.harrison@ed.ac.uk,
+   A.Horsewill@nottingham.ac.uk, A.J.Blake@nottingham.ac.uk,
+   a.lappas@susx.ac.uk, a.r.west@sheffield.ac.uk, a.v.chadwick@ukc.ac.uk,
+   adrian.finch@luton.ac.uk, ajf5@st-and.ac.uk, alastair@pharmsci.strath.ac.uk,
+   Alex Hannon <A.C.Hannon@rl.ac.uk>, allen@ccdc.cam.ac.uk,
+   Anders Markvardsen <A.J.Markvardsen@rl.ac.uk>,
+   Andrew Taylor <Andrew.Taylor@rl.ac.uk>, andrew.hamnett@newcastle.ac.uk,
+   ann.chippindale@icl.ox.ac.uk, ara@st-and.ac.uk, b.k.tanner@durham.ac.uk,
+   barnes@gordon.cryst.bbk.ac.uk, bdr@soton.ac.uk,
+   bertram.willis@chemcryst.ox.ac.uk, Bill David <W.I.F.David@rl.ac.uk>,
+   Bob Cernik <R.J.Cernik@dl.ac.uk>, Brian Boland <B.C.Boland@rl.ac.uk>,
+   brian.derby@materials.ox.ac.uk, c.f.burdett@strath.ac.uk,
+   c.greaves@bham.ac.uk, c.j.cardin@reading.ac.uk, c.n.w.darlington@bham.ac.uk,
+   cha34@cc.keele.ac.uk, cha35@keele.ac.uk, cheavp@bonaly.hw.ac.uk,
+   chenderson@fs1.ge.man.ac.uk, Chick Wilson
+	 <C.C.Wilson@rl.ac.uk>,
+   chris@chem.gla.ac.uk, christopher.frampton@roche.com, cjc@isise.rl.ac.uk,
+   cockcroft@gordon.cryst.bbk.ac.uk, crp01@holyrood.ed.ac.uk,
+   csd@siva.bris.ac.uk, d.c.sinclair@abdn.ac.uk,
+   d.k.ross@physics.salford.ac.uk, d.p.thompson@newcastle.ac.uk,
+   d.price@ucl.ac.uk, davekeen@isise.rl.ac.uk,
+   david.watkin@chemistry.oxford.ac.uk, dermot.ohare@icl.ox.ac.uk,
+   Devashibhai Adroja <D.T.Adroja@rl.ac.uk>,
+   Devinder Sivia
+	 <D.S.Sivia@rl.ac.uk>, drr@leicester.ac.uk,
+   dss@isise.rl.ac.uk, em10@cus.cam.ac.uk, emf@thsun7.ph.bham.ac.uk,
+   es10002@esc.cam.ac.uk, fitch@esrf.fr, g.r.mitchell@reading.ac.uk,
+   g.webster@ic.ac.uk, G.Whittaker@ed.ac.uk, glazer@physics.ox.ac.uk,
+   guy.orpen@bris.ac.uk, heather.wood@materials.ox.ac.uk,
+   hell@pec8.sc.ch.man.ac.uk, htj@isise.rl.ac.uk, i.abrahams@qmw.ac.uk,
+   i.gameson@bham.ac.uk, Ian Bailey <I.F.Bailey@rl.ac.uk>, ijmccolm@brad.ac.uk,
+   j.a.hriljac@bham.ac.uk, j.a.k.howard@durham.ac.uk, j.c.li@umist.ac.uk,
+   j.finney@ucl.ac.uk, j.s.abell@bham.ac.uk, J.Silver@gre.ac.uk,
+   j.skakle@aberdeen.ac.uk, J.Turner@mail.cryst.bbk.ac.uk, jbf@isise.rl.ac.uk,
+   Jerry Mayers <J.Mayers@rl.ac.uk>, jmc61@cam.ac.uk,
+   jmfg@thsun7.ph.bham.ac.uk, jpa14@cam.ac.uk, jrpw@isise.rl.ac.uk,
+   jsl01@isise.rl.ac.uk, jtsi@st-and.ac.uk, k.d.m.harris@bham.ac.uk,
+   k.mcewen@phys.bbk.ac.uk, k.r.ziebeck@lboro.ac.uk,
+   Kenneth Shankland
+	 <K.Shankland@rl.ac.uk>, ksk@isise.rl.ac.uk,
+   l.edwards@open.ac.uk, lvcr01@holyrood.ed.ac.uk,
+   Lynne Thomas <L.Thomas@rl.ac.uk>, m.g.davidson@bath.ac.uk,
+   m.j.rosseinsky@liv.ac.uk, malcolm.green@icl.ox.ac.uk,
+   marjorie.harding@ed.ac.uk, Mark Roberts
+	 <M.A.Roberts@dl.ac.uk>,
+   mark@ricx.ri.ac.uk, martin@minp.esc.cam.ac.uk,
+   Matthias Gutmann <M.J.Gutmann@rl.ac.uk>, mc43@esc.cam.ac.uk,
+   mcmahon@mail.ph.ed.ac.uk, mdw@nhm.ac.uk,
+   Michael Hofmann
+	 <M.Hofmann@rl.ac.uk>, mike.hutchings@aeat.co.uk,
+   mjh@isise.rl.ac.uk, mjt@st-and.ac.uk, mtuc98@esc.cam.ac.uk, mtw@soton.ac.uk,
+   mwj@isise.rl.ac.uk, neumann@lut.ac.uk, njgg@isise.rl.ac.uk,
+   norman@pharmsci.strath.ac.uk, p.a.anderson@bham.ac.uk,
+   p.f.henry@soton.ac.uk, p.g.bruce@st-andrews.ac.uk, p.j.Cox@rgu.ac.uk,
+   p.j.webster@civils.salford.ac.uk, p.mcdonald@ph.surrey.ac.uk,
+   p.meredith@ucl.ac.uk, p.p.edwards@bham.ac.uk, p.r.raithby@bath.ac.uk,
+   Paolo Radaelli <P.G.Radaelli@rl.ac.uk>, paul.sermon@brunel.ac.uk,
+   pb03@isise.rl.ac.uk, pday@ri.ac.uk, peter.battle@icl.ox.ac.uk,
+   peter.dickens@icl.ox.ac.uk, pfs@nhm.ac.uk, pha23@cc.keele.ac.uk,
+   pha40@cc.keele.ac.uk, pha44@keele.ac.uk, phrje@csv.warwick.ac.uk,
+   phrqr@csv.warwick.ac.uk, phrve@csv.warwick.ac.uk, phrvi@csv.warwick.ac.uk,
+   phryj@csv.warwick.ac.uk, phsay@csv.warwick.ac.uk, phsaz@csv.warwick.ac.uk,
+   Piers Buchanan <P.Buchanan@rl.ac.uk>, pjw12@cus.cam.ac.uk, pl@st-and.ac.uk,
+   r.cannon@uea.ac.uk, r.cowley@physics.oxford.ac.uk, R.Cywinski@leeds.ac.uk,
+   r.m.ormerod@keele.ac.uk, R.Slade@surrey.ac.uk, r.w.whitworth@bham.ac.uk,
+   richard@ricx.ri.ac.uk, ris01@isise.rl.ac.uk, rjg2@york.ac.uk,
+   rjn01@isise.rl.ac.uk, rmi@isise.rl.ac.uk,
+   Roger Eccleston <R.S.Eccleston@rl.ac.uk>, s.clark@dl.ac.uk,
+   s.hayden@bris.ac.uk, s.j.hibble@rdg.ac.uk, s.j.maginn@dl.ac.uk,
+   S.Kilcoyne@leeds.ac.uk, s.parsons@ed.ac.uk, satr@esc.cam.ac.uk,
+   scrump@fs1.ge.man.ac.uk, Sean Langridge <S.Langridge@rl.ac.uk>,
+   sfjc@isise.rl.ac.uk, sh@isise.rl.ac.uk, simon.clarke@exeter.ox.ac.uk,
+   simon@ricx.ri.ac.uk, Stephen Bennington <S.M.Bennington@rl.ac.uk>,
+   Stephen.blundell@merton.ox.ac.uk, stirling@esrf.fr, tr22@cus.cam.ac.uk,
+   u.jayasooriya@uea.ac.uk, ubap722@ccs.bbk.ac.uk,
+   Uschi Steigenberger
+	 <U.E.Steigenberger@rl.ac.uk>, W.Clegg@ncl.ac.uk,
+   w.hayes@physics.oxford.ac.uk, William Marshall <W.G.Marshall@rl.ac.uk>,
+   wood@crystal.geol.ucl.ac.uk
+Subject: One-day meeting: Applications of High Pressure in Structural Stud
+	ies
+Date: Mon, 22 Oct 2001 16:58:17 +0100
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2653.19)
+Content-Type: text/plain;
+	charset="iso-8859-1"

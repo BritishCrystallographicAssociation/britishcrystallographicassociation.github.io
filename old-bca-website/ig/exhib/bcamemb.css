@@ -1,0 +1,75 @@
+
+h1 { margin-left: +8%;}
+h2,h3,h4,h5,h6 { margin-left: +4%; }
+th           { background-color: white; color: black; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; font-size: 100%;}
+td           { background-color: white; color: black; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; font-size: 100%;}
+blockquote   { background-color: white; color: black; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; font-size: 100%;}
+
+p            { background-color: white; color: black; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; text-indent: 0; margin-left: +4%; margin-top: 0; margin-bottom: 1em;}
+em { background-color: white; color: black; font-style: italic; font-weight: bold; }
+strong {background-color: white; color: black; font-weight: bold; }
+
+h1           { font-size: 200%; background-color: white; color: maroon; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; }
+h2           { font-size: 175%; background-color: white; color: maroon;  font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; }
+h3           { font-size: 150%; background-color: white; color: maroon; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif }
+h4           { font-size: 133%; background-color: white; color: maroon; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif }
+h5           { font-size: 125%; background-color: white; color: maroon; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif }
+h6           { font-size: 100%; background-color: white; color: maroon; font-weight: bold; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif }
+
+
+
+code         {color: black; background-color: white;font-family: 'Courier New', LucidaTypewriter, monospace }
+pre          { background-color: white; color: black; font-family: 'Courier New', LucidaTypewriter, monospace }
+kbd          { background-color: white; color: black; font-family: 'Courier New', LucidaTypewriter, monospace }
+cite         { background-color: white; color: black; font-family: 'Courier New', LucidaTypewriter, monospace }
+tt           { background-color: white; color: black; font-family: 'Courier New', LucidaTypewriter, monospace }
+ul           { background-color: white;  background-repeat: repeat; background-attachment: 
+               scroll; color: black; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; }
+ol           { background-color: white; color: black; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; 
+               padding-top: 0.2em; padding-bottom: 0.2em;}
+li           { background-color: white; color: black; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; }
+a.plain:link { text-decoration:none;	color: blue; background-color: #EEFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 100%;}
+a.plain:active	 { text-decoration:none;	color: blue;  background-color: #EEFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 100%;}
+a.plain:visited { text-decoration:none;	color: blue;  background-color: #EEFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 100%;}					 
+a.plain:hover  { text-decoration:none;	color: red; background-color: #EEFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 100%;}
+
+a.activ:link { text-decoration:none;	color: silver; background-color: #EEFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 100%;}
+a.activ:active	 { text-decoration:none; color: silver;  background-color: #EEFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 100%;}
+a.activ:visited { text-decoration:none;	color: silver;  background-color: #EEFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 100%;}					 
+a.activ:hover  { text-decoration:none;	color: silver; background-color: #EEFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 100%;}
+
+a.colmn:link { text-decoration:underline;	color:blue; background-color: white; font-family: Arial, Helvetica, sans-serif; font-size: 80%; }
+a.colmn:active	 { text-decoration:underline; color: green;  background-color: white; font-family: Arial, Helvetica, sans-serif; font-size: 80%;}
+a.colmn:visited { text-decoration:underline; color: blue;  background-color: white; font-family: Arial, Helvetica, sans-serif; font-size: 80%;}					 
+a.colmn:hover  { text-decoration:underline;	color: red; background-color: white; font-family: Arial, Helvetica, sans-serif; font-size: 80%;}
+
+a.news:link { text-decoration:underline;	color:blue; background-color: white; font-family: Arial, Helvetica, sans-serif; font-size: 100%; }
+a.news:active	 { text-decoration:underline; color: red;  background-color: white; font-family: Arial, Helvetica, sans-serif; font-size: 100%;}
+a.news:visited { text-decoration:underline;	color: blue;  background-color: white; font-family: Arial, Helvetica, sans-serif; font-size: 100%;}					 
+a.news:hover  { text-decoration:underline;	color: red; background-color: white; font-family: Arial, Helvetica, sans-serif; font-size: 100%;}
+.newsit
+{
+background-color:white;
+color:black;  font-family: Arial, Helvetica, sans-serif; font-size: 100%;
+}
+.bca
+{
+background-color:white;
+color:green;  font-family: Arial, Helvetica, sans-serif; font-size: 150%;
+}
+.ig
+{
+background-color:white;
+color:black;  font-family: Arial, Helvetica, sans-serif; font-size: 175%;
+}
+.navtab, .navtab TD, .navtab TH
+{
+background-color:#EEFFFF;
+color:black; 
+}
+.footab TD
+{
+background-color: white;
+color: maroon; font-family: Arial, Helvetica, sans-serif; font-size: 75%;}
+.noind 
+{background-color: white; color: black; font-family: Arial, Helvetica, sans-serif; margin-top: 0.5em; margin-bottom: 0; text-indent: 0em; font-size: 130%;}

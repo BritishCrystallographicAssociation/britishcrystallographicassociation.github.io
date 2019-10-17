@@ -1,0 +1,99 @@
+
+h1 { margin-left: +8%;}
+h2,h3,h4,h5,h6 { margin-left: +4%; }
+th           { background-color: white; color: black; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; font-size: 100%;}
+td           { background-color: white; color: black; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; font-size: 100%;}
+blockquote   { background-color: white; color: black; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; font-size: 80%;font-style: italic;}
+
+p            { background-color: white; color: black; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; text-indent: 0; margin-left: +4%; margin-top: 0; margin-bottom: 1em;}
+em { background-color: white; color: red; font-style: normal; font-weight: normal; }
+strong {background-color: white; color: black; font-weight: bold; }
+
+h1           { font-size: 200%; background-color: white; color: maroon; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; }
+h2           { font-size: 175%; background-color: white; color: maroon;  font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; }
+h3           { font-size: 150%; background-color: white; color: maroon; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif }
+h4           { font-size: 133%; background-color: white; color: maroon; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif }
+h5           { font-size: 125%; background-color: white; color: maroon; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif }
+h6           { font-size: 100%; background-color: white; color: maroon; font-weight: bold; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif }
+
+
+
+code         {color: black; background-color: white;font-family: 'Courier New', LucidaTypewriter, monospace }
+pre          { background-color: white; color: black; font-family: 'Courier New', LucidaTypewriter, monospace }
+kbd          { background-color: white; color: black; font-family: 'Courier New', LucidaTypewriter, monospace }
+cite         { background-color: white; color: black; font-family: 'Courier New', LucidaTypewriter, monospace }
+tt           { background-color: white; color: black; font-family: 'Courier New', LucidaTypewriter, monospace }
+ul           { background-color: white;  background-repeat: repeat; background-attachment: 
+               scroll; color: black; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; }
+ol           { background-color: white; color: black; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; 
+               padding-top: 0.2em; padding-bottom: 0.2em;}
+li           { background-color: white; color: black; font-family: Tahoma, Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; }
+a.plain:link { text-decoration:none;	color: #006600; background-color: #ffff99;  font-family: Arial, Helvetica, sans-serif; font-size: 100%;}
+a.plain:active	 { text-decoration:none;	color: #cccc99;   background-color: #ffff99; font-family: Arial, Helvetica, sans-serif; font-size: 100%;}
+a.plain:visited { text-decoration:none;	color: #006600;   background-color:  #ffff99; font-family: Arial, Helvetica, sans-serif; font-size: 100%;}					 
+a.plain:hover  { text-decoration:none; font-weight: bold; color: red; background-color: #ffff99; font-family: Arial, Helvetica, sans-serif; font-size: 100%;}
+
+
+a.colmn:link { text-decoration:none;	color:blue; background-color: white; font-family: Arial, Helvetica, sans-serif; font-size: 85%; }
+a.colmn:active	 { text-decoration:none; color: green;  background-color: white; font-family: Arial, Helvetica, sans-serif; font-size: 85%;}
+a.colmn:visited { text-decoration:none; color: blue;  background-color: white; font-family: Arial, Helvetica, sans-serif; font-size: 85%;}					 
+a.colmn:hover  { text-decoration:none; color: red; background-color: white; font-family: Arial, Helvetica, sans-serif; font-size: 85%;}
+
+a.news:link { text-decoration:none;	color:blue; background-color: white; font-family: Arial, Helvetica, sans-serif; font-size: 100%; }
+a.news:active	 { text-decoration:none; color: red;  background-color: white; font-family: Arial, Helvetica, sans-serif; font-size: 100%;}
+a.news:visited { text-decoration:none;	color: blue;  background-color: white; font-family: Arial, Helvetica, sans-serif; font-size: 100%;}					 
+a.news:hover  { text-decoration:none; color: red; background-color: white; font-family: Arial, Helvetica, sans-serif; font-size: 100%;}
+.newsit
+{
+background-color:white;
+color:black;  font-family: Arial, Helvetica, sans-serif; font-size: 100%;
+}
+.bca
+{
+background-color:white;
+color:green;  font-family: Arial, Helvetica, sans-serif; font-size: 150%;
+}
+.ig
+{
+background-color:white;
+color:black;  font-family: Arial, Helvetica, sans-serif; font-size: 175%;
+}
+.navtab, .navtab TD, .navtab TH
+{
+background-color: #ffff99;
+color:black; 
+}
+.footab TD
+{
+background-color: white;
+color: maroon; font-family: Arial, Helvetica, sans-serif; font-size: 75%;}
+.noind 
+{background-color: white; color: black; font-family: Arial, Helvetica, sans-serif; margin-top: 0.5em; margin-bottom: 0; text-indent: 0em; font-size: 130%;}
+.pgid
+{
+background-color:white;
+color:maroon;  font-family: Arial, Helvetica, sans-serif; font-size: 100%;
+}
+.XRF
+{
+background-color:white;
+color:red;  font-family: Arial, Helvetica, sans-serif; font-size: 150%;font-weight: bold;
+}
+.headup TD
+{
+background-color: white;
+color: black; font-family: Arial, Helvetica, sans-serif; font-size: 200%;
+}
+.small
+{
+background-color:white;
+color:red;  font-family: Arial, Helvetica, sans-serif; font-size: 75%;font-weight: bold;
+}
+.vsmall
+{
+background-color:white;
+color:black;  font-family: Arial, Helvetica, sans-serif; font-size: 50%;font-weight: bold;
+}
+option.red {background-color: #ffffff; font-weight: bold; font-size: 12px; color: red;}
+option.xrf {background-color: #ffff99;}
+option.xrd {background-color: #ffcc99; font-weight: font-size: 12px; bold; color: #990000;}

@@ -1,0 +1,160 @@
+<html>
+<header>  
+<TITLE>Software review</TITLE> 
+</header> 
+<h1>ModelMaker for Windows</h1> 
+<h2>SOFTWARE REVIEW</h2>
+
+ <br>
+ModelMaker for Windows SB Technology's ”ModelMaker for Windows•, Version 2.0
+is published by Cherwell Scientific Publishing Ltd., The Magdalen Centre,
+Oxford Science Park, Oxford, OX4 4GA, U.K., and retails for £349, ex. VAT,
+with an academic discount of 15% and special rates for department licenses.
+It comes complete on a single 3.5" floppy disc with a detailed reference manual
+and installation instructions. It runs on an IBM PC or clone under MS-DOS
+and Windows.
+<p>
+ModelMaker is designed as a model building package for solving differential
+equations numerically. At the heart of the package is a numerical integrator
+(called a ”compartment•) around which the user builds a model of a system of
+interest. The compartments (there can be a number of them) interact with
+other components of the model system, such as ”parameters•, ”variables•,
+”defined values• and ”events•, by means of ”flows• and ”influences•, which
+determine how each component interacts with the others. Flows and influences
+have a direction associated with them so that the result of a calculation in
+one component can be available to a second component, but the result of the
+second component may not be available to the first. Parameters and variables
+can be defined as ”global• which means they are available to all components,
+but this fact is not obvious from a casual inspection of the screen alone.
+It is also possible to include ”delays• and ”lookups• into the model.
+<p>
+Figure 1. Model diagram produced by ModelMaker. Square boxes represent
+compartments (integrators), rounded boxes represent variables (no
+integration) and angular boxes represent defined values. The model in this
+case was a set of six particles moving in one dimension and coupled together
+by harmonic forces, (force constant k). Each particle has a position, h, a
+velocity, v, and an acceleration, a. In addition each particle is subject to
+a damping force proportional to velocity, with constant d. The problem is
+subject to periodic boundary conditions (particle 1 sees particle 6, and
+vice versa) and so is a 1-dimensional representation of a benzene ring.
+Particle 1 is subject to a sinusoidal oscillation, h1, whose frequency, F,
+increases linearly with time. The problem is to ascertain the motion of the
+remaining 5 particles.
+<p>
+In the main window is a diagram of the problem currently being solved which
+shows all the components (with different shaped boxes to signify the
+different component types) and arrows to signify the flows and influences
+that are defined. The direction of the arrow indicates which way the
+influence goes (see Figure 1). If there is a logical error in the way the
+model has been set up then the offending boxes remain shaded until the error
+is corrected. This is very helpful in ensuring that the model is internally
+consistent, but of course it does not ensure that the model represents what
+you want it to. The model will not ”run• until all the errors are corrected,
+but once this is done and all initial values are defined the model can be
+run by simply pressing ”run•. When the run is complete the results can be
+plotted using a limited graphics routine, from which hardcopy can be made if
+needed (see Figure 2). The length of the run varies considerably depending
+on the complexity of the problem being solved.
+<p>
+Installation on a PC system was quick and straightforward. The programme
+comes with a detailed manual which contains full descriptions of all the
+facilities available in the package. However the introductory part of the
+manual uses the example of a lake system to develop familiarity with the
+methods and terminology used. To go through this example in full would
+require a considerable amount of reading and testing and is not really
+suitable for someone in a hurry to set up a particular problem. The same
+example can be loaded as a tutorial item from disk. The description of the
+integrator as a ”compartment• is fairly obscure to the novice - why not
+simply call it an ”integrator•?. Other descriptions are perhaps not so
+obscure but there is certainly a case to try and standardize the use of
+terminology in the package to make the function of the different facilities
+more immediately obvious to the novice. In practice this did not appear to
+be a serious obstacle since the terminology became familiar enough once the
+function of each component was understood.
+<p>
+Figure 2 Graphic output from ModelMaker, using the model described in Figure
+1. The bottom line shows the driving oscillation, h1, with a small amplitude
+of motion and a frequency which increases steadily with time. The other
+lines show the response of the remaining 5 particles. At a certain driving
+frequency (the first resonance) all the particles move in phase with an
+amplitude much larger than the driving amplitude - the system is absorbing a
+large amount of energy at this frequency. At another, higher frequency,
+again resonance is observed, but this time only half the particles have
+large amplitude motions and they are out of phase with one another. Thus the
+phenomena of resonance and normal motion are demonstrated by this simple
+technique.
+<p>
+The overall time taken to set up the problem shown in figures 1,2 plus a
+separate problem of integrating a complicated function, and to become fully
+familiar with running both problems, was about 10 hours for someone who had
+no prior experience of ModelMaker nor of other integration packages. For
+someone familiar with the package the time would be much less, (e.g. ½
+hour), but for any particular problem the time consuming element will likely
+be the initial breakdown of the problem into its ModelMaker component parts.
+This may not be totally trivial when it is realised that each integrator can
+only solve an equation of the form:
+<p>
+<pre>
+        dv/dt= (algebraic expression)
+
+</pre>
+Therefore if the package were to be used to solve a complex problem the user
+will need to have a good grasp of differential equations. It will probably
+also help if he or she knows something about solving differential equations
+numerically. This fact is not brought out in the manual, which is written as
+if the user would need to have only a superficial understanding of
+differentiation and integration. There is possibly a case for a ”front end•
+package to break down a complex problem into its ModelMaker components, but
+this might be awkward to implement in practice.
+<p>
+The problem shown in Figure 1 contains a number of compartments which have
+identical algebraic expressions - only the variable names change. If the
+problem were to be extended to say double the number of particles it would
+be necessary to laboriously define each component one by one. There is no
+facility within the package to reproduce a given component several or many
+times with different variable names, in a manner that is possible in say a
+FORTRAN program where the same operation can be carried out on a large
+number of elements. The graphics routine is versatile in allowing the user
+to display any quantity in the model against another over any range of the
+variables, but has little scope for labelling the graph, altering the
+character size and changing line thicknesses. To do this the user would have
+to unload the results into a file and plot them off-line.
+<p>
+The availability of a reliable and accurate integrator on a desktop computer
+can be a powerful tool for developing models or parts of models, even if at
+the end of the day the full model is solved in the conventional way using
+computer programming. I would have the thought the applications of
+ModelMaker to the kind of problems encountered by crystallographers would be
+fairly limited, given the size of a typical crystallography dataset, but as
+a general learning tool about numerical integration and as means of
+developing solutions to particular problems it could be very powerful. 
+<p>
+<em>Alan K. Soper</em><br>
+ <br>
+27 September 1995<br>
+<p>
+
+
+<h1>COMMENTS FROM THE SUPPLIER</h1>
+
+The minor criticisms of graphing facilities and component duplication will
+be addressed in version 3.0
+<p>
+All calculated values from tables and graphs can be transferred to other
+Windows applications for further analysis, graphing etc. using the Windows
+clipboard. This is very much more straightforward than writing values to a
+file as suggested in the review
+<p>
+Global components are indicated in the diagram by green cross hatching which
+makes them more obvious than suggested in the review.
+<p>
+Components can be reproduced several times by using copy and paste
+<p>
+<ADDRESS> BCA Home page WebMaster
+<a href="mailto:bca@isise.rl.ac.uk">BCA@ISISE.RL.AC.UK</a>
+</address>
+<a href="../../index.html">
+<img align=middle src="../../bca_min.gif"alt="<--"> 
+  Click here to return to BCA homepage </a>
+</body>
+</html>

@@ -1,0 +1,218 @@
+<html>  
+<header>  
+<TITLE>Report on Molecular Modelling Meeting Dec 1998
+</TITLE>  
+</header>        
+<body bgcolor="FFFFFF"> 
+<HR>
+<P ALIGN=CENTER>
+<h2>Meeting report  -  Molecular Modelling: A Tool for the Modern Era</h2>
+<HR>
+
+<P>
+This meeting was held in The Robin Brooke Centre of St.Batholomews's
+Hospital, Smithfield, London on 14th December 1998. About 100 delegates,
+including many students, attended this useful overview of the methods of
+molecular modelling and review of academic and industrial applications. It
+was organised by the Industrial Physical Chemistry Group within the
+Industrial Affairs Division of the Royal Society of Chemistry.
+
+<P>
+Nick Quirke (Imperial College) explained that although reality is complex we
+have to make simplifying assumptions to make any progress in the field. An
+early method was to consider molecules as hard spheres and to model the
+force between them in terms of a potential made up of two parts, a long term
+attraction and a hard core repulsion. Liquids contain many thousands of
+molecules, to simulate the liquid properties one takes an ensemble of many
+molecules in all possible configurations weighted by the probability of that
+configuration occuring. Clearly using more molecules in the simulation gives
+a closer approximation to reality but takes more computing time. Since each
+molecule experiences a similar force to its neighbours the calculation for
+each one is identical to that for the next, making this an ideal problem for
+a parallel computer. In Monte Carlo methods each molecule is perturbed from
+its original position by a small amount and the energy of whole system
+calculated. By choosing those configurations which have lower energy one
+hopes to eventually arrive at an equilibrium.  Molecular dynamics can be
+calculated by considering how the ensemble behaves over time. The first
+papers in this field were published in the 1950s, and a reference list is
+given at the end of this report. people are now attempting the simulations
+of surface wetting, including the addition of particulates to polymers
+during production, where it is essential for wetting to take place.  
+
+<P>
+Dominic Tildesley, Unilever, spoke on atomistic and mesoscale modelling in
+an industrial environment. At Port Sunlight they simulate the materials, the
+chemical processing plants and the supply chain. He discussed the prediction
+of small crystal shape in shampoos. Some crystal shapes make the shampoo
+gleam more than others, which is apparently a great selling point with their
+customers. (Personally, I keep my eyes shut when shampooing my hair so I
+have not observed this phenomenon.) His simulations involve the prediction
+of the change in morphology as dopant is added to give the desired shape.
+Unilever have a large detergent manufacturing business and are working on
+improving the anti-microbial properties of their products by simulations.
+<p>
+Richard Catlow, Royal Institution, spoke on simulations in materials
+research, where they model the surface properties and large scale properties
+such as the elasticity or the diffusion through structures. They have
+modelled micro porous silicalite a catalyst for hydrocarbon synthesis and
+also glassy materials by starting from a crystalline state and using
+molecular dynamics to 'heat' the materials until it 'melts'. They are
+modelling zeolites for use as catalysts and looking at how the organic
+molecules 'dock' into the holes in the structure. Diagrams of zeolites can
+be found  on the CD-ROM given to delegates containing Vol 19 no 5,6 (1997)
+of the journal 'Molecular Simulation'. 
+
+<P> Keith Gibbons, North Carolina State University, discussed applications
+in chemical engineering including phase equilibria and confined flow, such
+as that through oil pipelines and at a much smaller scale through porous
+glasses used in chromatography. 
+
+<P>
+After lunch Peter Coveney, Queen Mary and Westfield College, explained the
+importance of merging the atomistic scale models smoothly with those of the
+mesoscale. Andrew Leach, Glaxo Wellcome, spoke of structure based library
+design and use of combinatorial chemistry to simulate many chemicals during
+their search for better drugs. They may simulate thousands of molecules but
+few will have any biological activity; the problem is to find just those
+which are worth synthesising and testing. 
+
+<P>
+Ian Gould, Imperial College, continued this theme of combinatorial chemistry
+but he is applying it to modelling proteins and protein drug interactions.
+He emphasised the importance of using many methods of structure
+determination, X-rays, neutrons and NMR, having good visualisation tools and
+the modelling of the proteins in their environment, usually water, where the
+proteins are not rigid, and so are continually folding and refolding. He is
+also working on the modelling of  photosynthesis in order to produce a
+better type of solar cell which can use many different wavelengths of light
+as plants do. <BR>David Nicolaides, MSI, talked about MesoDyn, an Esprit
+project (no. 228650) a collaboration between several European partners who
+are modelling lubricant flow round complex shapes. All the applications will
+be in the public domain, look at the MSI website for further details of
+their applications. ( <a href="http://www.msi.com">http://www.msi.com</a> )
+
+<P>
+<strong>Conclusions</strong>
+<P>
+The day contained a wide range of talks on a wide range of applications.
+Atomistic techniques are now reaching maturity with several software codes
+available.  Computer power is increasing so that such codes can be run on
+the desktop. Mesoscale applications are becoming possible, but one problem
+is that much of this work is not freely accessible because it is done in a
+commercial environment.  It is now becoming possible to simulate
+non-equilibrium problems.
+
+<P ALIGN=RIGHT>
+<em>Kate Crennell</em>
+<P align=left>
+<hr>
+<strong>Forthcoming meeting</strong>: an Internet conference, '<strong><em>
+Applications and Methodology of Molecular Simulation in the Physical and
+Biological Sciences</em></strong>'  19th - 30th April 1999 <BR>details at
+URL <a href="http://molsim.vei.co.uk/">http://molsim.vei.co.uk/</a><BR> 
+
+<P> <strong>References:</strong> 
+<P> Readers are reminded that the Dec 96 issue of
+'Crystallography news'  (p 46, 47) had a review of 
+'<em><a href="../books/dec96.html">Understanding
+Molecular Simulation. </a>from Algorithm to Applications</em>, 
+<BR>by D Frenkel
+and B.Smit published in 1996 by the Academic Press.
+
+<P>
+I am grateful to Prof N.Quirke for supplying the references below as
+suitable textbooks for those just entering this field, and the list of
+references to early papers in this field. <P>
+ 
+<P>
+<strong>Books</strong>
+<P>
+<ol>
+ <li> '<em>Molecular Modelling principles and Applications', </em>
+A.R.Leach pub. 1996 by Longman
+
+<li> '<em>Molecular Simulation and Industrial Applications, methods, examples 
+and prospects'.</em> eds. K.E.Gubbins and M.Quirke published in 1996 by 
+Gordon and Breach
+</ol>
+
+<P>
+<strong>Molecular Simulation early references and journals</strong>
+<p>
+<ol>
+  <li>N Metropolis, A W Rosenbluth, M N Rosenbluth, A H Teller and E Teller, 
+'<em>Equation of state calculations by fast computing machines</em>'  
+J Chem Phys. 21 1087 (1953)
+  <li> M N Rosenbluth and A W Rosenbluth, '<em>Further results on Monte Carlo 
+equations of state'  </em>  J Chem Phys. 22 881 (1954)
+  <li> W W Wood and J D Jacobson ' <em>Preliminary results from a 
+Recalculation of the Monte Carlo Equation of State of Hard Spheres'</em>
+    J Chem Phys 27 1207 (1957)
+  <li>  B J Alder and T E Wainwright '<em>Phase Transition for a Hard Sphere 
+System</em>' J Chem Phys 27 1208 (1957)
+  <li> W W Wood and F R Parker '<em>Monte Carlo Equation of state of molecules
+ interacting with the  LJ's potential I A supercritical Isotherm at about
+twice the critical  temperature'</em> J Chem Phys 27 720 (1957)
+  <li> B J Alder and T E Wainwright, '<em>Studies in Molecular Dynamics I 
+General Method'</em><BR> J Chem Phys 31 459 (1959)
+   <li> J B Gibson, A N Goland, M Milgram and G H Vineyard, '<em>Dynamics of 
+radiation damage</em>' Phys Rev 120 1229 (1960)
+   <li> A Rahman,'<em>Correlations in the motion of atoms in liquid argon'
+</em> Phys Rev 136 405 (1964)
+</ol>
+<P>
+<strong>Journals</strong>
+<P>
+Papers in this field are published in the journal '<strong><em>Molecular
+Simulation</em></strong>' by Gordon and Breach Science Publishers. E-mail:
+info@gbhap.com <br>
+   Web site 
+<a href="http://www.gbhap.com/Molecular_Simulation/">
+http://www.gbhap.com/Molecular_Simulation/</a>
+
+<p>
+Delegates received a copy of the special CD-ROM issue Volume 19 no 5-6 (1997),
+which gives a flavour of the type of papers; it can be viewed with an Internet browser on most microcomputers.
+
+<P>
+Papers with greater graphical content may be published in the 
+'<strong><em>Journal of Molecular Graphics and Modelling</em></strong>' 
+published by Elsevier. The journal home page is at 
+<a href="http://www.elsevier.nl/locate/jmgm/">
+http://www.elsevier.nl/locate/jmgm/</a>
+ The full
+text is available on-line via ChemWeb (to join go to 
+<a href="http://ChemWeb.com">http://ChemWeb.com</a> )
+You can receive the table of contents of each issue in advance by email by
+registering at  
+<a href="http://www.elsevier.nl/locate/ContentsDirect">
+http://www.elsevier.nl/locate/ContentsDirect</a> 
+
+<P>
+<strong>Societies</strong> 
+<P>
+The <strong>Molecular Graphics and Modelling Society</strong>, MGMS, edits the 
+journal and organises meetings and workshops. 
+Their url is <a href="http://www.yorvic.york.ac.uk/~mgms">
+http://www.yorvic.york.ac.uk/~mgms</a>
+
+
+<P>
+<strong>CCP5 </strong>is the Daresbury Laboratory's Collaborative Computational Project on
+<em>Molecular Dynamics, Monte Carlo and Lattice Simulations of Condensed 
+Phases.</em>
+
+They maintain a large software library and organize workshops on simulation
+problems, which can be found at URL   
+<a href="http://www.dl.ac.uk/CCP/CCP5/main.html">
+http://www.dl.ac.uk/CCP/CCP5/main.html</a>
+<hr>
+   
+Page last updated <em> 12 Mar 1999</em><br>
+<ADDRESS> BCA Home page WebMaster
+<a href="mailto:bca@isise.rl.ac.uk">BCA@ISISE.RL.AC.UK</a>
+</address>
+<a href="../../index.html"><img align=middle src="../../images/bca_min.gif"alt="<--"> 
+  Click here to return to BCA homepage </a>
+</body>
+</html>

@@ -1,0 +1,130 @@
+<html>  
+<header>  
+<TITLE>Software Review September 96</TITLE>  
+</header>        
+<body>
+<h1>crystallographica</h1>
+: Desktop crystallography for Personal Computers <br>
+marketed by:<br>
+Oxford Cryosystems, 3 Blenheim Office Park, Long Hanborough, Oxon. OX8 8LN,UK<br>
+Tel: +44 (0) 1993 883488   Fax: +44 (0) 1883988   email: sales@cgraph.demon.co.uk  <br>
+Single user license   £1195(industrial),  £595(academic),<br>
+  additional users:  £350(i), £95(a) <br>
+ <br>
+Software comes on two floppy discs with an elegant 300 page A4 ring-bound user manual.<br>
+<p>
+   The product. <strong>crystallographica</strong> is designed to run on
+IBM-compatible PCs (386 or higher, with at least 4 Mb RAM) under Windows
+(3.x, NT or 95). It has been developed to provide a flexible resource for
+those requiring access to crystallographic information and procedures.
+Whilst there are features that are useful to fully-fledged crystallographers
+the package is aimed principally at materials scientists and does not
+presume or require more than a modest amount of crystallographic knowledge.
+Essentially crystallographica is a Pascal interpreter, augmented by a large
+number of special functions and procedures, combined with two plotting
+packages--CrystalPlot to display the structure in hand and Graph to plot out
+data. The Multiple Document Interface allows a number of windows to be open
+simultaneously: besides CrystalPlot and Graph there can be Interpreter
+windows for interactive access, Console windows for data input, Editor
+windows for modifying Pascal scripts or datasets etc. The Graphical User
+Interface is well exploited, the functions of icons (not too many, not too
+small) are self-evident and the items in the pull-down menus are well
+supported by on-line help if one's personal RAM dips in performance.
+<p> 
+<strong>Functions related to scattering handle X-rays or neutrons but not
+electrons.</strong> A very useful procedure has been included that produces
+the powder diffraction pattern of a specified material. A monochromatic
+version is produced directly  whilst a Ka2 pattern may be added if
+appropriate. crystallographica can also be used to generate the .ins files
+that are required as input to the SHELXL structure refinement program. The
+SHELXL output can be reimported, the structure viewed and an updated .ins
+file produced.  <p> 
+   <strong> Installation</strong> requires 5 Mb of free disk space. It is
+initiated in Windows Program Manager and proceeds effortlessly, involving
+little more than a few mouse clicks.  <p> 
+
+<strong>    Use and testing.</strong> There are two ways in which the basic
+data for a  crystal may be  entered: either by importing a .CIF file
+(Crystallographic Information File),  a generous number of which have been
+provided, or by entering atom types, positions, lattice parameters etc.
+through dialogue boxes. All this information is stored in a Pascal `data
+structure' and the program ensures that any changes made to these data do
+not introduce any inconsistency--thus  if a lattice parameter change
+violates a space-group assignment the latter  will be altered appropriately.
+The structure may be observed via CrystalPlot,  atom radii and bonds
+tailored to taste, viewing angle selected and so on. One small criticism
+here is the lack of perspective-- a transformation that added  depth would
+greatly help 3D visualisation.  <p> 
+    To pass beyond the above minimum level of use brings the user up against
+Pascal. Be not afraid! The first 47 pages of the manual constitute a
+tutorial guide and provide plenty of simple examples of Pascal statements
+and syntax. The final 46 pages comprise a substantial Pascal primer. Those
+familiar with  the language will be reassured to know that a ** operator has
+been implemented so that integral powers of numbers can be computed. The
+execution of an interactive session is facilitated by an `alias' capability,
+by name  completion using the ESC key and by a UNIX-like history feature
+that allows short cuts to previous commands. Your reviewer, however, was
+frequently frustrated by this mode of use and much prefers to write simple
+Pascal scripts which may be added to the corpus of scripts already provided. 
+<p> 
+   My own use of crystallographica has largely been to simulate the X-ray
+response of crystals to different perturbations: in-diffusion of ions from
+electrodes in LiNbO3 and ion-disordering in KTiOPO4 under electric field and
+inner displacement of atom positions in GaP under uniaxial stress. These all
+involve tracking the behaviour of the structure factor. Effects can be made
+vivid in CrystalPlot by linking colour with site-occupancy and in  Graph by
+a plot-as-you-go build up. Incorrect hypotheses can be rapidly identified,
+the script edited and a new run started. This work revealed a  serious
+shortcoming of the program---anomalous dispersion is not handled correctly
+in the vicinity of absorption edges so the structure factor may be wildly in
+error. It is possible to get round this by entering one's own data into the
+file USERPROF.i which is provided as a repository for any constants, data,
+aliases etc. that one wishes to set up. The widely-available Cromer-Liberman
+FPRIME program could be used for this purpose.<p>   
+    In another task a colleague provided lists of atomic positions
+representing exotic carbon structures, wishing to know the spacegroups. It
+was simple to scan his data, deduce the structures were orthorhombic or
+tetragonal and exhaust speedily the possibilities using crystallographica,
+obtaining informative pictures at the same time. 
+    All in all the product is very easy to use. <p><strong>    
+Conclusions.</strong> This is a very well-conceived package, loads of 
+crystallographically-secure procedures that the user can weld together to 
+solve problems which would otherwise require time-consuming programming.  It
+is especially good for simulation where the gradual effects of some change
+may be clearly seen simultaneously in graphics and in plots. The powder
+diffraction pattern feature will appeal strongly to the increasing numbers
+of workers in high-pressure research, inter alia. I have some  reservations
+about the quality of the hardcopy output from CrystalPlot but am informed
+that the version 1.1 release (this review relates to 1.03) due later this
+year will include the ability to export any crystal structure  drawing as a
+VRML file. This can then be processed to give a Silicon Graphics-style
+photo-realistic plot which may include thermal ellipsoids, polyhedra and
+Miller planes in addition to standard features. (<em>Editor's Note: The VRML
+ouput was on show at the IUCr in August 96, but the resolution of your
+hardcopy may still be limited to that of your screen, unless you have a
+smart Web Browser.</em>) 
+
+<p>      Unlike software dedicated to limited tasks, an individual
+crystallographica implementation will grow by the accumulation of the user's
+own scripts, and thus become yet more powerful. An analogous process at the
+developers' end should lead rapidly to a solution of the anomalous
+dispersion problem mentioned above. <p>    <strong>   Value for
+money.</strong> I think it's over-priced though I know of no other similar
+product with which to compare it. However it's no more than the cost of an
+electronic module that might form a very small part of the experimental
+apparatus that produces the results that crystallographica is called upon to
+analyse. Look on it as an instrument!    <p>  <strong>  Support </strong>is
+available by email or fax.  Registered users are entitled to free upgrades
+until the next major release of the product. In addition a space on the
+<a href="http://www.demon.co.uk/oxcryo/cgraph.htm>Company's Web page </a>
+ (http://www.demon.co.uk/oxcryo/cgraph.html) is devoted
+to users' scripts. <br>    <em> Chris Cousins 4 July 1996</em>
+ <br>
+ <hr> 
+<ADDRESS>
+BCA Home page WebMaster <a
+href="mailto:bca@isise.rl.ac.uk">BCA@ISISE.RL.AC.UK</a> </address>
+<a href="../../index.html"> <img align=middle src="../../images/bca_min.gif"alt="<--"> 
+  Click here to return to BCA homepage </a>
+</body>
+</html>
