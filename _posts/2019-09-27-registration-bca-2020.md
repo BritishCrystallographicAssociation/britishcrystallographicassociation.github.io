@@ -12,7 +12,7 @@ The organizing committee look forward to welcoming you to the Spring Meeting 202
 
 [Click here to register](https://registrations.hg3conferences.co.uk/hg3/165/home)
 
-The meeting will begin with the optional, but increasingly popular Young Crystallographers’ meeting on the afternoon of Monday 5th April and morning of Tuesday 6th April. The main meeting begins immediately afterwards on Tuesday 6th and closes at lunch time on Thursday 8th April. An exciting and varied programme is currently being assembled by our programme committee, chaired by Emma McCabe, and promises relevant and interesting talks in every session. This meeting is a great opportunity to catch up with the latest crystallographic science, and of course with your fellow crystallographers.
+The meeting will begin with the optional, but increasingly popular Young Crystallographers’ meeting on the afternoon of Monday 5th April and morning of Tuesday 6th April. The main meeting begins immediately afterwards on Tuesday 6th and closes at lunch time on Thursday 8th April. An exciting and varied programme is currently being assembled by our programme committee, chaired by Thomas A. Edwards and promises relevant and interesting talks in every session. This meeting is a great opportunity to catch up with the latest crystallographic science, and of course with your fellow crystallographers.
 
 The meeting will include the BCA Prize Lecture as well as plenary speakers from each group of the Association. The traditional early-career prize session will be held on the afternoon of Wednesday 8th April. Throughout the rest of the program there will often be three sessions running in parallel in addition to a range of workshops. Please visit the meeting website for up-to-date information.
 
