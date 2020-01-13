@@ -12,10 +12,10 @@ The annual Spring Meeting of the BCA brings together all four subject groups and
 
 ### Next meeting
 
-The 36th spring meeting will be held at the [Nottingham Jubillee Campus in 2019](http://www.bcaspringmeetings.org.uk/home).
+The 37th spring meeting will be held at the [University of Leeds on 6th - 9th April 2020](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=58795&eventID=165&CSPCHD=0030010000008yweh0SkfrR8fLxPbJiJW8$Q9_UhNx2J7HNgml).
 
 ### Previous meetings
-
+- [2019 (36th) Nottingham]({{ "/assets/pdf/crystallography-news/2018-03.pdf#page=10" | relative_url }})
 - [2018 (35th) Warwick]({{ "/assets/pdf/crystallography-news/2018-03.pdf#page=10" | relative_url }})
 - [2017 (34th) Lancaster]({{ "/assets/pdf/crystallography-news/2017-03.pdf#page=10" | relative_url }})
 - [2016 (33rd) Nottingham]({{ "/assets/pdf/crystallography-news/2016-03.pdf#page=10" | relative_url }})
