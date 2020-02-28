@@ -107,11 +107,11 @@ EH9 3FJ
 E-mail: g.s.nichol@ed.ac.uk
 
  
-### Dr David Beveridge (Industrial)
-HARMAN technology Ltd  
-Ilford Way  
-Knutsford  
-Cheshire WA16 7JL  
+### Dr Helen Blade (Industrial)
+AstraZeneca 
+Charter Way 
+Macclesfield  
+SK10 2NA  
 Email: david.beveridge@harmantechnology.com  
 Tel: 01565 650000
 
@@ -124,12 +124,11 @@ Email: helen.playford@stfc.ac.uk
 Tel: +44 (0)1235 446890
  
 ### Dr Elliot Carrington (Young Crystallographers)
-University of Liverpool  
-Materials Innovation Factory  
-Department of Chemistry  
-Crown Street  
-Liverpool L69 7ZD  
-Email: elliot.carrington@liverpool.ac.uk
+University of Sheffield  
+Broomhall 
+Sheffield 
+S10 2TG
+Email: elliot.carrington89@gmail.com
 
  
 
@@ -141,9 +140,14 @@ Email: t.a.edwards@leeds.ac.uk
 
  
 ## Ex officio
-### Professor Carl H Schwalbe (Crystallography News Editor)
-Tel: +44 (0)1905 775257  
-Email: carl.schwalbe@hotmail.com
+### Professor John Finney (Crystallography News Editor)
+UCL 
+Department of Physics and Astronomy, 
+University College London 
+Gower Street 
+London 
+WC1E 6BT
+Email: john.finney@ucl.ac.uk
 
 ### Nicola Hardaker, HG3 Ltd (BCA Administrative Officer).
 Email: bca@hg3.co.uk
