@@ -16,7 +16,7 @@ Existing members can use the [on-line form]({{ site.url }}/membership/member-log
  
 ## New membership
 
-Download the [membership-form]({{ site.url }}/assets/pdf/forms/Membership-form.pdf) or use our [on-line registration and payment](http://www.hg3.co.uk/bca/registration.aspx) facility.
+Download the [membership-form]({{ site.url }}/assets/pdf/forms/Membership-form-2020.pdf) or use our [on-line registration and payment](http://www.hg3.co.uk/bca/registration.aspx) facility.
 
 The BCA is a UK registered charity founded in 1982 to advance the education of the public in the science of crystallography, particularly within the British Isles. We invite you to join our 1000+ membership. Some Benefits of Individual Membership are:
 
@@ -29,7 +29,7 @@ The BCA is a UK registered charity founded in 1982 to advance the education of t
 *    Receive optional and occasional E-mail notifications of news items and meeting information.
 *    Have your say in the development of crystallography, and nominate and vote for BCA Officers, Council Members and subject-group Committee Members, or even stand for office yourself!
 
-Simply download and print out and complete a copy of the [membership-form]({{ site.url }}/assets/pdf/forms/Membership-form.pdf), and return by post to the BCA Administrative Office with your payment. If you would like to pay by direct debit, please use the [direct debit form]({{ site.url }}/assets/pdf/forms/Direct-debit-form.pdf). If you are paying by credit card you can also submit your application by Fax.
+Simply download and print out and complete a copy of the [membership-form]({{ site.url }}/assets/pdf/forms/Membership-form-2020.pdf), and return by post to the BCA Administrative Office with your payment. If you would like to pay by direct debit, please use the [direct debit form]({{ site.url }}/assets/pdf/forms/Direct-debit-form.pdf). If you are paying by credit card you can also submit your application by Fax.
 
 Please consider adding a donation which goes directly to “good works” and helps keep membership fees low which is of particular benefit to our younger members. Please take a moment to look at [gift aid](#gift-aid): you may be able to make the fee worth even more!
 
