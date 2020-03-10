@@ -112,8 +112,7 @@ AstraZeneca
 Charter Way 
 Macclesfield  
 SK10 2NA  
-Email: david.beveridge@harmantechnology.com  
-Tel: 01565 650000
+Email: Helen.blade@astrazeneca.com
 
  
 ### Dr Helen Playford (Physical Crystallography)
@@ -125,8 +124,8 @@ Tel: +44 (0)1235 446890
  
 ### Dr Elliot Carrington (Young Crystallographers)
 University of Sheffield  
-Broomhall 
-Sheffield 
+Broomhall
+Sheffield
 S10 2TG
 Email: elliot.carrington89@gmail.com
 
