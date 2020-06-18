@@ -37,12 +37,10 @@ Email: secretary@crystallography.org.uk
   
 
 ## Treasurer
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/elizabeth-shotton-115x150.jpg){: .align-right}{:width="200px"}
-### Dr Elizabeth Shotton (co-opted to 2020)
-Diamond Light Source,  
-Harwell Science & Innovation Campus,  
-Didcot,  
-Oxfordshire, OX11 0DE  
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/clairenaylor.jpeg){: .align-right}{:width="200px"}
+### Dr Claire Naylor (co-opted to 2023)
+Quantifoil Micro Tools GmbH,  
+Email: treasurer@crystallography.org.uk
 
  
 ## Immediate Past President
