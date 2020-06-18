@@ -45,7 +45,6 @@ Email: treasurer@crystallography.org.uk
 
 <br>
 
-<br>
 
 ## Immediate Past President
 ### Professor Lee Brammer (2019)  
