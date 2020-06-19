@@ -38,7 +38,7 @@ Email: secretary@crystallography.org.uk
 
 ## Treasurer
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/clairenaylor.jpeg){: .align-right}{:width="200px"}
-### Dr Claire Naylor (co-opted to 2023)
+### Dr Claire Naylor (2023)
 Quantifoil Micro Tools GmbH,  
 Email: treasurer@crystallography.org.uk
 
