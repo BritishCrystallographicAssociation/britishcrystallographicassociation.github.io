@@ -15,4 +15,5 @@ The BCA AGM 2021 takes place on Wednesday 31st March 2021 at 17:30. On this page
 
 
 ![Accounts Summary 2021_page1](/assets/images/posts/PAGE1_BCAAGM2021.png)
+
 ![Accounts Summary 2021_page2](/assets/images/posts/PAGE2_BCAAGM2021.png)
