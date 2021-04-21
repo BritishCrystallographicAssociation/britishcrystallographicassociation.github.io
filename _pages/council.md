@@ -81,7 +81,7 @@ anna.warren@diamond.ac.uk
 Tel: +44 (0)1235 778 000  
 Email: anna.warren@diamond.ac.uk
  
-### Dr Hazel Sparkes (co-opted 2020)
+### Dr Hazel Sparkes (2023)
 Department of Chemistry  
 University of Bristol  
 Cantock's Close  
