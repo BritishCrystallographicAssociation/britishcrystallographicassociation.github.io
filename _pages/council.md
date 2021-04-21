@@ -8,11 +8,11 @@
 
 ## President & Representative to Scientific Unions Committee (SUC) of the Royal Society
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/simon-phillips-287x300.jpg){: .align-right}{:width="200px"}
-### Professor Simon Phillips (2021)  
-Department of Biochemistry  
-University of Oxford  
-South Parks Road  
-Oxford OX1 3QU  
+### Professor Richard Cooper (2024)  
+Chemical Crystallography
+Chemistry Research Laboratory
+12 Mansfield Road
+Oxford OX1 3TA
 E-mail: president@crystallography.org.uk
 
  
@@ -47,26 +47,25 @@ Email: treasurer@crystallography.org.uk
 
 
 ## Immediate Past President
-### Professor Lee Brammer (2019)  
-Department of Chemistry  
-University of Sheffield  
-Sheffield S3 7HF  
-Tel +44 (0)114 222 9536  
-Email: lee.brammer@sheffield.ac.uk
+### Professor Simon Phillips (2021)  
+Department of Biochemistry  
+University of Oxford  
+South Parks Road  
+Oxford OX1 3QU  
+
 
 ## Education and Outreach Coordinator
-### Prof Simon J Coles (2021)  
-UK National Crystallography Service  
-Chemistry  
-University of Southampton  
-Southampton SO17 1BJ  
-Tel. 023 8059 6721  
-Email: s.j.coles@soton.ac.uk
+### Dr Christine Beavers (2024)  
+Diamond Light Source Ltd
+Diamond House, Harwell Science & Innovation Campus
+Didcot, Oxfordshire
+OX11 0DE   
+Email: Christine.Beavers@diamond.ac.uk
 
 
 ## Ordinary Members
 
-### Dr Cheryl Doherty (2021) 
+### Dr Cheryl Doherty (2024) 
 #### Bursary Officer (2019-present)
 GSK  
 Stevenage  
@@ -123,18 +122,18 @@ Didcot OX11 0QX
 Email: helen.playford@stfc.ac.uk  
 Tel: +44 (0)1235 446890
  
-### Dr Elliot Carrington (Young Crystallographers)
+### Tom Roseveare (Young Crystallographers)
 University of Sheffield  
 Broomhall
 Sheffield
 S10 2TG
-Email: elliot.carrington89@gmail.com
+Email: tom.roseveare@sheffield.ac.uk
 
  
 
 ## Co-opted members
-### Dr Thomas Edwards (2020, Spring Meeting Programme Chair)
-Email: t.a.edwards@leeds.ac.uk
+### Dr Iain Oswald (2022, Spring Meeting Programme Chair)
+Email: iain.oswald@strath.ac.uk
 
 
 
