@@ -1,9 +1,5 @@
 # main links
 main:
-  - title: "AGM 2021 Documents"
-    url: /AGM-2021/
-  - title: "EPSRC Statement of Need"
-    url: /EPSRC-statement-of-need/
   - title: "About"
     url: /about/
   - title: "News"
