@@ -7,7 +7,7 @@
 ---
 
 ## President & Representative to Scientific Unions Committee (SUC) of the Royal Society
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/simon-phillips-287x300.jpg){: .align-right}{:width="200px"}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/RIC.jpg){: .align-right}{:width="200px"}
 ### Professor Richard Cooper (2024)  
 Chemical Crystallography
 Chemistry Research Laboratory
@@ -47,6 +47,7 @@ Email: treasurer@crystallography.org.uk
 
 
 ## Immediate Past President
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/simon-phillips-287x300.jpg){: .align-right}{:width="200px"}
 ### Professor Simon Phillips (2021)  
 Department of Biochemistry  
 University of Oxford  
@@ -55,6 +56,7 @@ Oxford OX1 3QU
 
 
 ## Education and Outreach Coordinator
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/IUCrHeadshot.jpg){: .align-right}{:width="200px"}
 ### Dr Christine Beavers (2024)  
 Diamond Light Source Ltd
 Diamond House, Harwell Science & Innovation Campus
@@ -122,7 +124,7 @@ Didcot OX11 0QX
 Email: helen.playford@stfc.ac.uk  
 Tel: +44 (0)1235 446890
  
-### Tom Roseveare (Young Crystallographers)
+### Dr Tom Roseveare (Young Crystallographers)
 University of Sheffield  
 Broomhall
 Sheffield
@@ -150,6 +152,14 @@ Email: john.finney@ucl.ac.uk
 
 ### Nicola Hardaker, HG3 Ltd (BCA Administrative Officer).
 Email: bca@hg3.co.uk
+
+### Dr Claire Hobday (Webmaster)
+University of Edinburgh School of Chemistry  
+Joseph Black Building  
+David Brewster Road  
+Edinburgh  
+EH9 3FJ 
+Email: claire.hobday@ed.ac.uk
 
 
 
