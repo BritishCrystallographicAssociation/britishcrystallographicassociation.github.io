@@ -13,7 +13,7 @@ Chemical Crystallography
 Chemistry Research Laboratory
 12 Mansfield Road
 Oxford OX1 3TA
-[E-mail](president@crystallography.org.uk)
+[E-mail](mailto:president@crystallography.org.uk)
 
  
 ## Vice-President
