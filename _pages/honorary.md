@@ -36,7 +36,6 @@ As of 2018 current Honorary members are listed below. Date of award in parenthes
 -    Mr David Taylor (2010)
 -    Sir John Walker (1999)
 -    Dr David Watkin (2009)
--    Professor Michael Woolfson (2002)
 
 Former Honorary Members of the BCA
 
@@ -52,4 +51,5 @@ Former Honorary Members of the BCA
 -    Dr Helen Megaw (1998-2002)
 -    Professor Max Perutz (1998-2002)
 -    Professor Terry Willis (1999-2018)
+-    Professor Michael Woolfson (2002-2019)
 
