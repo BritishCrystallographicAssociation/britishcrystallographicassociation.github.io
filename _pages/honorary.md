@@ -25,6 +25,7 @@ Current Honorary members are listed below [updated September 2021]. Date of awar
 -    Professor Michael Glazer (2005)
 -    Dr Robert Gould (2008)
 -    Professor Michael Hart (2003)
+-    Professor John Helliwell (2019)
 -    Professor Judith Howard (2003)
 -    Professor Michael Hursthouse (2007)
 -    Dr Olga Kennard (2016)
@@ -32,7 +33,6 @@ Current Honorary members are listed below [updated September 2021]. Date of awar
 -    Professor Moreton Moore (2013)
 -    Dr Venki Ramakrishnan (2010)
 -    Professor George Sheldrick (2005)
--    Professor Carl Schwalbe (2018)
 -    Mr David Taylor (2010)
 -    Sir John Walker (1999)
 -    Dr David Watkin (2009)
@@ -50,6 +50,8 @@ Former Honorary Members of the BCA
 -    Professor Andrew Lang (2002-2008)
 -    Dr Helen Megaw (1998-2002)
 -    Professor Max Perutz (1998-2002)
+-    Professor Carl Schwalbe (2018-2020)
 -    Professor Terry Willis (1999-2018)
 -    Professor Michael Woolfson (2002-2019)
+
 
