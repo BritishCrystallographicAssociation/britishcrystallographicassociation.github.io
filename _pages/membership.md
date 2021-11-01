@@ -16,7 +16,7 @@ Existing members can use the [on-line form]({{ site.url }}/membership/member-log
  
 ## New membership
 
-Download the [membership-form]({{ site.url }}/assets/pdf/forms/Membership-form-2020.pdf) or use our [on-line registration and payment](http://www.hg3.co.uk/bca/registration.aspx) facility.
+Download the [membership-form]({{ site.url }}/assets/pdf/forms/Membership-form-2020.pdf) or use our [on-line registration and payment](http://hg3.co.uk/bca/registration.aspx) facility.
 
 The BCA is a UK registered charity founded in 1982 to advance the education of the public in the science of crystallography, particularly within the British Isles. We invite you to join our 1000+ membership. Some Benefits of Individual Membership are:
 
