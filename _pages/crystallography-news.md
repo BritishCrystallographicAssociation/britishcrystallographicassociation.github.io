@@ -8,6 +8,10 @@
 for f in *.pdf; do convert -thumbnail x150 -background white -alpha remove "$f"[0] "${f%.pdf}.png"; done
 -->
 
+<!-- This command is useful for compressing large (scanned) PDFs
+gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=output.pdf input.pdf
+-->
+
 Crystallography News is published quarterly by the British Crystallographic Association and is free to members. Back issues appear on this website approximately 6-12 months after publication. Members can access restricted copies in the [members area]({{ site.url }}{{ site.baseurl }}/membership/member-login/) with their username and password.
 
 Please send articles or items for inclusion to the [Crystallography News Editor]({{ "/about/contact/#crystallography-news-editor" | relative_url }}). Items may be technical articles, news about crystallographers (e.g. awards, honours, retirement etc.), reports on past meetings of interest to crystallographers, notices of future meetings, historical reminiscences, letters to the editor, book, hardware or software reviews.
@@ -52,6 +56,9 @@ Please send articles or items for inclusion to the [Crystallography News Editor]
 | March 2002 | June 2002 |  September 2002 | December 2002 |
 | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2001-03.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2001-03.pdf) | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2001-06.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2001-06.pdf) | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2001-09.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2001-09.pdf) | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2001-12.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2001-12.pdf) |
 | March 2001 | June 2001 |  September 2001 | December 2001 |
+
+| | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN1.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN1.pdf) | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN2.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN2.pdf) | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN3.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN3.pdf) |
+|  | June 1982 |  September 1982 | December 1982 |
 
 
 
