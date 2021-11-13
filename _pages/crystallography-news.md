@@ -62,8 +62,8 @@ Please send articles or items for inclusion to the [Crystallography News Editor]
 | March 1984 | June 1984 |  September 1984 | December 1984 |
 | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN6.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN6.pdf) | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN7.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN7.pdf) |
 | September 1983 | December 1983 |
-| [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN5.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN5.pdf) | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN1.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN1.pdf) | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN2.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN2.pdf) | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN3.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN3.pdf) |
-| March 1982 | June 1982 |  September 1982 | December 1982 |
+| [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN5.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN5.pdf) | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN1.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN1.pdf) | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN2.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN2.pdf) |
+| March 1982 | June 1982 |  September 1982 | 
 | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN3.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/CN3.pdf) |
 | October 1981 |
 
