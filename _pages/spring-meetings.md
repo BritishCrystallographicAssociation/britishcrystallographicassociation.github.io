@@ -12,7 +12,7 @@ The annual Spring Meeting of the BCA brings together all four subject groups and
 
 ### Next meeting
 
-The 38th spring meeting will take place at [University of Leeds on 11th - 14th April 2022](https://hg3.co.uk/bca/). 
+The 38th spring meeting will take place at [University of Leeds on 11th - 14th April 2022](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=73158&eventID=201&traceRedir=2). 
 
 The Officers and Council of the BCA are excited to welcome you to Leeds in person in 2022, two years after the conference was intially planned to be held in Leeds. 
 
