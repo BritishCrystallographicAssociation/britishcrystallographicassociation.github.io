@@ -41,8 +41,8 @@ In his autobiography La Primavera Jack wrote  ‘If I had another life, I would 
 
 We think now of Barbara,  their children (2),  grandchildren (6) and great grandchildren (8) and extended our sincere sympathy to them all from the BCA.
 
-> Judith A. K. Howard
-Durham University
+> Judith A. K. Howard  
+Durham University  
 October 2021
 
 Further reading: La primavera: autobiographical notes: [Helvetica Chimica Acta, 96,(2013) 545-563](https://onlinelibrary.wiley.com/doi/10.1002/hlca.201300038)
