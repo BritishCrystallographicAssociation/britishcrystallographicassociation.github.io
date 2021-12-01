@@ -10,7 +10,6 @@ at ETH-Zurich, but he had roots in the UK and a close association with the BCA, 
 Members of the Association. An announcement can be accessed from [ETH Chemistry and Applied Biosciences news page](https://chab.ethz.ch/en/news-and-events/d-chab-news/2021/09/jack-dunitz-deceased.html)
 
 # Obituary
-
 ## Jack Dunitz: 9th March 1923 - 12th September 2021
 
 It was with deep sadness and a huge feeling of loss that we learned of the passing of Jack Dunitz at the age of 98.  Jack was Emeritus Professor at ETH, Zurich, where he worked from 1957 until he retired formally in 1990, although for years he continued to travel, give talks and to meet fellow scientists.
@@ -22,6 +21,9 @@ Jack was always an inspiration to many of us reading this newsletter today, and 
 I met Jack first in Oxford in Dorothy Hodgkin’s lab in the mid/late 1960s and it was wonderful as a young DPhil student to have had that opportunity, as Jack was already such a well-known name in our field. Subsequently I got to know Jack well and we met at many conferences, at the Erice Crystallography Schools, the regular CCDC student days and a memorable visit to my lab in Durham.  It was always a bonus to sit and listen to him talking, explaining things to the students, asking just the right questions and always enjoying the interaction with other chemists and crystallographers. Jack was without doubt wonderfully inspiring and such a human and knowledgeable face of crystallography.
 
 His legacy to us all is enormous and Jack will be remembered for the way he taught and inspired others, in particular the young, the kindness he showed to nervous students and the patience he demonstrated to new comers to our field who were keen to learn the basics and more, from Jack himself. 
+
+![Photo of Jack Dunitz lecturing (image credit: Judith A. K. Howard)]({{ site.url }}{{ site.baseurl }}/assets/images/posts/jack-dunitz-photo-by-jak-howard.png)
+> Photo credit: Juditk A. K. Howard
 
 Jack was born in Glasgow, went through school there and entered Glasgow University in 1940 to read chemistry, encouraged by his school chemistry teacher who had ‘made the subject interesting ‘. For his graduate studies, Jack was assigned to the lab of J Monteath Robinson, who had demonstrated the power of isomorphous replacement, but Jack did not use that in his doctoral studies, nor the ‘heavy atom’ methods,  but they had explored the ‘new’ Patterson function.   After his PhD he travelled south to Oxford to join Dorothy Hodgkin’s lab, to learn about structure solution from 3 dimensional diffraction data and here he spent two years [1946-48] before taking up a post doc in Caltech with Linus Pauling [1948-1951]. There followed another period at Oxford [1951-1953] and a further 2 years at Caltech and NIH [1954-1955] where he worked with the biophysicist Alex Rich to establish a lab of structural research at Bethesda. Jack was recruited in 1956 by Sir Lawrence Bragg to join him at the Royal Institution, London and it was from there that he was appointed to the position at ETH, Zurich as Professor of Organic Chemistry (1957), where he established X-ray crystallography as the essential tool for chemical structure analysis.
 
@@ -39,9 +41,9 @@ In his autobiography La Primavera Jack wrote  ‘If I had another life, I would 
 
 We think now of Barbara,  their children (2),  grandchildren (6) and great grandchildren (8) and extended our sincere sympathy to them all from the BCA.
 
-> Judith A K Howard 
-> Durham University
-> October 2021
+> Judith A. K. Howard
+Durham University
+October 2021
 
 Further reading: La primavera: autobiographical notes: [Helvetica Chimica Acta, 96,(2013) 545-563](https://onlinelibrary.wiley.com/doi/10.1002/hlca.201300038)
 
