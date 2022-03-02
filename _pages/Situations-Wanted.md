@@ -13,6 +13,7 @@ Send notices about positions sought to the BCA webmaster (web. at. crystallograp
 
 ## 2 March 2022
 
-Dr Eduard Rusanov, crystallographer from Kyiv, Ukraine sent the urgent request linked here for a temporary research position. Further contact details are available on request - please email president .at. crystallography.org.uk.
+Dr Eduard Rusanov, crystallographer from Kyiv, Ukraine sent the urgent request [linked here](/assets/pdf/DrEduardRusanov.pdf) for a temporary research position. Further contact details are available on request - please email president .at. crystallography.org.uk.
+
 
 
