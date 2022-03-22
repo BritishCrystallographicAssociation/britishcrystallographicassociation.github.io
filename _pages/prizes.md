@@ -26,6 +26,7 @@ Nominations for this prize are welcomed from any part of the crystallographic co
 - 2010 Dame Louise Johnson (University of Oxford) “Forty years of structural biology: where have we come from and where might we be going?”
 - 2015 Sir Tom Blundell (University of Cambridge) “Dorothy Hodgkin, Structural Biology and Drug Discovery”
 - 2018 Prof. Eleanor Dodson (University of York) “The Joy of Seeing – in Honour of Dorothy Hodgkin”
+- 2022 Prof. Elspeth Garman (University of Oxford) “Macromolecular Crystallography in 112 AD (After Dorothy)”
 
 ## The Bragg Lecture
 
@@ -57,6 +58,7 @@ The BCA is proud to have hosted many recent Bragg Lectures. Lecturers are chosen
   -   2013 Prof. Bill David, ISIS Facility RAL and University of Oxford, UK – “100 years of X-ray crystallography – the continuing Bragg legacy”
 - 2014 Prof. Judith Howard, Durham University – “Exploring a Century of Reciprocal Space: Same Old Theory – Endless New Results”
 - 2017 Prof. Mike Glazer, University of Oxford -“The Wondrous World of Perovskites”
+- 2021 Prof. Richard Henderson, MRC Laboratory of Molecular Biology - “The continuing Cryo-EM Revolution in Structural Biology”
 
 ## The Lonsdale Lecture
 
@@ -84,6 +86,9 @@ Recently, the Lonsdale Lecture is awarded by the BCA on the recommendation of th
 - 2016 Prof. Arwen Pearson (University of Hamburg) “Visualising molecules in motion: crystallography as a tool to probe structure and dynamics”
 - 2017 Prof. Kay Diederichs (Universität Konstanz) “Towards a better understanding of (non-)isomorphism in macromolecular crystallography”
 - 2018 Prof. Bill Clegg (Newcastle University) “Distortions, deviations and alternative facts: reliability in crystallography”
+- 2019 Prof. George Sheldrick (Gottingen) “SHELXT = dual space structure determination using the phases to determine the space group”
+- 2021 Dr. Lucy Clark (Liverpool) “Quantum Magnetism and Crystallographic Complexity in Mineral Materials”
+- 2022 Prof. Andrew Goodwin (Oxford) “Disorder by design: from form to function”
 
 ## The BCA Prize Lecture
 
@@ -94,4 +99,5 @@ The BCA Prize Lecture is awarded triennially. The awardee will be someone who ha
 - 2008 Dr. Tony Crowther (MRC LMB Cambridge) “From Molecular Replacement to the Structure of Viruses: a Tale of Two Careers”
 - 2012 Dr. Robin Taylor (Taylor Cheminformatics Software) “Predicting Low-Energy Conformations of Small Organic Molecules: Is Crystal-Structure Data Redundant?”
 - 2016 Prof. Christer Aakeröy (Kansas State University) “From molecular sociology to functional materials”
+- 2019 Prof. Clare Grey (Cambridge) “Developing and optimising the function of Li-ion and 'beyond Li' batteries and supercapacitors by advanced characterization methods”
 
