@@ -20,3 +20,5 @@ Support the Ukraine Humanitarian Appeal by donating to or fundraising for the Di
 
 The Council for At Risk Academics offers support to academics who have been forced to flee their homes due to violence or conflict. You can support them by donating or by volunteering in some of their programmes in the UK [https://www.cara.ngo/how-to-help/](https://www.cara.ngo/how-to-help/)
 
+Please direct any enquiries to [Richard Cooper (BCA President)](mailto:president@crystallography.org.uk?subject=Ukraine%20Support)
+
