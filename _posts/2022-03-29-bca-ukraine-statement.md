@@ -4,7 +4,7 @@ date:   2022-03-29 09:30:00 +0100
 categories: news
 ---
 
-The BCA Council issued the following statement on behalf of the British Crystallographic Association following the  
+The BCA Council issued the following statement on behalf of the British Crystallographic Association.
 
 # Statement of Support for Ukraine
 
@@ -16,7 +16,7 @@ The BCA will endeavour to assist Ukrainian colleagues displaced by war by offeri
 
 ## How to help
 
-Support the Ukraine Humanitarian Appeal by donating to or fundraising for the Disasters Emergency Committee: https://www.dec.org.uk/
+Support the Ukraine Humanitarian Appeal by donating to or fundraising for the Disasters Emergency Committee: [https://www.dec.org.uk/](https://www.dec.org.uk/)
 
-The Council for At Risk Academics offers support to academics who have been forced to flee their homes due to violence or conflict. You can support them by donating or by volunteering in some of their programmes in the UK https://www.cara.ngo/how-to-help/
+The Council for At Risk Academics offers support to academics who have been forced to flee their homes due to violence or conflict. You can support them by donating or by volunteering in some of their programmes in the UK [https://www.cara.ngo/how-to-help/](https://www.cara.ngo/how-to-help/)
 
