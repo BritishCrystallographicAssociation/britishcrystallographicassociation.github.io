@@ -12,5 +12,5 @@ The BCA Spring Meeting 2022 start today (11th April 2022). Here are a few useful
 
 [Venue information](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/tOtherPage.csp?pageID=73562&ef_sel_menu=1651&eventID=201)
 
-Latest updates on twitter: [https://twitter.com/britcryst](https://twitter.com/britcryst) - meeting hashtags [#bcaspringmeeting](https://twitter.com/search?q=%23bcaspringmeeting) [#BCA2022](https://twitter.com/hashtag/BCA2022) 
+Latest updates on twitter: [https://twitter.com/britcryst](https://twitter.com/britcryst) Official meeting hashtag [#BCA22](https://twitter.com/hashtag/BCA22) unofficial hashtag [#bcaspringmeeting](https://twitter.com/search?q=%23bcaspringmeeting)  
 
