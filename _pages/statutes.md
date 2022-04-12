@@ -81,11 +81,15 @@
 
 1. A General Meeting of the Ordinary and Joint Members of the Association shall be held in each calendar year. The time and place of this Annual General Meeting, if not fixed by the preceding Annual General Meeting, shall be fixed by the Council. At least one month’s notice shall be given in the manner prescribed by the By-Laws.
 
-2. Extraordinary General Meetings may be called by the Council or the President if required to conduct urgent business. Notice of such Extraordinary General Meetings shall be given as prescribed for the Annual General Meeting, and only business specified in the notice convening the meeting and in Statute D.5 may be transacted.
+2. Extraordinary General Meetings may be called by the Council or the President if required to conduct urgent business. Notice of such Extraordinary General Meetings shall be given as prescribed for the Annual General Meeting, and only business specified in the notice convening the meeting and in Statute D.7 may be transacted.
 
 3. A General Meeting adjourned to a specific time and place by a motion properly proposed and carried shall be considered as a single General Meeting, and no further period of notice is required.
 
-4. The Annual General Meeting shall have the following functions:
+4. Under extraordinary circumstances Annual General Meetings may, at the discretion of the Council, be held electronically using video- or audio-conferencing or similar facilities.  Members will be informed at least two weeks prior to the date of a meeting if it is to be held electronically and provided with joining instructions. Electronic meetings will otherwise be subject to the same statutes and by-laws as other General Meetings. 
+
+5. An Annual General Meeting held in electronic format (Section D.4) may be recorded for the purposes of ensuring accuracy in the Minutes of the meeting.  The recording will be stored securely and only accessible by the Officers of the Association [Statute E.1].  The recording will be destroyed within one month of approval of the Minutes.
+
+6. The Annual General Meeting shall have the following functions:
 
 (a) to report the election of the Officers and other members of the Council;
 
@@ -101,7 +105,7 @@
 
 (g) to consider, and if thought fit recommend action on, any matter related to the purposes of the Association.
 
-5. Extraordinary General meetings have the same powers as Annual General Meetings with regard to the business specified in the notices convening them. In addition, without special notice, they may:
+7. Extraordinary General meetings have the same powers as Annual General Meetings with regard to the business specified in the notices convening them. In addition, without special notice, they may:
 
 (a) elect persons to fill casual vacancies among the Officers and the Council [Statute E];
 
@@ -118,13 +122,13 @@
 
 (b) The Education and Outreach Coordinator.
 
-(c) One Representative nominated by each Group of the Association approved under Statute B.4 or established under Statute D.4(f). Such Representatives must be members of the relevant Group Committee, duly elected at an Annual General Meeting of that Group.
+(c) One Representative nominated by each Group of the Association approved under Statute B.4 or established under Statute D.6(f). Such Representatives must be members of the relevant Group Committee, duly elected at an Annual General Meeting of that Group.
 
 (d) Three further Ordinary Members who shall be elected by vote of the membership of the Association.
 
 (e) Such further persons not exceeding four in number that the Council shall from time to time Co-Opt.
 
-(f) The immediate Past President who shall serve for one year following the end of his or her elected term of office as President as defined in Statute E.4(c).
+(f) The immediate Past President who shall serve for one year following the end of their elected term of office as President as defined in Statute E.4(c).
 
 3. In addition:
 
@@ -159,7 +163,7 @@
 
 1. Each Ordinary Member and each Joint Member shall have one vote at a General Meeting. Corporate Members are entitled to send a representative to any General Meeting; a representative who is not a Member has the right to speak, but not to vote, and does not form part of the quorum.
 
-2. Voting will normally be by show of hands. Voting may be by secret ballot of those present at the discretion of the Chairman of the meeting, and shall be by secret ballot if any member so requests. The Chairman of the meeting shall only cast a vote in the event of a tie.
+2. Voting will normally be by show of hands. Votes during electronic meetings [Statute D.4] will be held using facilities available in the platform used to hold the meeting.  Voting may be by secret ballot of those present at the discretion of the Chair of the meeting, and shall be by secret ballot if any member so requests. The Chair of the meeting shall only cast a vote in the event of a tie.
 
 3. Except where otherwise provided by the Statutes and By-Laws of the Association, the quorum for a General Meeting is fifteen, and decisions are taken by a simple majority of those present and entitled to vote.
 
@@ -183,7 +187,7 @@
 
 The funds of the Association shall be used only for the payment of expenses legitimately incurred in furtherance of the purposes of the Association.
 
-2. The property of the Association is vested in its trustees. The responsibilities of the Trustees of the BCA shall be guided by the advice published by the Charity Commission. The Association is liable only to the extent of its assets, and Members of the Association and Members of the Council are not individually liable for its corporate debts and liabilities in excess of their membership dues. The Association shall indemnify any such person in respect of claims against him in respect of his legitimate actions on behalf of the Association.
+2. The property of the Association is vested in its trustees. The responsibilities of the Trustees of the BCA shall be guided by the advice published by the Charity Commission. The Association is liable only to the extent of its assets, and Members of the Association and Members of the Council are not individually liable for its corporate debts and liabilities in excess of their membership dues. The Association shall indemnify any such person in respect of claims against them in respect of their legitimate actions on behalf of the Association.
 
 3. The Association shall not accept any liability for any personal loss, damage, or accident sustained by any person engaged in any activity, including travel, on behalf of the Association.
 
@@ -196,7 +200,7 @@ The funds of the Association shall be used only for the payment of expenses legi
 1. Formal proposals to amend the Statutes may be made by the Council or by five members of the Association. Such proposals shall be circulated to the Members at least one month in advance of the Annual General Meeting at which they are to be discussed, and shall specify the time at which the amendments, if adopted, shall take effect. Any amendment to the Statutes requires a quorum of thirty and the affirmative vote of at least two-thirds of those present and entitled to vote.
 No amendment shall be made to Statute A.2, or to Statutes H.1 and 3 without the prior approval of the Charity Commissioners, and no amendment shall be made which would cause the Association to cease to be a charity at law.
 
-2. A formal proposal to dissolve the Association may be made by the Council or by any ten Members of the Association. Such a proposal shall be circulated to Members at least six months in advance of the General Meeting at which it is to be discussed, and shall specify the time at which the proposal, if approved, will take effect. Dissolution of the Association requires a quorum of one hundred, or half the membership, whichever is the less, and the affirmative vote of at least two-thirds of those present and entitled to vote. If this quorum is not obtained, the meeting may resolve, by voting in accordance with Statute F.3, to consider a resolution for dissolution at a second General Meeting held not less than six months after the first. Notice of this meeting shall be circulated to Members within one month, and each shall be provided with a ballot paper on which he may record his vote on the resolution for dissolution. Such ballots, if signed by the member and delivered to the Secretary at least 24 hours before the second General Meeting, shall have the same force as votes cast at the meeting, provided that each member shall have only one vote. The names of members voting by absentee ballot shall be recorded and announced at the meeting. Voting at this meeting shall otherwise be in accordance with Statute F.3.
+2. A formal proposal to dissolve the Association may be made by the Council or by any ten Members of the Association. Such a proposal shall be circulated to Members at least six months in advance of the General Meeting at which it is to be discussed, and shall specify the time at which the proposal, if approved, will take effect. Dissolution of the Association requires a quorum of one hundred, or half the membership, whichever is the less, and the affirmative vote of at least two-thirds of those present and entitled to vote. If this quorum is not obtained, the meeting may resolve, by voting in accordance with Statute F.3, to consider a resolution for dissolution at a second General Meeting held not less than six months after the first. Notice of this meeting shall be circulated to Members within one month, and each shall be provided with a ballot paper on which they may record their vote on the resolution for dissolution. Such ballots, if signed by the member and delivered to the Secretary at least 24 hours before the second General Meeting, shall have the same force as votes cast at the meeting, provided that each member shall have only one vote. The names of members voting by absentee ballot shall be recorded and announced at the meeting. Voting at this meeting shall otherwise be in accordance with Statute F.3.
 
 3. If the Association is dissolved in accordance with the preceding Statute, the General Meeting shall appoint a special committee, reporting to the Royal Society, for the liquidation of the assets of the Association. The nett assets shall be given to one or more charitable organisations or institutions with purposes similar to those of the Association. No member or Officer of the Association shall receive any personal financial benefit from the distribution of the nett assets.
 
@@ -257,6 +261,9 @@ No amendment shall be made to Statute A.2, or to Statutes H.1 and 3 without the 
 
 4. The independently examined Accounts shall be made available to Members at least two days before the date of the Annual General Meeting, preferably with the agenda paper.
 
+5. Written minutes of General Meetings will be taken, with contributors to the meeting identified by name.  The minutes will be made available to the membership within two weeks of the next Annual General Meeting. 
+
+
 ### E. Nominations and Elections
 
 1. The Council shall appoint a Nominating Committee whose role shall be to secure the nomination of two candidates for each Council vacancy, subject to Statute E.2, and with a view to ensuring a balanced representation of fields of interest, geographical areas and the diversity of the BCA membership. The nominations should be accompanied by the written consent of the candidates and shall be sent to the Secretary by the nomination deadline. The Nominating Committee shall consist of 5 members, normally the Past-President of the BCA and one member from each of the BSG, CCG, IG and PCG groups. Terms of membership will be staggered over a 3-year cycle such that in one year the Past-President will be replaced and in the other years two of the other four members will be replaced. The Past-President will be limited to one 3-year term. Members of the nominating committee are not eligible for nomination to any position on BCA Council until after the AGM following the completion of their term on the committee. Current members of the BCA Council are not eligible to serve on the Nominating Committee.
@@ -267,13 +274,13 @@ No amendment shall be made to Statute A.2, or to Statutes H.1 and 3 without the 
 
 4. The Council may fill casual vacancies for the period till the next Annual General Meeting.
 
-5. In determining eligibility for nomination, service under Statute D.5(a) or By-Law E.3 for a period of less than a year shall be ignored, and for a period greater than a year shall be counted as a full term.
+5. In determining eligibility for nomination, service under Statute D.7(a) or By-Law E.3 for a period of less than a year shall be ignored, and for a period greater than a year shall be counted as a full term.
 
 5. All Members are entitled to vote in the elections.
 
 ### F. Duties of the Officers
 
-1. The President shall act as a chairman at all General Meetings and all sessions of the Council unless unavoidably prevented, and shall ensure that the other Officers discharge their duties.
+1. The President shall act as a chair at all General Meetings and all sessions of the Council unless unavoidably prevented, and shall ensure that the other Officers discharge their duties.
 
 2. The Vice-President shall deputise for the President if requested by the President to do so, or in the absence of the President.
 
@@ -291,7 +298,7 @@ The Education and Outreach Coordinator shall take primary responsibility for the
 
 2. Ordinary Members of the Association have the right to become members of another Group of the Association without payment of a further subscription. Members of the Association entitled to membership of the Young Crystallographers Group have the right to become members of another Joint Group or other Group of the Association without payment of a further subscription; such Ordinary or Student Members shall not be counted in determining any subvention to be paid by the Group to the Association.
 
-3. The Council shall determine what additional subscription, if any, shall be paid by someone who is a Joint Member by virtue of paying a subscription via another organisation who wishes to be a member of more than one Group [as set up under Statute D.4(f)]. The introduction of any such additional subscription, and any subsequent modification to it, shall require the approval of the next Annual General Meeting.
+3. The Council shall determine what additional subscription, if any, shall be paid by someone who is a Joint Member by virtue of paying a subscription via another organisation who wishes to be a member of more than one Group [as set up under Statute D.6(f)]. The introduction of any such additional subscription, and any subsequent modification to it, shall require the approval of the next Annual General Meeting.
 
 4. The production and distribution of notices of conferences and similar meetings shall be provided for in the budget for the meeting. The Groups have no financial liability for any loss and no financial benefit from any surplus that may arise in connection with conferences and similar meetings arranged by the Association.
 
@@ -307,9 +314,13 @@ Ordinary Members who are enrolled students for a degree or diploma, or who are n
 
 2. These Joint Groups are expected to derive their income from a per capita payment for each member of the Group, agreed between the Council and the Institute of Physics, or the Council and any other organisation which may form a Joint Group as the case may be. In respect of each Ordinary Member who is not a member of the other organisation who chooses to become a member of the Group [By-Law H.2], the payment shall be made by the Association.
 
-— Version 8 by resolution of the AGM  Wednesday 12th April, 2017. &copy; Copyright British Crystallographic Association.
+— Version 9 by resolution of the AGM Zoom Webinar 13.00, Thursday 18th June 2020 &copy; Copyright British Crystallographic Association.
 
 ## Historical information
+
+[PDF Statutes and By Laws of the BCA version 9 (2020)]({{ site.url }}/assets/pdf/statutes/Statutes-and-By-Laws-of-the-BCA-version-9-2020.pdf)
+
+[PDF Details of the proposals for changes to version 8 of the Statutes and By Laws]({{ site.url }}/assets/pdf/statutes/Proposals_AGM_2020.pdf)
 
 [PDF Statutes and By Laws of the BCA version 8 (2017)]({{ site.url }}/assets/pdf/statutes/Statutes-and-By-Laws-of-the-BCA-version-8-2017.pdf)
 
