@@ -11,6 +11,73 @@
 
 
 Notes: Dates within ( ) indicate year due for re-election or retirement
+## BCA council 2021-2022
+
+### Officers
+* President & Representative to Scientific Unions Committee (SUC) of the Royal Society: Prof Richard Cooper (2024) University of Oxford
+* Vice-President: Prof Simon Parsons (2022) University of Edinburgh
+* Secretary: Dr Alexandra Stanley (2022) Rigaku
+* Treasurer: Dr Claire Naylor (2023) 
+
+### Education and Outreach Coordinator
+* Dr Christine Beavers (2024) Diamond Light Source
+
+### Ordinary Members
+
+* Dr Cheryl Doherty (2024) GSK
+* Dr Anna Warren (2022) Diamond Light Source
+* Dr Hazel Sparkes (2023) University of Bristol
+
+### Group Representatives:
+
+* Dr Mark Roe (Biological Structures) University of Sussex
+* Dr Gary Nichol (Chemical Crystallography) University of Edinburgh
+* Dr David Beveridge (Industrial) HARMAN technology Ltd
+* Dr Helen Playford (Physical Crystallography) Rutherford Appleton Laboratory
+* Dr Tom Roseveare (Young Crystallographers) University of Sheffield
+
+### Co-opted members
+Dr Iain Oswald (2022, Spring Meeting Programme Chair) University of Strathclyde
+
+### Ex officio
+* Professor John Finney (Crystallography News Editor)
+* Nicola Hardaker, HG3 Ltd (BCA Administrative Officer)
+* Dr Claire Hobday (BCA webmaster) University of Edinburgh
+
+## BCA council 2020-2021
+
+### Officers
+* President & Representative to Scientific Unions Committee (SUC) of the Royal Society: Prof Simon Philips (2021) University of Oxford
+* Vice-President: Prof Simon Parsons (2022) University of Edinburgh
+* Secretary: Dr Alexandra Stanley (2022) Rigaku
+* Treasurer: Dr Claire Naylor (2023) 
+
+### Education and Outreach Coordinator
+* Prof Simon J Coles (2021) University of Southampton
+
+### Ordinary Members
+
+* Dr Cheryl Doherty (2021) GSK
+* Dr Anna Warren (2022) Diamond Light Source
+* Dr Hazel Sparkes (2023) University of Bristol
+
+### Group Representatives:
+
+* Dr Mark Roe (Biological Structures) University of Sussex
+* Dr Gary Nichol (Chemical Crystallography) University of Edinburgh
+* Dr David Beveridge (Industrial) HARMAN technology Ltd
+* Dr Helen Playford (Physical Crystallography) Rutherford Appleton Laboratory
+* Dr Tom Roseveare (Young Crystallographers) University of Sheffield
+
+### Co-opted members
+
+
+### Ex officio
+* Professor John Finney (Crystallography News Editor)
+* Nicola Hardaker, HG3 Ltd (BCA Administrative Officer)
+* Dr Claire Hobday (BCA webmaster) University of Edinburgh
+
+
 ## BCA council 2019-2020
 
 ### Officers
