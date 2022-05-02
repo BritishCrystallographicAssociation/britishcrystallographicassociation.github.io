@@ -17,18 +17,20 @@ Oxford OX1 3TA
 
  
 ## Vice-President
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/SimonParsons.jpg){: .align-right}{:width="200px"}
-### Professor Simon Parsons (2022)  
-Centre for Science at Extreme Conditions  
-University of Edinburgh  
-Erskine Williamson Building  
-Peter Guthrie Tait Road  
-Edinburgh EH9 3FD
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/Suz1.jpg){: .align-right}{:width="200px"}
+### Dr Suzanna Ward (2025)  
+Head of Data and Community 
+The CCDC
+12 Union Road
+Cambridge CB2 1EZ
 
 ## Secretary
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/alex_stanleyBCA.jpg){: .align-right}{:width="200px"}
-### Dr Alexandra Stanley (2022)  
-Rigaku Europe  
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/Photo_L-Hatcher.jpg){: .align-right}{:width="200px"}
+### Dr Lauren Hatcher (2025)  
+School of Chemistry
+Cardiff University Main Building
+Park Place
+Cardiff CF10 3AT
 Email: secretary@crystallography.org.uk 
 
 <br>
@@ -74,13 +76,13 @@ Stevenage
 Herts SG1 2NY  
 Email: cheryl.x.doherty@gsk.com
 
-### Dr Anna Warren (2022)
+### Dr Lucy Saunders (2025)
 Diamond Light Source  
 Harwell Science and Innovation Campus  
 Didcot, Oxfordshire OX11 0DE  
 anna.warren@diamond.ac.uk  
 Tel: +44 (0)1235 778 000  
-Email: anna.warren@diamond.ac.uk
+Email: lucy.saunders@diamond.ac.uk
  
 ### Dr Hazel Sparkes (2023)
 Department of Chemistry  
@@ -124,18 +126,18 @@ Didcot OX11 0QX
 Email: helen.playford@stfc.ac.uk  
 Tel: +44 (0)1235 446890
  
-### Dr Tom Roseveare (Young Crystallographers)
-University of Sheffield  
-Broomhall
-Sheffield
-S10 2TG
-Email: tom.roseveare@sheffield.ac.uk
+### Dr Blue (Young Crystallographers)
+Dr Anthony Blue Carter
+School of Chemistry, Science Centre South
+University College Dublin (UCD)
+Belfield
+Dublin 4
+Ireland
+Email: Anthony.Carter@ucd.ie
 
  
 
 ## Co-opted members
-### Dr Iain Oswald (2022, Spring Meeting Programme Chair)
-Email: iain.oswald@strath.ac.uk
 
 
 
