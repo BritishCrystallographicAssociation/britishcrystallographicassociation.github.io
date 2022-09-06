@@ -48,15 +48,6 @@ Email: treasurer@crystallography.org.uk
 <br>
 
 
-## Immediate Past President
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/simon-phillips-287x300.jpg){: .align-right}{:width="200px"}
-### Professor Simon Phillips (2021)  
-Department of Biochemistry  
-University of Oxford  
-South Parks Road  
-Oxford OX1 3QU  
-
-
 ## Education and Outreach Coordinator
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/IUCrHeadshot.jpg){: .align-right}{:width="200px"}
 ### Dr Christine Beavers (2024)  
@@ -80,7 +71,6 @@ Email: cheryl.x.doherty@gsk.com
 Diamond Light Source  
 Harwell Science and Innovation Campus  
 Didcot, Oxfordshire OX11 0DE  
-anna.warren@diamond.ac.uk  
 Tel: +44 (0)1235 778 000  
 Email: lucy.saunders@diamond.ac.uk
  
@@ -139,6 +129,7 @@ Email: Anthony.Carter@ucd.ie
 
 ## Co-opted members
 
+None
 
 
  
