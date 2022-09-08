@@ -12,18 +12,15 @@ The annual Spring Meeting of the BCA brings together all four subject groups and
 
 ### Next meeting
 
-The 38th spring meeting will take place at [University of Leeds on 11th - 14th April 2022](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=73158&eventID=201&traceRedir=2). 
+The 39th spring meeting will take place at University of Sheffield on 3rd - 7th April 2023. 
 
-The Officers and Council of the BCA are excited to welcome you to Leeds in person in 2022, two years after the conference was intially planned to be held in Leeds. 
 
-**Abstract submission is now open**
-[Please click here to access abstract submission](https://hg3.co.uk/bca/). 
-
-Abstract submission closes on Friday the 21st January 2022 at 9am.
-
+**Abstract submission will open in October 2022** 
+So watch this space!
 
 
 ### Previous meetings
+- [2022 (38th) Leeds] ()
 - [2021 (37th) Online]()
 - [2019 (36th) Nottingham]({{ "/assets/pdf/crystallography-news/2018-03.pdf#page=10" | relative_url }})
 - [2018 (35th) Warwick]({{ "/assets/pdf/crystallography-news/2018-03.pdf#page=10" | relative_url }})
