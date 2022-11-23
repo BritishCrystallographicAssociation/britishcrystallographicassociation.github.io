@@ -15,12 +15,12 @@ The annual Spring Meeting of the BCA brings together all four subject groups and
 The 39th spring meeting will take place at University of Sheffield on 3rd - 7th April 2023. 
 
 
-**Abstract submission will open in October 2022** 
-So watch this space!
+**Abstract submission and registration are now open** 
+[Please follow this link to find more information](https://registrations.hg3conferences.co.uk/bca2023). 
 
 
 ### Previous meetings
-- [2022 (38th) Leeds] ()
+- [2022 (38th) Leeds]()
 - [2021 (37th) Online]()
 - [2019 (36th) Nottingham]({{ "/assets/pdf/crystallography-news/2018-03.pdf#page=10" | relative_url }})
 - [2018 (35th) Warwick]({{ "/assets/pdf/crystallography-news/2018-03.pdf#page=10" | relative_url }})
