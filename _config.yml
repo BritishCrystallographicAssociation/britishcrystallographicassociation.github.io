@@ -24,6 +24,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: britcryst
 github_username:  BritishCrystallographicAssociation
 
+repository:  BritishCrystallographicAssociation/britishcrystallographicassociation.github.io
+
 author:
   links:
     - label: "Twitter"
