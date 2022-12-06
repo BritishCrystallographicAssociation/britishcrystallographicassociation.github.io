@@ -12,7 +12,7 @@ The annual Spring Meeting of the BCA brings together all four subject groups and
 
 ### Next meeting
 
-The 39th spring meeting will take place at University of Sheffield on 3rd - 7th April 2023. 
+The 39th spring meeting will take place at University of Sheffield on 3rd - 6th April 2023. 
 
 
 **Abstract submission and registration are now open** 
