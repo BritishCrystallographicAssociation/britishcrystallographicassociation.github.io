@@ -1,6 +1,6 @@
 ---
 title:  "Crystallography at Birkbeck"
-date:   2023-01-24 10:30:00 +0100
+date:   2023-03-01 10:30:00 +0100
 categories:  
 ---
 
