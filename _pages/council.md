@@ -10,15 +10,13 @@
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/RIC.jpg){: .align-right}{:width="200px"}
 ### Professor Richard Cooper (2024)  
 Chemical Crystallography
-Chemistry Research Laboratory
-12 Mansfield Road
-Oxford OX1 3TA
+Inorganic Chemistry Laboratory
+Oxford OX1 3QR
 [E-mail](mailto:president@crystallography.org.uk)
-
  
 ## Vice-President
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/Suz1.jpg){: .align-right}{:width="200px"}
-### Dr Suzanna Ward (2025)  
+### Suzanna Ward (2025)  
 Head of Data and Community 
 The CCDC
 12 Union Road
@@ -33,11 +31,6 @@ Park Place
 Cardiff CF10 3AT
 Email: secretary@crystallography.org.uk 
 
-<br>
-
-<br>
-  
-
 ## Treasurer
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/clairenaylor.jpeg){: .align-right}{:width="200px"}
 ### Dr Claire Naylor (2023)
@@ -49,14 +42,12 @@ Email: treasurer@crystallography.org.uk
 
 
 ## Education and Outreach Coordinator
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/IUCrHeadshot.jpg){: .align-right}{:width="200px"}
-### Dr Christine Beavers (2024)  
-Diamond Light Source Ltd
-Diamond House, Harwell Science & Innovation Campus
-Didcot, Oxfordshire
-OX11 0DE   
-Email: Christine.Beavers@diamond.ac.uk
-
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/Ilaria_Gimondi.jpg){: .align-right}{:width="200px"}
+### Dr Ilaria Gimondi (2024)  
+Education and Outreach Officer
+CCDC
+12 Union Road
+Cambridge CB2 1EZ
 
 ## Ordinary Members
 
@@ -74,7 +65,7 @@ Didcot, Oxfordshire OX11 0DE
 Tel: +44 (0)1235 778 000  
 Email: lucy.saunders@diamond.ac.uk
  
-### Dr Hazel Sparkes (2023)
+### Dr Briony Yorke (2026)
 Department of Chemistry  
 University of Bristol  
 Cantock's Close  
@@ -116,7 +107,7 @@ Didcot OX11 0QX
 Email: helen.playford@stfc.ac.uk  
 Tel: +44 (0)1235 446890
  
-### Dr Blue (Young Crystallographers)
+### Dr Blue Carter (Young Crystallographers)
 Dr Anthony Blue Carter
 School of Chemistry, Science Centre South
 University College Dublin (UCD)
@@ -124,7 +115,6 @@ Belfield
 Dublin 4
 Ireland
 Email: Anthony.Carter@ucd.ie
-
  
 
 ## Co-opted members
@@ -134,14 +124,12 @@ None
 
  
 ## Ex officio
-### Professor John Finney (Crystallography News Editor)
+### Professor Jon Cooper (Crystallography News Editor)
 UCL 
-Department of Physics and Astronomy, 
-University College London 
 Gower Street 
 London 
 WC1E 6BT
-Email: john.finney@ucl.ac.uk
+Email: news@crystallography.org.uk
 
 ### Nicola Hardaker, HG3 Ltd (BCA Administrative Officer).
 Email: bca@hg3.co.uk
