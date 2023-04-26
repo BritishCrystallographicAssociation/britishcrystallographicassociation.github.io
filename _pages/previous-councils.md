@@ -11,30 +11,95 @@
 
 
 Notes: Dates within ( ) indicate year due for re-election or retirement
-## BCA council 2021-2022
+
+## BCA council 2023-2024
 
 ### Officers
-* President & Representative to Scientific Unions Committee (SUC) of the Royal Society: Prof Richard Cooper (2024) University of Oxford
-* Vice-President: Prof Simon Parsons (2022) University of Edinburgh
-* Secretary: Dr Alexandra Stanley (2022) Rigaku
-* Treasurer: Dr Claire Naylor (2023) 
+* President & Representative to Scientific Unions Committee (SUC) of the Royal Society: Prof Richard Cooper (2024)
+* Vice-President: Suzanna Ward (2025)
+* Secretary: Dr Lauren Hatcher (2025)
+* Treasurer: Dr Claire Naylor (2026) 
 
 ### Education and Outreach Coordinator
-* Dr Christine Beavers (2024) Diamond Light Source
+* Dr Ilaria Gimondi (2024)
 
 ### Ordinary Members
 
-* Dr Cheryl Doherty (2024) GSK
-* Dr Anna Warren (2022) Diamond Light Source
-* Dr Hazel Sparkes (2023) University of Bristol
+* Dr Cheryl Doherty (2024)
+* Dr Lucy Saunders (2025) 
+* Dr Briony Yorke (2026) 
 
 ### Group Representatives:
 
-* Dr Mark Roe (Biological Structures) University of Sussex
-* Dr Gary Nichol (Chemical Crystallography) University of Edinburgh
-* Dr David Beveridge (Industrial) HARMAN technology Ltd
+* Dr Gary Nichol (Chemical Crystallography)
+* Dr Helen Blade (Industrial) 
 * Dr Helen Playford (Physical Crystallography) Rutherford Appleton Laboratory
-* Dr Tom Roseveare (Young Crystallographers) University of Sheffield
+* Dr Blue Carter (Young Crystallographers) University of Sheffield
+
+### Co-opted members
+Prof Peter Moody and Dr Hanna Kwon (2024 Spring Meeting Programme chairs)
+
+### Ex officio
+* Professor Jon Cooper (Crystallography News Editor)
+* Nicola Hardaker, HG3 Ltd (BCA Administrative Officer)
+* Dr Claire Hobday (BCA webmaster) University of Edinburgh
+
+## BCA council 2022-2023
+
+### Officers
+* President & Representative to Scientific Unions Committee (SUC) of the Royal Society: Prof Richard Cooper (2024)
+* Vice-President: Suzanna Ward (2025)
+* Secretary: Dr Lauren Hatcher (2025)
+* Treasurer: Dr Claire Naylor (2023) 
+
+### Education and Outreach Coordinator
+* Dr Christine Beavers (2024)
+
+### Ordinary Members
+
+* Dr Cheryl Doherty (2024) 
+* Dr Lucy Saunders (2025) 
+* Dr Hazel Sparkes (2023) 
+
+### Group Representatives:
+
+* Dr Mark Roe (Biological Structures) 
+* Dr Gary Nichol (Chemical Crystallography) 
+* Dr Helen Blade (Industrial)
+* Dr Helen Playford (Physical Crystallography)
+* Dr Blue Carter (Young Crystallographers) 
+
+### Co-opted members
+
+### Ex officio
+* Professor John Finney (Crystallography News Editor)
+* Nicola Hardaker, HG3 Ltd (BCA Administrative Officer)
+* Dr Claire Hobday (BCA webmaster) University of Edinburgh
+
+## BCA council 2021-2022
+
+### Officers
+* President & Representative to Scientific Unions Committee (SUC) of the Royal Society: Prof Richard Cooper (2024) 
+* Vice-President: Prof Simon Parsons (2022)
+* Secretary: Dr Alexandra Stanley (2022) 
+* Treasurer: Dr Claire Naylor (2023) 
+
+### Education and Outreach Coordinator
+* Dr Christine Beavers (2024) 
+
+### Ordinary Members
+
+* Dr Cheryl Doherty (2024) 
+* Dr Anna Warren (2022) 
+* Dr Hazel Sparkes (2023) 
+
+### Group Representatives:
+
+* Dr Mark Roe (Biological Structures) 
+* Dr Gary Nichol (Chemical Crystallography)
+* Dr David Beveridge (Industrial) 
+* Dr Helen Playford (Physical Crystallography) 
+* Dr Tom Roseveare (Young Crystallographers) 
 
 ### Co-opted members
 Dr Iain Oswald (2022, Spring Meeting Programme Chair) University of Strathclyde
