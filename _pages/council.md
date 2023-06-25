@@ -66,11 +66,11 @@ Tel: +44 (0)1235 778 000
 Email: lucy.saunders@diamond.ac.uk
  
 ### Dr Briony Yorke (2026)
-School of Chemistry
-University of Leeds
-Leeds, LS2 9JT
-Tel: +44 (0)113 34 36543
-Email: B.A.Yorke@leeds.ac.uk
+School of Chemistry  
+University of Leeds  
+Leeds, LS2 9JT  
+Tel: +44 (0)113 34 36543  
+Email: B.A.Yorke@leeds.ac.uk  
  
 ## Group Representatives:
 ### Dr Mark Roe (Biological Structures)
