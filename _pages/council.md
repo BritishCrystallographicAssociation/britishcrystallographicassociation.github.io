@@ -33,7 +33,7 @@ Email: secretary@crystallography.org.uk
 
 ## Treasurer
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/clairenaylor.jpeg){: .align-right}{:width="200px"}
-### Dr Claire Naylor (2023)
+### Dr Claire Naylor (2026)
 Quantifoil Micro Tools GmbH,  
 Email: treasurer@crystallography.org.uk
 
@@ -66,12 +66,11 @@ Tel: +44 (0)1235 778 000
 Email: lucy.saunders@diamond.ac.uk
  
 ### Dr Briony Yorke (2026)
-Department of Chemistry  
-University of Bristol  
-Cantock's Close  
-Bristol BS8 1TS  
-Tel: +44 (0)117 331 8298  
-Email: hazel.sparkes@bristol.ac.uk
+School of Chemistry
+University of Leeds
+Leeds, LS2 9JT
+Tel: +44 (0)113 34 36543
+Email: B.A.Yorke@leeds.ac.uk
  
 ## Group Representatives:
 ### Dr Mark Roe (Biological Structures)
