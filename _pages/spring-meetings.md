@@ -25,7 +25,7 @@ We are also pleased to inform you that abstract submission is now live. The dead
 
 
 ### Previous meetings
-- [2023 (39th) Sheffield] ()
+- [2023 (39th) Sheffield]()
 - [2022 (38th) Leeds]()
 - [2021 (37th) Online]()
 - [2019 (36th) Nottingham]({{ "/assets/pdf/crystallography-news/2018-03.pdf#page=10" | relative_url }})
