@@ -18,7 +18,7 @@ We are delighted to announce that the BCA Spring Meeting 2024 will take place in
 
 We are inviting you to register now in order to take advantage of the Early Bird Rate (available until midnight GMT, Monday 19 February 2024). 
 
-[To access the online registration please click here]([https://hg3.co.uk/bca/](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/tRegisterEmailNew.csp?pageID=103799&eventID=267&tempPersonID=323597)). 
+[To access the online registration please click here](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/tRegisterEmailNew.csp?pageID=103799&eventID=267&tempPersonID=323597). 
 
 We are also pleased to inform you that abstract submission is now live. The deadline to submit your abstract is **09.00 hours on Friday 19 January 2024**. [Please click here in order to submit your abstract online](https://hg3.co.uk/bca/). 
 
