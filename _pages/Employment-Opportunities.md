@@ -17,7 +17,7 @@ Send brief notices about jobs, meetings, software releases, new publications or 
 
 **Analytical Services Technician - Diffraction**
 University of Glasgow
-*Closing date: 7 January 2024*
+*Closing date extended to 9 January 2024*
 
 
 We have an opportunity for an Analytical Services Technician to work within the School of Chemistry and work with users across the College of Science and Engineering at the University of Glasgow.
