@@ -10,7 +10,6 @@
 ---
 
 
-
 ## Statutes of the British Crystallographic Association
 
 ### A. Name and Status
@@ -35,7 +34,7 @@
 
 1. Membership is open to all interested in the science of crystallography, without restriction by nationality or place of residence.
 
-2. There shall be six classes of membership, as follows:
+2. There shall be seven classes of membership, as follows:
 
 (a) Ordinary Members;
 
@@ -47,7 +46,9 @@
 
 (e) Honorary Members;
 
-(f) Student Members.
+(f) Student Members;
+
+(g) Fellows.
 
 3. Ordinary Members shall be those persons whose application for membership is approved by the Council [Statute E] and who pay an annual subscription. This subscription shall be determined by the Council and confirmed by the Annual General Meeting of the Association.
 
@@ -61,7 +62,9 @@
 
 8. Student Members are entitled to a concessionary annual or a single discounted concessionary four-year membership fee, the latter to commence no later than during their first year of postgraduate study. In all other contexts the expression Ordinary Members shall include Student Members.
 
-9. The rights and privileges of Ordinary and Joint Members, and of Corporate Members, are as prescribed in Statute F, Statute H, and the By-Laws.
+9. Fellows shall be those persons with an established career in crystallographic teaching or research and who pay an annual subscription. Fellows will normally have been members of the Association for at least five years, but the Officers of the Association shall consider applications to waive this requirement. The subscription level for Fellows shall be determined by the Council and confirmed by the Annual General Meeting of the Association. In all other contexts the expression Ordinary Members shall include Fellows.  
+
+10. The rights and privileges of Ordinary and Joint Members, and of Corporate Members, are as prescribed in Statute F, Statute H, and the By-Laws.
 
 ### C. Administration
 
@@ -314,9 +317,11 @@ Ordinary Members who are enrolled students for a degree or diploma, or who are n
 
 2. These Joint Groups are expected to derive their income from a per capita payment for each member of the Group, agreed between the Council and the Institute of Physics, or the Council and any other organisation which may form a Joint Group as the case may be. In respect of each Ordinary Member who is not a member of the other organisation who chooses to become a member of the Group [By-Law H.2], the payment shall be made by the Association.
 
-— Version 9 by resolution of the AGM Zoom Webinar 13.00, Thursday 18th June 2020 &copy; Copyright British Crystallographic Association.
+— Version 10 by resolution of the AGM 18.00, Wednesday 5th April 2023, University of Sheffield &copy; Copyright British Crystallographic Association.
 
 ## Historical information
+
+[PDF Statutes and By Laws of the BCA version 10 (2023)]({{ site.url }}/assets/pdf/statutes/Statutes-and-By-Laws-of-the-BCA-version-10-2023.pdf)
 
 [PDF Statutes and By Laws of the BCA version 9 (2020)]({{ site.url }}/assets/pdf/statutes/Statutes-and-By-Laws-of-the-BCA-version-9-2020.pdf)
 
@@ -327,4 +332,5 @@ Ordinary Members who are enrolled students for a degree or diploma, or who are n
 [PDF Details of the proposals for changes to version 7 of the Statutes and By Laws]({{ site.url }}/assets/pdf/statutes/Proposals_AGM_2017.pdf)
 
 [PDF Statutes and By Laws of the BCA version 7 (2013)]({{ site.url }}/assets/pdf/statutes/Statutes-and-By-Laws-of-the-BCA-version-7-2013.pdf)
+
 
