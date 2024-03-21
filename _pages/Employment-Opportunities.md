@@ -17,7 +17,7 @@ Send brief notices about jobs, meetings, software releases, new publications or 
 
 **Analytical Services Technician - Diffraction**
 University of Glasgow
-*Closing date extended to 9 January 2024*
+*Closing date 2nd April*
 
 
 We have an opportunity for an Analytical Services Technician to work within the School of Chemistry and work with users across the College of Science and Engineering at the University of Glasgow.
@@ -28,7 +28,8 @@ The post involves providing an expert technical service, overseeing day-to-day o
 
 This post is full time (35 hours per week) and offered on an open ended basis.  Relocation assistance will be provided where appropriate. 
 
-For more information and to apply for the role follow the link here: [https://www.jobs.ac.uk/job/DEU798/analytical-services-technician-diffraction](https://www.jobs.ac.uk/job/DEU798/analytical-services-technician-diffraction)
+For more information and to apply for the role follow the link here: [https://www.jobs.ac.uk/job/DGJ020/analytical-services-technician-diffraction](https://www.jobs.ac.uk/job/DGJ020/analytical-services-technician-diffraction)
+
 
 
 
