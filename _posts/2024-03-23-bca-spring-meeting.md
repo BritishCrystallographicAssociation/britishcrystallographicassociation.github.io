@@ -4,7 +4,7 @@ date:   2024-03-23 11:29:00 +0100
 categories: news 
 ---
 
-Please check your email for joinging instructions for the BCA Spring Meeting 2024 25-28 April 2024
+Please check your email for joining instructions for the BCA Spring Meeting 2024 25-28 April 2024
 
 [Spring Meeting website](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=103723&eventID=267&traceRedir=4)
 
