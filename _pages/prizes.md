@@ -57,8 +57,9 @@ The BCA is proud to have hosted many recent Bragg Lectures. Lecturers are chosen
   -   2013 Dr. Airlie McCoy, University of Cambridge, UK – “Phasing crystals with single atoms: a century of progress”
   -   2013 Prof. Bill David, ISIS Facility RAL and University of Oxford, UK – “100 years of X-ray crystallography – the continuing Bragg legacy”
 - 2014 Prof. Judith Howard, Durham University – “Exploring a Century of Reciprocal Space: Same Old Theory – Endless New Results”
-- 2017 Prof. Mike Glazer, University of Oxford -“The Wondrous World of Perovskites”
+- 2017 Prof. Mike Glazer, University of Oxford - “The Wondrous World of Perovskites”
 - 2021 Prof. Richard Henderson, MRC Laboratory of Molecular Biology - “The continuing Cryo-EM Revolution in Structural Biology”
+- 2024 Prof. Arwen Pearson, University of Hamburg - “The future of macromolecular crystallography in the age of machine learning”
 
 ## The Lonsdale Lecture
 
@@ -100,4 +101,5 @@ The BCA Prize Lecture is awarded triennially. The awardee will be someone who ha
 - 2012 Dr. Robin Taylor (Taylor Cheminformatics Software) “Predicting Low-Energy Conformations of Small Organic Molecules: Is Crystal-Structure Data Redundant?”
 - 2016 Prof. Christer Aakeröy (Kansas State University) “From molecular sociology to functional materials”
 - 2019 Prof. Clare Grey (Cambridge) “Developing and optimising the function of Li-ion and 'beyond Li' batteries and supercapacitors by advanced characterization methods”
+- 2023 Prof. Aurora Cruz Cabeza (Durham) “Beyond the bulk: when shall we care about surfaces in molecular crystals?”
 
