@@ -7,7 +7,13 @@
 ---
 
 ## President & Representative to Scientific Unions Committee (SUC) of the Royal Society
-### Professor Alex Gibbs (2027)  
+### Dr Alexandra Gibbs (2027)
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/agibbs.jpg){: .align-right}{:width="200px"}
+School of Chemistry
+North Haugh
+St Andrews
+Fife
+KY16 9ST
 [E-mail](mailto:president@crystallography.org.uk)
  
 ## Vice-President
@@ -102,14 +108,12 @@ Didcot OX11 0QX
 Email: helen.playford@stfc.ac.uk  
 Tel: +44 (0)1235 446890
  
-### Dr Blue Carter (Young Crystallographers)
-Dr Anthony Blue Carter
-School of Chemistry, Science Centre South
-University College Dublin (UCD)
-Belfield
-Dublin 4
-Ireland
-Email: Anthony.Carter@ucd.ie
+### Dr Thomas Hitchings (Early Stage Crystallographers Group)
+Materials for Energy and Electronics (MEE) Group
+School of Physical Sciences
+University of Kent
+CT2 7NH
+Email: tjh55@kent.ac.uk
  
 
 ## Co-opted members
@@ -129,13 +133,13 @@ Email: news@crystallography.org.uk
 ### Nicola Hardaker, HG3 Ltd (BCA Administrative Officer).
 Email: bca@hg3.co.uk
 
-### Dr Claire Hobday (Webmaster)
-University of Edinburgh School of Chemistry  
-Joseph Black Building  
-David Brewster Road  
-Edinburgh  
-EH9 3FJ 
-Email: claire.hobday@ed.ac.uk
+### Dr Anthony Carter (Webmaster)
+Pharmaron UK 
+West Hill Innovation Park,
+Hertford Road, 
+Hoddesdon, 
+Hertfordshire, EN11 9FH
+Email: Anthony.Carter@Pharmaron-UK.com
 
 
 
