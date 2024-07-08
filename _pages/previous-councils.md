@@ -34,7 +34,7 @@ Notes: Dates within ( ) indicate year due for re-election or retirement
 * Dr Gary Nichol (Chemical Crystallography)
 * Dr Helen Blade (Industrial) 
 * Dr Helen Playford (Physical Crystallography) Rutherford Appleton Laboratory
-* Dr Blue Carter (Young Crystallographers) University of Sheffield
+* Dr Blue Carter (Young Crystallographers) Pharmaron UK
 
 ### Co-opted members
 Prof Peter Moody and Dr Hanna Kwon (2024 Spring Meeting Programme chairs)
