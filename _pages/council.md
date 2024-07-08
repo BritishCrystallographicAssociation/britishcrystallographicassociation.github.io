@@ -7,11 +7,7 @@
 ---
 
 ## President & Representative to Scientific Unions Committee (SUC) of the Royal Society
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/RIC.jpg){: .align-right}{:width="200px"}
-### Professor Richard Cooper (2024)  
-Chemical Crystallography
-Inorganic Chemistry Laboratory
-Oxford OX1 3QR
+### Professor Alex Gibbs (2027)  
 [E-mail](mailto:president@crystallography.org.uk)
  
 ## Vice-President
