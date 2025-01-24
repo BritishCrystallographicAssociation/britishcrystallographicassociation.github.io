@@ -11,13 +11,13 @@
 The annual Spring Meeting of the BCA brings together all four subject groups and The Early Stage Crystallographers Group for a three-day conference in the UK.
 ### Next meeting
 
-We are delighted to announce that the BCA Spring Meeting 2025 will take place in-person at the University of Leeds, on Monday 14th - Thursday 17th April 2025.
+We are delighted to announce that the BCA Spring Meeting 2025 will take place in-person at the University of Leeds, on **Monday 14th - Thursday 17th April 2025**.
 
 **Abstract submission and registration are now open** 
 
 We are inviting you to register now in order to take advantage of the Early Bird Rate (available until midnight GMT, Monday 10 March 2025).
 
-[To access the online registration please click here](https://registrations.hg3conferences.co.uk/hg3/304/register). 
+[To access the online registration please click here](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=119990&eventID=304). 
 
 We are also pleased to inform you that abstract submission is now live. The deadline to submit your abstract is **09.00 hours on Monday 10 February 2025**. [Please click here in order to submit your abstract online](https://hg3.co.uk/bca/). 
 
