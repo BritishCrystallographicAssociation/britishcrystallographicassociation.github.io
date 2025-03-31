@@ -15,6 +15,8 @@ St Andrews
 Fife
 KY16 9ST
 [E-mail](mailto:president@crystallography.org.uk)
+
+ <br>
  
 ## Vice-President
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/Suz1.jpg){: .align-right}{:width="200px"}
@@ -23,6 +25,8 @@ Head of Data and Community
 The CCDC
 12 Union Road
 Cambridge CB2 1EZ
+
+<br>
 
 ## Secretary
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/Photo_L-Hatcher.jpg){: .align-right}{:width="200px"}
@@ -33,23 +37,24 @@ Park Place
 Cardiff CF10 3AT
 Email: secretary@crystallography.org.uk 
 
+<br>
+
 ## Treasurer
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/clairenaylor.jpeg){: .align-right}{:width="200px"}
 ### Dr Claire Naylor (2026)
 Quantifoil Micro Tools GmbH,  
 Email: treasurer@crystallography.org.uk
 
-
 <br>
-
+<br>
 
 ## Education and Outreach Coordinator
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/Ilaria_Gimondi.jpg){: .align-right}{:width="200px"}
 ### Dr Ilaria Gimondi (2024)  
-Education and Outreach Officer
-CCDC
-12 Union Road
-Cambridge CB2 1EZ
+Education and Outreach Officer  
+CCDC  
+12 Union Road  
+Cambridge CB2 1EZ  
 
 ## Ordinary Members
 
