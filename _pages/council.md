@@ -73,25 +73,25 @@ University of Leeds
 Leeds, LS2 9JT  
 Tel: +44 (0)113 34 36543  
 Email: B.A.Yorke@leeds.ac.uk  
+
+### Dr Jeremiah Tidey (2027)
+Department of Chemistry,
+University of Warwick, Gibbet Hill, Coventry, CV4 7AL
+Email: Jere.Tidey@warwick.ac.uk
  
 ## Group Representatives:
-### Dr Mark Roe (Biological Structures)
-School of Life Sciences  
-University of Sussex  
-East Sussex  
-BN1 9RQ  
-Email: m.roe@sussex.ac.uk    
-Tel: +44 (0) 1273 872896
 
+### Dr Mark Montgomery (Biological Structures)
+Syngenta Jealott's Hill International Research Centre,
+Bracknell, Berkshire RG42 6EY, UK
+Email: mark.montgomery@syngenta.com
  
-### Dr Gary Nichol (Chemical Crystallography)
-University of Edinburgh School of Chemistry  
-Joseph Black Building  
-David Brewster Road  
-Edinburgh  
-EH9 3FJ  
-E-mail: g.s.nichol@ed.ac.uk
-
+### Dr Natalie Pridmore 
+Department of Chemistry
+Durham University
+South Road
+Durham, DH1 3LE
+Email: natalie.e.pridmore@durham.ac.uk
  
 ### Dr Helen Blade (Industrial)
 AstraZeneca 
@@ -113,7 +113,7 @@ Materials for Energy and Electronics (MEE) Group
 School of Physical Sciences
 University of Kent
 CT2 7NH
-Email: tjh55@kent.ac.uk
+Email: ycg@crystallography.org.uk
  
 
 ## Co-opted members
