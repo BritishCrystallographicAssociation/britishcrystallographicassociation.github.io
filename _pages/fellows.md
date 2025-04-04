@@ -17,4 +17,4 @@ As noted in the text from the Statutes above, Fellows will normally have been me
 The current rates for Fellow membership of the BCA were set by the AGM at double the rates for the members normal renewal price. It has not escaped our attention that this represents an exceptionally good deal for Honorary members - however, please note that we might change this 
 formula in the future.
 
-If you pay by Direct Debit and want to apply for the fellowship status you will need to log in to your BCA membership and apply through your membership page. 
+If you pay by Direct Debit and want to apply for the fellowship status you will need to log in to your [BCA membership](/membership/) and apply through your membership page. 
