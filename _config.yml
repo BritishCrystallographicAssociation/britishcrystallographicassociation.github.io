@@ -28,7 +28,7 @@ repository:  BritishCrystallographicAssociation/britishcrystallographicassociati
 author:
   links:
     - label: "Bluesky"
-      icon: "fa-solid fa-square"
+      icon: "fa-brands fa-bluesky"
       url: "https://bsky.app/profile/crystallography.org.uk"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
