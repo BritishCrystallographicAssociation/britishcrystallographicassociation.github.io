@@ -21,16 +21,15 @@ description: >- # this means to ignore newlines until "baseurl:"
   Biology, Physics, Materials science and Engineering.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: britcryst
 github_username:  BritishCrystallographicAssociation
 
 repository:  BritishCrystallographicAssociation/britishcrystallographicassociation.github.io
 
 author:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/britcryst"
+    - label: "Bluesky"
+      icon: "fa-solid fa-square"
+      url: "https://bsky.app/profile/crystallography.org.uk"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/britishcrystallography"
