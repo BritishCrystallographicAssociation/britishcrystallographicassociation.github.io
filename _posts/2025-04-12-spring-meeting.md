@@ -10,6 +10,6 @@ Please check your email for joining instructions for the BCA Spring Meeting 2025
 
 [Scientific Programme](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/tOtherPage.csp?pageID=122658&ef_sel_menu=2343&eventID=304)
 
-[Conference programme](https://cdn.eventsforce.net/files/ef-px6ci6a56tzs/website/304/92e9849b-df4d-417e-9099-64a775af3414/bca_2025.pdf)
+[Conference programme book (pdf)](https://cdn.eventsforce.net/files/ef-px6ci6a56tzs/website/304/92e9849b-df4d-417e-9099-64a775af3414/bca_2025.pdf)
 
 [Travel Information](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/tOtherPage.csp?pageID=122664&ef_sel_menu=2346&eventID=304)
