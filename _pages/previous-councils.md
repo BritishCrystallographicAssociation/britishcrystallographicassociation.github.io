@@ -11,6 +11,71 @@
 
 
 Notes: Dates within ( ) indicate year due for re-election or retirement
+## BCA council 2025-2026
+
+### Officers
+* President & Representative to Scientific Unions Committee (SUC) of the Royal Society: Dr Alexandra Gibbs (2027)
+* Vice-President: Suzanna Ward (2028)
+* Secretary: Dr Lauren Hatcher (2028)
+* Treasurer: Dr Claire Naylor (2026) 
+
+### Education and Outreach Coordinator
+* Dr Ilaria Gimondi (2027)
+
+### Ordinary Members
+
+* Dr Lucy Saunders (2028) 
+* Dr Briony Yorke (2026) 
+
+### Group Representatives:
+
+* Dr Mark Montgomery (Biological Structures)
+* Dr Natalie Pridmore (Chemical Crystallography)
+* Dr Thomas Hitchings (Early Stage Crystallographers Group)
+* Dr Helen Blade (Industrial) 
+* Dr Helen Playford (Physical Crystallography)  
+
+### Co-opted members
+
+### Ex officio
+* Professor Jon Cooper (Crystallography News Editor)
+* Nicola Hardaker, HG3 Ltd (BCA Administrative Officer)
+
+
+## BCA council 2024-2025
+
+### Officers
+* President & Representative to Scientific Unions Committee (SUC) of the Royal Society: Dr Alexandra Gibbs (2027)
+* Vice-President: Suzanna Ward (2025)
+* Secretary: Dr Lauren Hatcher (2025)
+* Treasurer: Dr Claire Naylor (2026) 
+
+### Education and Outreach Coordinator
+* Dr Ilaria Gimondi (2027)
+
+### Ordinary Members
+
+* Dr Lucy Saunders (2025) 
+* Dr Briony Yorke (2026)
+* Dr Jeremiah Tidey (2027)
+
+### Group Representatives:
+
+* Dr Mark Montgomery (Biological Structures)
+* Dr Natalie Pridmore (Chemical Crystallography)
+* Dr Thomas Hitchings (Early Stage Crystallographers Group)
+* Dr Helen Blade (Industrial) 
+* Dr Helen Playford (Physical Crystallography)  
+
+### Co-opted members
+Prof Katharina Edkins  (2025 Spring Meeting Programme chair)
+
+### Ex officio
+* Professor Jon Cooper (Crystallography News Editor)
+* Nicola Hardaker, HG3 Ltd (BCA Administrative Officer)
+* Dr Claire Hobday (BCA webmaster) University of Edinburgh
+
+
 
 ## BCA council 2023-2024
 
