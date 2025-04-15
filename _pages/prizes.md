@@ -27,6 +27,7 @@ Nominations for this prize are welcomed from any part of the crystallographic co
 - 2015 Sir Tom Blundell (University of Cambridge) “Dorothy Hodgkin, Structural Biology and Drug Discovery”
 - 2018 Prof. Eleanor Dodson (University of York) “The Joy of Seeing – in Honour of Dorothy Hodgkin”
 - 2022 Prof. Elspeth Garman (University of Oxford) “Macromolecular Crystallography in 112 AD (After Dorothy)”
+- 2025 Prog. Martin Noble (Newcastle University)
 
 ## The Bragg Lecture
 
@@ -90,6 +91,10 @@ Recently, the Lonsdale Lecture is awarded by the BCA on the recommendation of th
 - 2019 Prof. George Sheldrick (Gottingen) “SHELXT = dual space structure determination using the phases to determine the space group”
 - 2021 Dr. Lucy Clark (Liverpool) “Quantum Magnetism and Crystallographic Complexity in Mineral Materials”
 - 2022 Prof. Andrew Goodwin (Oxford) “Disorder by design: from form to function”
+- 2023 Prof Kate Brown (University of Cambridge/University of Texas at Austin) “From Angstroms to kilometres and back again: Science at
+interfaces and the importance of belonging”
+- 2024 Dr Helena Shepherd (University of Kent) “Thermally Responsive Molecules and Materials”
+- 2025 Dr Emma McCabe “Breaking inversion symmetry: strategies and consequences”
 
 ## The BCA Prize Lecture
 
