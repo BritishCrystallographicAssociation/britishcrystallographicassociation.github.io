@@ -4,7 +4,9 @@ date:   2025-04-12 18:00:00 +0100
 categories: news 
 ---
 
-Please check your email for joining instructions for the BCA Spring Meeting 2025 14-17 April 2024
+Please check your email for joining instructions for the BCA Spring Meeting 2025 14-17 April 2025
+
+The registration desk, commerical exhibition and posters are located in the Leeds Student Union building. Lectures are in the nearby Michael Sadler building.
 
 [Spring Meeting website](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=119990&eventID=304&CSPCHD=000001000000KuiN7FNdHGsR0dlibAQIRFOdsCLELTibPSiKuw)
 
