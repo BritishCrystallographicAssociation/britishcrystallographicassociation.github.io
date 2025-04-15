@@ -20,7 +20,7 @@ KY16 9ST
  
 ## Vice-President
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/Suz1.jpg){: .align-right}{:width="200px"}
-### Suzanna Ward (2025)  
+### Suzanna Ward (2028)  
 Head of Data and Community   
 The CCDC  
 12 Union Road  
@@ -29,7 +29,7 @@ Cambridge CB2 1EZ
 
 ## Secretary
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/Photo_L-Hatcher.jpg){: .align-right}{:width="200px"}
-### Dr Lauren Hatcher (2025)  
+### Dr Lauren Hatcher (2028)  
 School of Chemistry  
 Cardiff University Main Building  
 Park Place  
@@ -49,7 +49,7 @@ Email: treasurer@crystallography.org.uk
 
 ## Education and Outreach Coordinator
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/Ilaria_Gimondi.jpg){: .align-right}{:width="200px"}
-### Dr Ilaria Gimondi (2024)  
+### Dr Ilaria Gimondi (2027)  
 Education and Outreach Officer  
 CCDC  
 12 Union Road  
@@ -57,14 +57,8 @@ Cambridge CB2 1EZ
 
 ## Ordinary Members
 
-### Dr Cheryl Doherty (2024) 
+### Dr Lucy Saunders (2028)
 #### Bursary Officer (2019-present)
-GSK  
-Stevenage  
-Herts SG1 2NY  
-Email: cheryl.x.doherty@gsk.com
-
-### Dr Lucy Saunders (2025)
 Diamond Light Source  
 Harwell Science and Innovation Campus  
 Didcot, Oxfordshire OX11 0DE  
