@@ -41,7 +41,7 @@ Email: secretary@crystallography.org.uk
 ## Treasurer
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/clairenaylor.jpeg){: .align-right}{:width="200px"}
 ### Dr Claire Naylor (2026)
-Quantifoil Micro Tools GmbH  
+Thermo Fisher Scientific   
 Email: treasurer@crystallography.org.uk
 
 <br>
@@ -135,9 +135,13 @@ Email: news@crystallography.org.uk
 ### Nicola Hardaker, HG3 Ltd (BCA Administrative Officer).
 Email: bca@hg3.co.uk
 
-### Webmaster (vacant)
-Please contact Richard Cooper for information  
-Email: web@crystallography.org.uk  
+### Dr Ben Coulson (Webperson)
+Diamond Light Source Ltd   
+Harwell Science & Innovation Campus   
+Didcot   
+Oxfordshire   
+OX11 0DE   
+Email: ben.coulson@diamond.ac.uk
 
 Notes: Dates within ( ) indicate year due for re-election or retirement
 
