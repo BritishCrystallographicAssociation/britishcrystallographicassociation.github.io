@@ -27,7 +27,7 @@ Nominations for this prize are welcomed from any part of the crystallographic co
 - 2015 Sir Tom Blundell (University of Cambridge) “Dorothy Hodgkin, Structural Biology and Drug Discovery”
 - 2018 Prof. Eleanor Dodson (University of York) “The Joy of Seeing – in Honour of Dorothy Hodgkin”
 - 2022 Prof. Elspeth Garman (University of Oxford) “Macromolecular Crystallography in 112 AD (After Dorothy)”
-- 2025 Prog. Martin Noble (Newcastle University)
+- 2025 Prof. Martin Noble (Newcastle University)
 
 ## The Bragg Lecture
 
