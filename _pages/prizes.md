@@ -98,7 +98,7 @@ interfaces and the importance of belonging”
 
 ## The BCA Prize Lecture
 
-The BCA Prize Lecture is awarded triennially. The awardee will be someone who has made a notable contribution to scientific research in which crystallography has played a central role. Nominations are welcomed from any part of the crystallographic community and should be sent by email to the BCA President (president@crystallography.org.uk) together with a short (&lt; 500 words) case supporting the nomination. The lecture will be awarded in 2019 and then in 2022 with a nomination deadline in early 2021.
+The BCA Prize Lecture is awarded triennially. The awardee will be someone who has made a notable contribution to scientific research in which crystallography has played a central role. Nominations are welcomed from any part of the crystallographic community and should be sent by email to the BCA President (president@crystallography.org.uk) together with a short (&lt; 500 words) case supporting the nomination.
 
 - 2002 Prof. Bill David (ISIS/RAL)
 - 2005 Dr. Andrew Leslie (MRC LMB Cambridge)
