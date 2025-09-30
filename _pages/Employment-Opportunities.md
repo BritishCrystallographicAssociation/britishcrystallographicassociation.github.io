@@ -10,4 +10,4 @@
 ---
 
 
-Send brief notices about jobs, meetings, software releases, new publications or other activities of crystallographic interest to our webmaster (web@crystallography.org).
+Please send brief notices about jobs, meetings, software releases, new publications or other activities of crystallographic interest to our webmaster (web@crystallography.org).
