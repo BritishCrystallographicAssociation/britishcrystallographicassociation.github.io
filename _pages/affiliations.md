@@ -12,7 +12,7 @@ We are a national member of the following two organisations.
 
 The BCA is a Category V Adhering Body of the IUCr. This means that the BCA is the body that represents the UK community views to the IUCr.
 
-[iucr.org/](http://https://www.iucr.org/) 
+Further information can be found [here](https://www.iucr.org/).
 
 ## The European Crystallographic Association (ECA)
 
