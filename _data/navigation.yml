@@ -8,7 +8,7 @@ main:
     url: /crystallography-news/
   - title: "Prizes and Bursaries"
     url: /prizes/
-  - label: Community
+  - title: Community
     children:
       - title: "Education"
         url: /education/
