@@ -8,7 +8,8 @@
 
 ## Spring meetings of the British Crystallographic Association
 
-The annual Spring Meeting of the BCA brings together all four subject groups and The Early Stage Crystallographers Group for a two-day conference in the UK.
+The annual Spring Meeting of the BCA brings together all four subject groups and the Early Stage Crystallographers Group for a two-day conference in the UK. The Spring Meeting will feature a wide range of crystallography talks, including various prize lectures and the BCA annual general meeting, to which all members are invited.
+
 ### Next meeting
 
 We are delighted to announce that the BCA Spring Meeting 2026 will take place in-person on **Monday 30th March - Tuesday 1st April 2026**.

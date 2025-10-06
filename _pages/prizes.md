@@ -68,7 +68,7 @@ In 1985 the Bragg Lecture Fund Committee considered whether they should organize
 
 The September 1986 issue of Crystallography News page 5 reported that the BCA Council had decided to inaugurate a series of annual lectures to commemmorate the work of the late Dame Kathleen Lonsdale. The December 1987 issue on page 7 records that the 1st Lonsdale lecture was given by our BCA President David Blow.
 
-Recently, the Lonsdale Lecture is awarded by the BCA on the recommendation of the Young Crystallographers Group. The range of topics encompass all areas of crystallography and diffraction and the lectures tend to have an element of teaching.
+Recently, the Lonsdale Lecture is awarded by the BCA on the recommendation of the Early Stage Crystallographers Group (ESCG). The range of topics encompass all areas of crystallography and diffraction and the lectures tend to have an element of teaching.
 
 - 1987 Prof. David Blow (Imperial) “Enzyme Engineering” (at Belfast BAAS meeting August)
 - 1988 Prof. Michael Hart (Bristol) “Synchrotron Radiation throws Light on a Microscopic World” (at Oxford BAAS meeting September)
