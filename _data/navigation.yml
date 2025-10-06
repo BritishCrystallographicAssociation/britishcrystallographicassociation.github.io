@@ -9,15 +9,17 @@ main:
   - title: "Prizes and Bursaries"
     url: /prizes/
   - title: Community
+    has_children: True
     children:
       - title: "Education"
         url: /education/
-    children:
+        parent: Community
       - title: "Employment Opportunities"
         url: /jobs/
-    children:
+        parent: Community
       - title: "Affiliated Organizations"
         url: /affiliated_organisations/
+        parent: Community
 
 about:
   - title: "About the BCA"
