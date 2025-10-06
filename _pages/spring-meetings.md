@@ -8,7 +8,7 @@
 
 ## Spring meetings of the British Crystallographic Association
 
-The annual Spring Meeting of the BCA brings together all four subject groups and the Early Stage Crystallographers Group for a two-day conference in the UK. The Spring Meeting feature a wide range of crystallography talks, including various prize lectures and the BCA annual general meeting, to which all members are invited.
+The annual Spring Meeting of the BCA brings together all four subject groups and the Early Stage Crystallographers Group for a two-day conference in the UK. The Spring Meeting will feature a wide range of crystallography talks, including various prize lectures and the BCA annual general meeting, to which all members are invited.
 
 ### Next meeting
 
