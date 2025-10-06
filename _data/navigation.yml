@@ -8,15 +8,12 @@ main:
     url: /crystallography-news/
   - title: "Prizes and Bursaries"
     url: /prizes/
-  - title: Community
-    dropdown:
-      - title: "Education"
-        url: /education/
-      - title: "Employment Opportunities"
-        url: /jobs/
-      - title: "Affiliated Organizations"
-        url: /affiliated_organisations/
-        
+  - title: "Affiliated Organizations"
+    url: /affiliated_organisations/
+  - title: "Education"
+    url: /education/
+  - title: "Employment Opportunities"
+    url: /jobs/        
 
 about:
   - title: "About the BCA"
