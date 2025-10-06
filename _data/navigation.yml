@@ -1,18 +1,23 @@
 # main links
 main:
-  - title: "About"
+  - title: "About Us"
     url: /about/
-  - title: "News"
+  - title: "Meetings"
+    url: /spring-meetings/
+  - title: "Crystallography News"
     url: /crystallography-news/
   - title: "Prizes and Bursaries"
     url: /prizes/
-  - title: "Education"
-    url: /education/
-  - title: "Meetings"
-    url: /spring-meetings/
-  - title: "Employment Opportunities"
-    url: /jobs/
-
+  - label: Community
+    children:
+      - title: "Education"
+        url: /education/
+    children:
+      - title: "Employment Opportunities"
+        url: /jobs/
+    children:
+      - title: "Affiliated Organizations"
+        url: /affiliated_organisations/
 
 about:
   - title: "About the BCA"
@@ -41,7 +46,6 @@ about:
     url: /membership/founders/ 
   - title: "Members area"
     url: /membership/member-login/
-
 
 prizes: 
   - title: "BCA Prizes"
