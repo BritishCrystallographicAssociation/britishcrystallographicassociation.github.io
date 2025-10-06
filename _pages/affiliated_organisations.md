@@ -1,14 +1,21 @@
 ---
-   title: "Affiliated Organisations"
+   title: "Affiliations"
    layout: single
-   permalink: /affiliated_organisations/
+   permalink: /affiliations/
    sidebar:
-     nav: "affilicated_organisations"
+     nav: "affiliations"
 ---
 
+We are a national member of the following two organisations. 
 
-We work in partnership with several international crystallographic communities, including those listed below.
+## International Union of Crystallography (IUCr)
 
-## Example 1
+The BCA is a Category V Adhering Body of the IUCr. This means that the BCA is the body that represents the UK community views to the IUCr.
 
-text
+[iucr.org/](http://https://www.iucr.org/) 
+
+## The European Crystallographic Association (ECA)
+
+The BCA is an Adhering Body of the ECA. Members of the BCA are encouraged to obtain individual ECA membership. This gives access to numerous member benefits, including prize elegibility, grants and bursaries, crystallography schools, conferences, meetings and workshops.
+
+Further information can be found [here](https://ecanews.org/about-eca/membership/individual-members/).
