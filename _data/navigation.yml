@@ -9,12 +9,12 @@ main:
   - title: "Prizes and Bursaries"
     url: /prizes/
   - title: Community
-    subfolderitems:
-      - page: "Education"
+    dropdown:
+      - title: "Education"
         url: /education/
-      - page: "Employment Opportunities"
+      - title: "Employment Opportunities"
         url: /jobs/
-      - page: "Affiliated Organizations"
+      - title: "Affiliated Organizations"
         url: /affiliated_organisations/
         
 
