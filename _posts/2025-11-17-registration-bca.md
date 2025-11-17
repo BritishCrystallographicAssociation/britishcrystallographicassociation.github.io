@@ -1,6 +1,6 @@
 ---
 title:  "Registration for BCA Spring Meeting 2026"
-date:   2025-11-17 10:00:00 +0000
+date:   2025-11-17 10:10:00 +0000
 categories: news
 ---
 
