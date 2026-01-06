@@ -12,9 +12,9 @@ The annual Spring Meeting of the BCA brings together all four subject groups and
 
 ### Next meeting
 
-We are delighted to announce that the BCA Spring Meeting 2026 will take place in-person on **Monday 30th March - Tuesday 1st April 2026**. We look forward to seeing you there!
+We are delighted to announce that the BCA Spring Meeting 2026 will take place in-person on **Monday 30th March - Wednesday 1st April 2026**. We look forward to seeing you there!
 
-**Abstract submission and registration, along with the scientific programme and confirmed speakers, can be found at the conference website [here](https://tinyurl.com/BCASpring2026).**
+**Abstract submission and registration, along with the scientific programme and confirmed speakers, can be found at the conference website [here](https://tinyurl.com/BCASpring2026). Abstract submission deadline is 09:00 Monday 19th January.**
 
 
 ### Previous meetings
