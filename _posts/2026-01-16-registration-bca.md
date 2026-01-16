@@ -1,6 +1,6 @@
 ---
 title:  "Don't forget to submit your abstracts for the BCA Spring Meeting!"
-date:   2025-01-16 11:45:00 +0100
+date:   2026-01-16 11:49:00 +0100
 categories: news
 ---
 
