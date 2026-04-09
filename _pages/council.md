@@ -7,18 +7,19 @@
 ---
 
 ## President & Representative to Scientific Unions Committee (SUC) of the Royal Society
-### Dr Alexandra Gibbs (2027)
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/agibbs.jpg){: .align-right}{:width="200px"}
+### Dr Alexandra Gibbs (2027)
 School of Chemistry  
 North Haugh  
 St Andrews  
 Fife  
 KY16 9ST  
-[E-mail](mailto:president@crystallography.org.uk)  
+president@crystallography.org.uk 
 
- <br>
+<br>
  
 ## Acting Vice-President
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/jtidey.jpg){: .align-right}{:width="200px"}
 ### Dr Jeremiah Tidey (2027)
 Department of Chemistry  
 University of Warwick  
@@ -35,7 +36,7 @@ School of Chemistry
 Cardiff University Main Building  
 Park Place  
 Cardiff CF10 3AT  
-Email: secretary@crystallography.org.uk  
+secretary@crystallography.org.uk  
 
 <br>
 
@@ -44,7 +45,7 @@ Email: secretary@crystallography.org.uk
 Syngenta Jealott's Hill International Research Centre  
 Bracknell  
 Berkshire RG42 6EY, UK  
-Email: treasurer@crystallography.org.uk
+treasurer@crystallography.org.uk
 
 <br>
 
@@ -104,7 +105,7 @@ Tel: +44 (0)1235 446890
 ### Dr Daniel Rainer (Early Stage Crystallographers Group)
 UK National Crystallography Service (NCS)
 Email: ycg@crystallography.org.uk  
- 
+
 
 ## Co-opted members
 
@@ -127,7 +128,9 @@ Harwell Science & Innovation Campus
 Didcot   
 Oxfordshire   
 OX11 0DE   
-Email: ben.coulson@diamond.ac.uk
+Email: web@crystallography.org.uk
+
+<br>
 
 Notes: Dates within ( ) indicate year due for re-election or retirement
 
