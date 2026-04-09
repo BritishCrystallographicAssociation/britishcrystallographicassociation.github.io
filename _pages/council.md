@@ -18,13 +18,14 @@ KY16 9ST
 
  <br>
  
-## Vice-President
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/Suz1.jpg){: .align-right}{:width="200px"}
-### Suzanna Ward (2028)  
-Head of Data and Community   
-The CCDC  
-12 Union Road  
-Cambridge CB2 1EZ  
+## Acting Vice-President
+### Dr Jeremiah Tidey (2027)
+Department of Chemistry  
+University of Warwick  
+Gibbet Hill  
+Coventry  
+CV4 7AL  
+
 <br>
 
 ## Secretary
@@ -39,12 +40,12 @@ Email: secretary@crystallography.org.uk
 <br>
 
 ## Treasurer
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/clairenaylor.jpeg){: .align-right}{:width="200px"}
-### Dr Claire Naylor (2026)
-Thermo Fisher Scientific   
+### Dr Mark Montgomery
+Syngenta Jealott's Hill International Research Centre  
+Bracknell  
+Berkshire RG42 6EY, UK  
 Email: treasurer@crystallography.org.uk
 
-<br>
 <br>
 
 ## Education and Outreach Coordinator
@@ -54,17 +55,22 @@ Education and Outreach Officer
 CCDC  
 12 Union Road  
 Cambridge CB2 1EZ  
+Email: education@crystallography.org.uk
 
-## Ordinary Members
+<br>
 
+## Bursary Officer (2019-present)
 ### Dr Lucy Saunders (2028)
-#### Bursary Officer (2019-present)
+
 Diamond Light Source  
 Harwell Science and Innovation Campus  
 Didcot, Oxfordshire OX11 0DE  
 Tel: +44 (0)1235 778 000  
 Email: lucy.saunders@diamond.ac.uk
- 
+
+<br>
+
+## Ordinary Members
 ### Dr Briony Yorke (2026)
 School of Chemistry  
 University of Leeds  
@@ -72,23 +78,9 @@ Leeds, LS2 9JT
 Tel: +44 (0)113 34 36543  
 Email: B.A.Yorke@leeds.ac.uk  
 
-### Dr Jeremiah Tidey (2027)
-Department of Chemistry  
-University of Warwick  
-Gibbet Hill  
-Coventry  
-CV4 7AL  
-Email: Jere.Tidey@warwick.ac.uk
- 
 ## Group Representatives:
 
-### Dr Mark Montgomery (Biological Structures)
-Syngenta Jealott's Hill International Research Centre  
-Bracknell  
-Berkshire RG42 6EY, UK  
-Email: mark.montgomery@syngenta.com
- 
-### Dr Natalie Pridmore 
+### Dr Natalie Pridmore (Chemical Crystallography)
 Department of Chemistry  
 Durham University  
 South Road  
@@ -101,7 +93,6 @@ Charter Way
 Macclesfield   
 SK10 2NA  
 Email: Helen.blade@astrazeneca.com
-
  
 ### Dr Helen Playford (Physical Crystallography)
 STFC ISIS Facility  
@@ -110,19 +101,14 @@ Didcot OX11 0QX
 Email: helen.playford@stfc.ac.uk  
 Tel: +44 (0)1235 446890
  
-### Dr Thomas Hitchings (Early Stage Crystallographers Group)
-Materials for Energy and Electronics (MEE) Group  
-School of Physical Sciences  
-University of Kent  
-CT2 7NH  
+### Dr Daniel Rainer (Early Stage Crystallographers Group)
+UK National Crystallography Service (NCS)
 Email: ycg@crystallography.org.uk  
  
 
 ## Co-opted members
 
 None
-
-
  
 ## Ex officio
 ### Professor Jon Cooper (Crystallography News Editor)
