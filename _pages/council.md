@@ -94,7 +94,7 @@ Didcot OX11 0QX
 helen.playford@stfc.ac.uk  
  
 ### Dr Daniel Rainer (Early Stage Crystallographers Group) 
-UK National Crystallography Service (NCS) 
+UK National Crystallography Service (NCS)  
 ycg@crystallography.org.uk  
 
 <br>
