@@ -56,7 +56,7 @@ Education and Outreach Officer
 CCDC  
 12 Union Road  
 Cambridge CB2 1EZ  
-Email: education@crystallography.org.uk
+education@crystallography.org.uk
 
 <br>
 
@@ -67,17 +67,9 @@ Diamond Light Source
 Harwell Science and Innovation Campus  
 Didcot, Oxfordshire OX11 0DE  
 Tel: +44 (0)1235 778 000  
-Email: lucy.saunders@diamond.ac.uk
+lucy.saunders@diamond.ac.uk
 
 <br>
-
-## Ordinary Members
-### Dr Briony Yorke (2026)
-School of Chemistry  
-University of Leeds  
-Leeds, LS2 9JT  
-Tel: +44 (0)113 34 36543  
-Email: B.A.Yorke@leeds.ac.uk  
 
 ## Group Representatives:
 
@@ -86,41 +78,50 @@ Department of Chemistry
 Durham University  
 South Road  
 Durham, DH1 3LE  
-Email: natalie.e.pridmore@durham.ac.uk
+natalie.e.pridmore@durham.ac.uk
  
 ### Dr Helen Blade (Industrial)
 AstraZeneca  
 Charter Way  
 Macclesfield   
 SK10 2NA  
-Email: Helen.blade@astrazeneca.com
+helen.blade@astrazeneca.com
  
 ### Dr Helen Playford (Physical Crystallography)
 STFC ISIS Facility  
 Rutherford Appleton Laboratory  
 Didcot OX11 0QX  
-Email: helen.playford@stfc.ac.uk  
-Tel: +44 (0)1235 446890
+helen.playford@stfc.ac.uk  
  
-### Dr Daniel Rainer (Early Stage Crystallographers Group)
-UK National Crystallography Service (NCS)
-Email: ycg@crystallography.org.uk  
+### Dr Daniel Rainer (Early Stage Crystallographers Group) 
+UK National Crystallography Service (NCS) 
+ycg@crystallography.org.uk  
 
+<br>
+
+## Ordinary Members
+### Dr Briony Yorke (2026)
+School of Chemistry  
+University of Leeds  
+Leeds, LS2 9JT  
+b.a.yorke@leeds.ac.uk  
 
 ## Co-opted members
 
 None
  
+<br>
+
 ## Ex officio
 ### Professor Jon Cooper (Crystallography News Editor)
 UCL 
 Gower Street  
 London  
 WC1E 6BT  
-Email: news@crystallography.org.uk
+news@crystallography.org.uk
 
 ### Nicola Hardaker, HG3 Ltd (BCA Administrative Officer).
-Email: bca@hg3.co.uk
+bca@hg3.co.uk
 
 ### Dr Ben Coulson (Webperson)
 Diamond Light Source Ltd   
@@ -128,7 +129,7 @@ Harwell Science & Innovation Campus
 Didcot   
 Oxfordshire   
 OX11 0DE   
-Email: web@crystallography.org.uk
+web@crystallography.org.uk
 
 <br>
 
