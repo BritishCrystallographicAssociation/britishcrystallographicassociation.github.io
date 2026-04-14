@@ -41,6 +41,7 @@ secretary@crystallography.org.uk
 <br>
 
 ## Treasurer
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/mmontgomery.png){: .align-right}{:width="200px"}
 ### Dr Mark Montgomery
 Syngenta Jealott's Hill International Research Centre  
 Bracknell  
