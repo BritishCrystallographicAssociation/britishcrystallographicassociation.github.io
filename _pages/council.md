@@ -50,7 +50,7 @@ treasurer@crystallography.org.uk
 
 <br>
 
-## Education and Outreach Coordinator
+## Education and Outreach Officer
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/Ilaria_Gimondi.jpg){: .align-right}{:width="200px"}
 ### Dr Ilaria Gimondi (2027)  
 Education and Outreach Officer  
@@ -74,25 +74,21 @@ lucy.saunders@diamond.ac.uk
 
 ## Group Representatives:
 
-### Dr Natalie Pridmore (Chemical Crystallography)
+### Dr Natalie Pridmore (Chemical Crystallography Group)
 Department of Chemistry  
 Durham University  
 South Road  
 Durham, DH1 3LE  
 natalie.e.pridmore@durham.ac.uk
  
-### Dr Helen Blade (Industrial)
-AstraZeneca  
-Charter Way  
-Macclesfield   
-SK10 2NA  
-helen.blade@astrazeneca.com
+### Dr Luca Russo (Industrial Crystallography Group)
+GlaxoSmithKline
  
-### Dr Helen Playford (Physical Crystallography)
+### Dr Helen Playford (Physical Crystallography Group)
 STFC ISIS Facility  
 Rutherford Appleton Laboratory  
 Didcot OX11 0QX  
-helen.playford@stfc.ac.uk  
+helen.playford@stfc.ac.uk
  
 ### Dr Daniel Rainer (Early Stage Crystallographers Group) 
 UK National Crystallography Service (NCS)  
@@ -109,7 +105,11 @@ b.a.yorke@leeds.ac.uk
 
 ## Co-opted members
 
-None
+### Dr Laksha Parameswaran (ED&I Advisor)
+Bruker
+
+### Dr Anuradha Pallipurath (IUCr 2038 Bid Representative)
+University of Leeds
  
 <br>
 
