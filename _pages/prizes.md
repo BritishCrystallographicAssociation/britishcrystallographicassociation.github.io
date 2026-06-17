@@ -107,4 +107,5 @@ The BCA Prize Lecture is awarded triennially. The awardee will be someone who ha
 - 2016 Prof. Christer Aakeröy (Kansas State University) “From molecular sociology to functional materials”
 - 2019 Prof. Clare Grey (Cambridge) “Developing and optimising the function of Li-ion and 'beyond Li' batteries and supercapacitors by advanced characterization methods”
 - 2023 Prof. Aurora Cruz Cabeza (Durham) “Beyond the bulk: when shall we care about surfaces in molecular crystals?”
+- 2026 Prof. Kenneth Harris (Cardiff) 
 

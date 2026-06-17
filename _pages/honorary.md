@@ -11,7 +11,6 @@ Honorary Life Membership is the BCA’s highest membership accolade. The award i
 
 Current Honorary members are listed below [updated April 2022]. Date of award in parenthesis.
 
--    Professor Paul Barnes (2005)
 -    Professor Sandy Blake (2019)
 -    Dr Jane Brown (2002)
 -    Professor Bill Clegg (2010)
@@ -55,5 +54,6 @@ Former Honorary Members of the BCA
 -    Professor George Sheldrick (2005-2025)
 -    Professor Terry Willis (1999-2018)
 -    Professor Michael Woolfson (2002-2019)
+-    Professor Paul Barnes (2005-2026)
 
 

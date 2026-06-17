@@ -80,6 +80,9 @@ Durham University
 South Road  
 Durham, DH1 3LE  
 natalie.e.pridmore@durham.ac.uk
+
+### Dr Rachael Wilkinson (Biological Crystallography Group)
+University of Leicester
  
 ### Dr Luca Russo (Industrial Crystallography Group)
 GlaxoSmithKline
