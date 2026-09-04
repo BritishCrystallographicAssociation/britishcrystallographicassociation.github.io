@@ -106,6 +106,9 @@ University of Leeds
 Leeds, LS2 9JT  
 b.a.yorke@leeds.ac.uk  
 
+### Suzanna Ward
+CCDC
+
 ## Co-opted members
 
 ### Dr Laksha Parameswaran (ED&I Advisor)
