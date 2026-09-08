@@ -1,12 +1,10 @@
 ---
-   title: "Tender for BCA Meeting"
+   title: "Invitation to Tender: Membership and Conference Services"
    layout: single
    permalink: /tender/
    sidebar:
      nav: "tender"
 ---
-
-## Invitation to Tender: Membership and Conference Services
 
 The British Crystallographic Association, a UK scientific association with approximately 600 members, is inviting tenders for the provision of membership and conference services, under either (i) a single contract covering both services or (ii) contracts covering the two services separately, commencing summer 2027.
 
