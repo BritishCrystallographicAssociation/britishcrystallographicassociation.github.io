@@ -19,7 +19,7 @@ president@crystallography.org.uk
 <br>
  
 ## Acting Vice-President
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/jtidey.jpg){: .align-right}{:width="200px"}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/jtidey.jpg){: .align-right}{:width="150px"}
 ### Dr Jeremiah Tidey (2027)
 Department of Chemistry  
 University of Warwick  
