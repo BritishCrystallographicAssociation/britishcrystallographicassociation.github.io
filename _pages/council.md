@@ -26,6 +26,7 @@ University of Warwick
 Gibbet Hill  
 Coventry  
 CV4 7AL  
+vice-president@crystallography.org.uk 
 
 <br>
 
@@ -100,7 +101,7 @@ ycg@crystallography.org.uk
 <br>
 
 ## Ordinary Members
-### Dr Briony Yorke (2026)
+### Dr Briony Yorke (2029)
 School of Chemistry  
 University of Leeds  
 Leeds, LS2 9JT  
