@@ -1,6 +1,6 @@
 ---
 title:  "Applications open for the BCA/CCG Intensive Teaching School in X-ray Structure Analysis"
-date:   2026-10-16 10:45:00 +0100
+date:   2026-10-16 11:59:00 +0100
 categories: news
 ---
 
