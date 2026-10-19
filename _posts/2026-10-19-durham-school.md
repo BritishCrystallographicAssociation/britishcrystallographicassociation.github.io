@@ -10,3 +10,9 @@ More details about the school and registration can be found at [https://bcaccgsc
 
 If you have any queries or need further information, please email natalie.e.pridmore@durham.ac.uk.
 
+
+<figure style="width: 554px" class="align-centre">
+  <img src="{{ "/assets/images/posts/durham2027.png" | relative_url }}" alt="">
+  <figcaption>21st  BCA/CCG Intensive Teaching School in X-ray Structure Analysis</figcaption>
+</figure> 
+
