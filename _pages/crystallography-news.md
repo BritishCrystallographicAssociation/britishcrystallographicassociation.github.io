@@ -16,18 +16,9 @@ Crystallography News is published quarterly by the British Crystallographic Asso
 
 Please send articles or items for inclusion to the [Crystallography News Editor]({{ "/about/contact/#crystallography-news-editor" | relative_url }}). Items may be technical articles, news about crystallographers (e.g. awards, honours, retirement etc.), reports on past meetings of interest to crystallographers, notices of future meetings, historical reminiscences, letters to the editor, book, hardware or software reviews.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-| [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2026-03.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2026-03.pdf) | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2026-06.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2026-06.pdf) | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2026-09.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2026-09.pdf) |
-| March 2026 | June 2026 | September 2025 |
-=======
-| [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2026-03.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2026-03.pdf) | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2026-06.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2026-06.pdf) |
-| March 2026 | June 2026 |
->>>>>>> b31ed316bb80c0650e8733c59214412b6ba35567
-=======
+
 | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2026-03.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2026-03.pdf) | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2026-06.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2026-06.pdf) | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2026-09.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2026-09.pdf) |
 | March 2026 | June 2026 | September 2026 |
->>>>>>> 5ebc5ce9fe221900e6ee26545e6d4e70d6137d80
 | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2025-03.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2025-03.pdf) | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2025-06.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2025-06.pdf) | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2025-09.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2025-09.pdf) | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2025-12.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2025-12.pdf) |
 | March 2025 | June 2025 | September 2025 | December 2025 |
 | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2024-03.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2024-03.pdf) | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2024-06.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2024-06.pdf) | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2024-09.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2024-09.pdf) | [![Crystallography News]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2024-12.png)]({{ site.url }}{{ site.baseurl }}/assets/pdf/crystallography-news/2024-12.pdf)  |
